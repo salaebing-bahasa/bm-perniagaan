@@ -13,7 +13,7 @@ Pensyarah · ผู้สอน: ผศ.มูหำหมัด สาแลบ
 | `jadual.html` | Jadual 15 kelas | แผนการสอน 15 คาบ |
 | `pelajaran.html`, `bab/01.html`–`bab/14.html` | 14 bab pelajaran | บทเรียน 14 บท |
 | `penilaian.html` | Pecahan markah, rubrik projek, penilaian rakan, refleksi | การวัดผลและ Rubric |
-| `dokumen.html`, `dokumen/*.docx` | Dokumen versi pelajar | เอกสารฉบับนิสิต |
+| `dokumen.html`, `pdf/bab-NN.pdf` | PDF setiap bab | ไฟล์ PDF รายบท (เนื้อหาเหมือนหน้าเว็บ) |
 
 ## Mengemas kini · วิธีแก้ไขเนื้อหา
 
@@ -21,11 +21,13 @@ Pensyarah · ผู้สอน: ผศ.มูหำหมัด สาแลบ
 หลังแก้ไขให้สร้างหน้าเว็บใหม่ด้วยคำสั่ง
 
 ```
-python3 _src/build.py          # สร้างหน้าเว็บ
-python3 _src/build.py --docx   # สร้างหน้าเว็บ + ไฟล์ .docx ฉบับนิสิต (ต้องมี node และแพ็กเกจ docx)
+python3 _src/build.py   # สร้างหน้าเว็บ
+python3 _src/pdf.py     # สร้าง PDF รายบทจากหน้าเว็บ (ต้องมี playwright)
 ```
 
-ส่วนสำหรับผู้สอน (Ujian Pra/Pasca, Skrip Guru, Aktiviti Pembelajaran) ไม่แสดงบนเว็บและไม่อยู่ในไฟล์ฉบับนิสิต
-ส่วนเฉลยแบบฝึกหัดซ่อนไว้ในปุ่ม "ดูเฉลย"
+**เปิดเฉลยหลังสอน:** ใน `_src/build.py` เพิ่มเลขบทในบรรทัด `BUKA_JAWAPAN = []` เช่น `BUKA_JAWAPAN = [1, 2]`
+แล้วสร้างหน้าเว็บและ PDF ใหม่ บทที่ยังไม่เปิดจะแสดงข้อความ "เฉลยจะเปิดหลังเรียนคาบนี้" ทั้งบนเว็บและใน PDF
+
+ส่วนสำหรับผู้สอน (Ujian Pra/Pasca, Skrip Guru, Aktiviti Pembelajaran) ไม่แสดงบนเว็บและไม่อยู่ใน PDF
 
 สถิติผู้เข้าชม: GoatCounter รหัส `bm-perniagaan`

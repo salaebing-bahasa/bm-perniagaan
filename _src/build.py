@@ -2,15 +2,19 @@
 """Bina laman kursus 1503250 daripada fail _src/bab/babNN.json.
 สร้างเว็บไซต์ทั้งหมดจากไฟล์บทเรียน _src/bab/babNN.json
 
-    python3 _src/build.py            # HTML sahaja · สร้างเฉพาะหน้าเว็บ
-    python3 _src/build.py --docx     # HTML + dokumen/*.docx (perlu node + docx)
+    python3 _src/build.py      # bina HTML · สร้างหน้าเว็บ
+    python3 _src/pdf.py        # bina pdf/bab-NN.pdf daripada halaman bab · สร้าง PDF
 """
-import html, json, re, subprocess, sys, tempfile
+import html, json, re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "_src"
 GC = "bm-perniagaan"  # GoatCounter
+
+# Bab yang jawapannya sudah dibuka (selepas kelas diajar)
+# บทที่เปิดเฉลยแล้ว (หลังสอนคาบนั้น) เพิ่มเลขบทลงในรายการนี้ เช่น [1, 2, 3]
+BUKA_JAWAPAN = []
 
 KURSUS = {
     "kod": "1503250", "ms": "Bahasa Melayu untuk Perniagaan", "th": "ภาษามลายูเพื่อธุรกิจ",
@@ -81,7 +85,11 @@ def sel(c, head=False):
     return f"<{tag}>{inner}</{tag}>"
 
 
-def blok(b):
+TUTUP = ('<div class="jawapan-tutup"><span class="ms">Jawapan akan dibuka selepas kelas.</span>'
+         '<span class="th">เฉลยจะเปิดหลังเรียนคาบนี้</span></div>')
+
+
+def blok(b, buka=True):
     t = b["t"]
     if t == "bi":
         return f'<div class="bi"><p class="ms">{rich(b["ms"])}</p><p class="th">{rich(b["th"])}</p></div>'
@@ -90,6 +98,8 @@ def blok(b):
     if t == "p":
         txt = b["text"]
         if txt.startswith("**Jawapan"):
+            if not buka:
+                return TUTUP
             label, _, rest = txt.partition(":**")
             return ('<details class="jawapan"><summary>Tunjuk jawapan · ดูเฉลย</summary>'
                     f'<p>{rich(rest.strip())}</p></details>')
@@ -119,13 +129,30 @@ def blok(b):
     return ""  # pagebreak
 
 
-def seksyen(sec, idx):
-    isi = "".join(blok(b) for b in sec["blocks"])
+def seksyen(sec, idx, buka=True):
+    # tajuk kecil + blok pertama tidak dipisahkan semasa cetak · หัวข้อย่อยไม่แยกจากเนื้อหาตอนพิมพ์
+    bs = [b for b in sec["blocks"] if b["t"] != "pagebreak"]
+    parts, i = [], 0
+    while i < len(bs):
+        if bs[i]["t"] == "h2" and i + 1 < len(bs):
+            parts.append(f'<div class="ikat">{blok(bs[i], buka)}{blok(bs[i + 1], buka)}</div>')
+            i += 2
+        else:
+            parts.append(blok(bs[i], buka))
+            i += 1
     tajuk = re.sub(r"^\d+\.\s*", "", sec["ms"])
     if re.fullmatch(r"Jawapan", tajuk):
-        isi = f'<details class="jawapan"><summary>Tunjuk jawapan · ดูเฉลย</summary>{isi}</details>'
-    return (f'<section class="seksyen" id="s{idx}"><h2><span class="ms">{idx}. {esc(tajuk)}</span>'
-            f'<span class="th">{esc(sec["th"])}</span></h2>{isi}</section>')
+        parts = [TUTUP] if not buka else [
+            '<details class="jawapan"><summary>Tunjuk jawapan · ดูเฉลย</summary>' + "".join(parts) + "</details>"]
+    h = f'<h2><span class="ms">{idx}. {esc(tajuk)}</span><span class="th">{esc(sec["th"])}</span></h2>'
+    # tajuk seksyen + blok pertama diikat · ผูกหัวข้อกับเนื้อหาส่วนแรก
+    if parts and parts[0].startswith('<div class="ikat">'):
+        isi = parts[0].replace('<div class="ikat">', '<div class="ikat">' + h, 1) + "".join(parts[1:])
+    elif parts and len(parts[0]) < 4000:
+        isi = f'<div class="ikat">{h}{parts[0]}</div>' + "".join(parts[1:])
+    else:
+        isi = h + "".join(parts)
+    return f'<section class="seksyen" id="s{idx}">{isi}</section>'
 
 
 # ---------- rangka halaman ----------
@@ -244,7 +271,7 @@ def bina_html(bab):
 <div class="grid-3">
 <div class="panel"><h3><span class="ms">1 · Sebelum kelas</span></h3><p class="th">อ่านคำศัพท์และบทสนทนาของบทที่จะเรียนล่วงหน้า 10–15 นาที</p></div>
 <div class="panel"><h3><span class="ms">2 · Semasa kelas</span></h3><p class="th">เปิดบทเรียนในโทรศัพท์ ใช้ตารางคำศัพท์และบทสนทนาประกอบกิจกรรม</p></div>
-<div class="panel"><h3><span class="ms">3 · Selepas kelas</span></h3><p class="th">ทำแบบฝึกหัด กด "ซ่อนคำแปล" เพื่อทดสอบตัวเอง แล้วกด "ดูเฉลย" ตรวจคำตอบ</p></div>
+<div class="panel"><h3><span class="ms">3 · Selepas kelas</span></h3><p class="th">ทำแบบฝึกหัด กด "ซ่อนคำแปล" เพื่อทดสอบตัวเอง แล้วกด "ดูเฉลย" ตรวจคำตอบ (เฉลยเปิดหลังเรียนคาบนั้น)</p></div>
 </div></section>
 """
     (ROOT / "index.html").write_text(halaman("index.html", "Laman Utama", index), encoding="utf-8")
@@ -279,7 +306,8 @@ def bina_html(bab):
     # ---- bab ----
     for i, d in enumerate(bab):
         secs = [s for s in d["sections"] if not tersembunyi(s)]
-        isi_secs = "".join(seksyen(s, n + 1) for n, s in enumerate(secs))
+        buka = d["no"] in BUKA_JAWAPAN
+        isi_secs = "".join(seksyen(s, n + 1, buka) for n, s in enumerate(secs))
         toc = "".join(f'<a href="#s{n + 1}">{esc(re.sub(r"^\d+\.\s*", "", s["ms"]))}</a>' for n, s in enumerate(secs))
         sebelum = bab[i - 1] if i else None
         seterusnya = bab[i + 1] if i + 1 < len(bab) else None
@@ -295,7 +323,7 @@ def bina_html(bab):
 <header class="bab-kepala"><p class="kicker">Bab {d['no']} · Kelas {d['kelas']} · {esc(d['clo'])}</p>
 <h1><span class="ms">{esc(d['title_ms'])}</span><span class="th">{esc(d['title_th'])}</span></h1>
 <div class="alat"><button type="button" id="togol-th" aria-pressed="false">Sembunyikan terjemahan · ซ่อนคำแปล</button>
-<a class="alat-pautan" href="../dokumen/bab-{d['no']:02d}.docx" download>Muat turun · ดาวน์โหลด .docx</a>
+<a class="alat-pautan" href="../pdf/bab-{d['no']:02d}.pdf" download>Muat turun PDF · ดาวน์โหลด PDF</a>
 <button type="button" onclick="window.print()">Cetak · พิมพ์</button></div></header>
 <div class="bab-badan"><nav class="toc" aria-label="Kandungan bab"><p>Kandungan · สารบัญ</p>{toc}</nav>
 <div class="bab-isi">{isi_secs}</div></div>
@@ -327,37 +355,16 @@ def bina_html(bab):
     # ---- dokumen ----
     baris = "".join(
         f'<tr><td>Bab {d["no"]}</td><td><span class="ms">{esc(d["title_ms"])}</span><span class="th">{esc(d["title_th"])}</span></td>'
-        f'<td><a class="muat" href="dokumen/bab-{d["no"]:02d}.docx" download>.docx</a></td></tr>' for d in bab)
+        f'<td><a class="muat" href="pdf/bab-{d["no"]:02d}.pdf" download>PDF</a></td>'
+        f'<td>{"<span class=\"ms\">Ada</span><span class=\"th\">มีเฉลย</span>" if d["no"] in BUKA_JAWAPAN else "<span class=\"th\">เปิดหลังเรียน</span>"}</td></tr>' for d in bab)
     dok = f"""<section class="bahagian"><h1><span class="ms">Muat Turun</span><span class="th">ดาวน์โหลดเอกสารประกอบการเรียน</span></h1>
-<div class="bi"><p class="ms">Dokumen pelajaran untuk setiap bab (versi pelajar, format Word).</p>
-<p class="th">เอกสารประกอบการเรียนรายบท ฉบับนิสิต (ไฟล์ Word) เปิดได้ด้วย Microsoft Word, Google Docs หรือแอป Word ในโทรศัพท์</p></div>
-<div class="jadual-bungkus"><table><thead><tr><th>Bab</th><th>Tajuk<small>หัวข้อ</small></th><th>Fail<small>ไฟล์</small></th></tr></thead><tbody>{baris}</tbody></table></div>
-<p class="th nota">ต้องการไฟล์ PDF ให้เปิดบทเรียนบนเว็บแล้วกดปุ่ม "Cetak · พิมพ์" และเลือก "บันทึกเป็น PDF"</p></section>"""
+<div class="bi"><p class="ms">Dokumen pelajaran untuk setiap bab dalam format PDF. Jawapan latihan dimasukkan selepas bab itu diajar.</p>
+<p class="th">เอกสารประกอบการเรียนรายบทเป็นไฟล์ PDF เนื้อหาเหมือนหน้าเว็บ เฉลยแบบฝึกหัดจะอยู่ในไฟล์หลังจากสอนบทนั้นแล้ว ถ้าดาวน์โหลดไว้ก่อนเรียน ให้ดาวน์โหลดใหม่อีกครั้งหลังเรียน</p></div>
+<div class="jadual-bungkus"><table><thead><tr><th>Bab</th><th>Tajuk<small>หัวข้อ</small></th><th>Fail<small>ไฟล์</small></th><th>Jawapan<small>เฉลย</small></th></tr></thead><tbody>{baris}</tbody></table></div></section>"""
     (ROOT / "dokumen.html").write_text(halaman("dokumen.html", "Muat Turun", dok), encoding="utf-8")
-
-
-def bina_docx(bab):
-    """Versi pelajar: tanpa ujian pra/pasca, skrip guru dan aktiviti guru."""
-    with tempfile.TemporaryDirectory() as tmp:
-        for d in bab:
-            d2 = {k: v for k, v in d.items() if k not in ("no", "kelas", "clo")}
-            d2["chapter"] = d["no"]
-            secs = [s for s in d["sections"] if not tersembunyi(s)]
-            # buang pemisah halaman di hujung · ลบตัวแบ่งหน้าท้ายเอกสาร
-            while secs and secs[-1]["blocks"] and secs[-1]["blocks"][-1]["t"] == "pagebreak":
-                secs[-1]["blocks"].pop()
-            for n, s in enumerate(secs):
-                s["ms"] = re.sub(r"^\d+\.", f"{n + 1}.", s["ms"])
-            d2["sections"] = secs
-            j = Path(tmp) / f"b{d['no']}.json"
-            j.write_text(json.dumps(d2, ensure_ascii=False), encoding="utf-8")
-            out = ROOT / "dokumen" / f"bab-{d['no']:02d}.docx"
-            subprocess.run(["node", str(SRC / "build.js"), str(out), str(j)], check=True, cwd=SRC, env={**__import__("os").environ, "NODE_PATH": str(SRC / "node_modules")})
 
 
 if __name__ == "__main__":
     bab = muat_bab()
     bina_html(bab)
-    if "--docx" in sys.argv:
-        bina_docx(bab)
     print(f"Siap · เสร็จ: {len(bab)} bab")
