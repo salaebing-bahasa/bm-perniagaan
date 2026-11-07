@@ -137,6 +137,12 @@ def seksyen(sec, idx, buka=True):
         if bs[i]["t"] == "h2" and i + 1 < len(bs):
             parts.append(f'<div class="ikat">{blok(bs[i], buka)}{blok(bs[i + 1], buka)}</div>')
             i += 2
+        elif ("Jawapan" in sec["ms"] and bs[i]["t"] == "bullets"
+              and all(isinstance(x, str) and x.startswith("**Latihan") for x in bs[i]["items"])):
+            # senarai jawapan dalam seksyen "Jawapan dan Rumusan" · รายการเฉลยในหัวข้อเฉลยและสรุป
+            parts.append(TUTUP if not buka else
+                         '<details class="jawapan"><summary>Tunjuk jawapan · ดูเฉลย</summary>' + blok(bs[i]) + "</details>")
+            i += 1
         else:
             parts.append(blok(bs[i], buka))
             i += 1
