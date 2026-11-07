@@ -1,0 +1,890 @@
+{
+ "chapter": 10,
+ "title_ms": "Membuat Pesanan dan Tawar-Menawar Harga Asas",
+ "title_th": "การสั่งซื้อและการเจรจาต่อรองราคาเบื้องต้น",
+ "meta": [
+  [
+   "**Kursus**",
+   [
+    "1503250 Bahasa Melayu untuk Perniagaan",
+    "1503250 ภาษามลายูเพื่อธุรกิจ (3 หน่วยกิต)"
+   ]
+  ],
+  [
+   "**Minggu**",
+   [
+    "Kelas 11 · Semester 2/2569",
+    "คาบที่ 11 · ภาคเรียนที่ 2/2569 · วันพฤหัสบดี 08.00–12.10 น. ห้อง 17401"
+   ]
+  ],
+  [
+   "**Masa**",
+   [
+    "4 jam (teori 2 jam, amali 2 jam)",
+    "4 ชั่วโมง (ทฤษฎี 2 ชั่วโมง ปฏิบัติ 2 ชั่วโมง)"
+   ]
+  ],
+  [
+   "**Pelajar**",
+   [
+    "Tahun 2, Pengurusan Logistik (30 orang) · tiada asas bahasa Melayu",
+    "นิสิตชั้นปีที่ 2 วิชาเอกการจัดการโลจิสติกส์ 30 คน · ยังไม่มีพื้นฐานภาษามลายู"
+   ]
+  ],
+  [
+   "**CLO**",
+   [
+    "CLO2, CLO3",
+    "CLO2 มีทักษะการใช้ภาษามลายู ฟัง พูด อ่าน เพื่อการสื่อสารในธุรกิจ · CLO3 ฝึกปฏิบัติการใช้ภาษาในสถานการณ์ต่าง ๆ ในธุรกิจได้อย่างเหมาะสม"
+   ]
+  ],
+  [
+   "**Pengajar**",
+   [
+    "Asst. Prof. Muhammad Salaebing",
+    "ผศ.มูหำหมัด สาแลบิง"
+   ]
+  ]
+ ],
+ "sections": [
+  {
+   "ms": "1. Hasil Pembelajaran",
+   "th": "จุดประสงค์การเรียนรู้",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Pada akhir kelas ini, pelajar dapat:",
+     "th": "เมื่อจบคาบเรียนนี้ นิสิตสามารถ"
+    },
+    {
+     "t": "bullets",
+     "items": [
+      [
+       "Membuat pesanan dengan menyatakan barang, kuantiti dan tarikh penghantaran.",
+       "สั่งซื้อโดยบอกสินค้า จำนวน และวันจัดส่งได้ (CLO2)"
+      ],
+      [
+       "Mengira harga selepas diskaun dalam peratus.",
+       "คำนวณราคาหลังหักส่วนลดเป็นเปอร์เซ็นต์ได้ (CLO2)"
+      ],
+      [
+       "Meminta diskaun dan menukar tarikh penghantaran dengan sopan.",
+       "ขอส่วนลดและขอเปลี่ยนวันจัดส่งอย่างสุภาพได้ (CLO3)"
+      ],
+      [
+       "Menerima atau menolak tawaran dengan cara yang sesuai.",
+       "ตอบรับหรือปฏิเสธข้อเสนออย่างเหมาะสมได้ (CLO3)"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "2. Membuat Pesanan",
+   "th": "การสั่งซื้อ",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      4300,
+      5060
+     ],
+     "head": [
+      "Bahasa Melayu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "Saya mahu pesan dua ratus kotak.",
+       "ฉัน/ผมต้องการสั่ง 200 กล่อง"
+      ],
+      [
+       "Berapa harga seunit?",
+       "ราคาต่อหน่วยเท่าไร"
+      ],
+      [
+       "Bila barang boleh sampai?",
+       "สินค้าจะส่งถึงได้เมื่อไร"
+      ],
+      [
+       "Jadi, Encik pesan dua ratus kotak, betul?",
+       "สรุปว่าคุณสั่ง 200 กล่อง ถูกต้องไหม"
+      ],
+      [
+       "Betul.",
+       "ถูกต้อง"
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Selalu ulang semula pesanan pelanggan: barang, kuantiti, harga dan tarikh.",
+     "th": "ควรทวนคำสั่งซื้อของลูกค้าทุกครั้ง ได้แก่ สินค้า จำนวน ราคา และวันที่ เพื่อป้องกันความผิดพลาด"
+    }
+   ]
+  },
+  {
+   "ms": "3. Diskaun dan Peratus",
+   "th": "ส่วนลดและเปอร์เซ็นต์",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      3300,
+      2600,
+      3460
+     ],
+     "head": [
+      "Bahasa Melayu",
+      "ความหมาย",
+      "Contoh"
+     ],
+     "rows": [
+      [
+       "diskaun",
+       "ส่วนลด",
+       "diskaun 10 peratus"
+      ],
+      [
+       "peratus (%)",
+       "เปอร์เซ็นต์",
+       "lima peratus = 5%"
+      ],
+      [
+       "harga asal",
+       "ราคาเดิม",
+       "RM1,000"
+      ],
+      [
+       "harga selepas diskaun",
+       "ราคาหลังหักส่วนลด",
+       "RM900"
+      ]
+     ]
+    },
+    {
+     "t": "box",
+     "lines": [
+      [
+       "**Cara mengira · วิธีคำนวณ**",
+       false,
+       40
+      ],
+      [
+       "Harga asal RM2,000 · Diskaun 5 peratus = RM100 · Harga selepas diskaun = RM1,900",
+       false,
+       20
+      ],
+      [
+       "ราคาเดิม 2,000 ริงกิต ส่วนลด 5% คือ 100 ริงกิต ราคาหลังหักส่วนลดจึงเท่ากับ 1,900 ริงกิต",
+       true,
+       0
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "4. Tawar-Menawar dengan Sopan",
+   "th": "การต่อรองอย่างสุภาพ",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      1900,
+      3900,
+      3560
+     ],
+     "head": [
+      "Fungsi · หน้าที่",
+      "Bahasa Melayu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       [
+        "Meminta diskaun",
+        "ขอส่วนลด"
+       ],
+       "Boleh beri diskaun?",
+       "ให้ส่วนลดได้ไหม"
+      ],
+      [
+       "",
+       "Boleh kurang sedikit?",
+       "ลดได้อีกนิดไหม"
+      ],
+      [
+       "",
+       "Kalau saya pesan lima ratus kotak, boleh dapat diskaun?",
+       "ถ้าสั่ง 500 กล่อง จะได้ส่วนลดไหม"
+      ],
+      [
+       [
+        "Menukar tarikh",
+        "ขอเปลี่ยนวัน"
+       ],
+       "Boleh hantar sebelum 15 Februari?",
+       "ส่งก่อน 15 กุมภาพันธ์ได้ไหม"
+      ],
+      [
+       "",
+       "Boleh hantar lebih awal?",
+       "ส่งเร็วขึ้นได้ไหม"
+      ],
+      [
+       [
+        "Menerima",
+        "ตอบรับ"
+       ],
+       "Boleh. Diskaun lima peratus.",
+       "ได้ ลด 5%"
+      ],
+      [
+       "",
+       "Baik, saya setuju.",
+       "ตกลง ฉัน/ผมเห็นด้วย"
+      ],
+      [
+       [
+        "Menolak",
+        "ปฏิเสธ"
+       ],
+       "Maaf, ini harga terakhir.",
+       "ขอโทษ นี่เป็นราคาสุดท้ายแล้ว"
+      ],
+      [
+       "",
+       "Maaf, kami tidak boleh. Bagaimana dengan 20 Februari?",
+       "ขอโทษ เราทำไม่ได้ วันที่ 20 กุมภาพันธ์เป็นอย่างไร"
+      ]
+     ]
+    },
+    {
+     "t": "box",
+     "lines": [
+      [
+       "**Adab tawar-menawar · มารยาทการต่อรอง**",
+       false,
+       40
+      ],
+      [
+       "• ต่อรองด้วยน้ำเสียงสุภาพ ใช้ boleh … ? เป็นคำขอ ไม่ใช่คำสั่ง",
+       true,
+       20
+      ],
+      [
+       "• ถ้าต้องปฏิเสธ ให้ขึ้นต้นด้วย maaf และเสนอทางเลือกอื่น (เช่น วันอื่น หรือจำนวนอื่น)",
+       true,
+       20
+      ],
+      [
+       "• รักษาความสัมพันธ์ระยะยาวสำคัญกว่าการต่อรองให้ได้ราคาต่ำสุดครั้งเดียว",
+       true,
+       20
+      ],
+      [
+       "• ทวนข้อตกลงสุดท้ายทุกครั้ง: จำนวน ราคา ส่วนลด และวันจัดส่ง",
+       true,
+       0
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "5. Kosa Kata",
+   "th": "คำศัพท์",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      2300,
+      2380,
+      2300,
+      2380
+     ],
+     "head": [
+      "Bahasa Melayu",
+      "ความหมาย",
+      "Bahasa Melayu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "pesan",
+       "สั่ง",
+       "kalau",
+       "ถ้า"
+      ],
+      [
+       "beri",
+       "ให้",
+       "dapat",
+       "ได้รับ"
+      ],
+      [
+       "kurang",
+       "น้อยลง ลด",
+       "sebelum",
+       "ก่อน"
+      ],
+      [
+       "sedikit",
+       "นิดหน่อย",
+       "awal",
+       "เร็ว (ก่อนกำหนด)"
+      ],
+      [
+       "jadi",
+       "ดังนั้น สรุปว่า",
+       "setuju",
+       "เห็นด้วย ตกลง"
+      ],
+      [
+       "betul",
+       "ถูกต้อง",
+       "terakhir",
+       "สุดท้าย"
+      ],
+      [
+       "tawar-menawar",
+       "การต่อรองราคา",
+       "harga asal",
+       "ราคาเดิม"
+      ]
+     ]
+    },
+    {
+     "t": "pagebreak"
+    }
+   ]
+  },
+  {
+   "ms": "6. Perbualan: Membuat Pesanan",
+   "th": "บทสนทนา: การสั่งซื้อ",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Encik Kamal membuat pesanan daripada syarikat Aisyah. (Watak rekaan.)",
+     "th": "คุณกามาลสั่งซื้อสินค้าจากบริษัทของไอซยะห์ (ตัวละครเป็นเรื่องสมมติ)"
+    },
+    {
+     "t": "dialog",
+     "lines": [
+      [
+       "Kamal",
+       "Saya mahu pesan dua ratus kotak. Berapa harga seunit?",
+       "ผมต้องการสั่ง 200 กล่อง ราคาต่อหน่วยเท่าไรครับ"
+      ],
+      [
+       "Aisyah",
+       "Harga seunit RM10. Jumlah RM2,000.",
+       "ราคาต่อหน่วย 10 ริงกิต รวม 2,000 ริงกิตค่ะ"
+      ],
+      [
+       "Kamal",
+       "Boleh beri diskaun?",
+       "ให้ส่วนลดได้ไหมครับ"
+      ],
+      [
+       "Aisyah",
+       "Boleh. Diskaun lima peratus untuk dua ratus kotak.",
+       "ได้ค่ะ ลด 5% สำหรับ 200 กล่อง"
+      ],
+      [
+       "Kamal",
+       "Baik, saya setuju. Boleh hantar sebelum 15 Februari?",
+       "ตกลงครับ ส่งก่อน 15 กุมภาพันธ์ได้ไหมครับ"
+      ],
+      [
+       "Aisyah",
+       "Boleh. Tidak ada masalah.",
+       "ได้ค่ะ ไม่มีปัญหาค่ะ"
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Soalan: Berapa harga selepas diskaun?",
+     "th": "คำถาม: ราคาหลังหักส่วนลดเท่าไร (เฉลย: 2,000 − 100 = 1,900 ริงกิต)"
+    }
+   ]
+  },
+  {
+   "ms": "7. Borang Pesanan",
+   "th": "แบบฟอร์มคำสั่งซื้อ",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      3600,
+      5760
+     ],
+     "head": [
+      "Maklumat · ข้อมูล",
+      ""
+     ],
+     "rows": [
+      [
+       [
+        "Nama pelanggan",
+        "ชื่อลูกค้า"
+       ],
+       ""
+      ],
+      [
+       [
+        "Barang",
+        "สินค้า"
+       ],
+       ""
+      ],
+      [
+       [
+        "Kuantiti",
+        "จำนวน"
+       ],
+       ""
+      ],
+      [
+       [
+        "Harga seunit (RM)",
+        "ราคาต่อหน่วย"
+       ],
+       ""
+      ],
+      [
+       [
+        "Diskaun (%)",
+        "ส่วนลด"
+       ],
+       ""
+      ],
+      [
+       [
+        "Jumlah selepas diskaun (RM)",
+        "ยอดหลังหักส่วนลด"
+       ],
+       ""
+      ],
+      [
+       [
+        "Tarikh penghantaran",
+        "วันจัดส่ง"
+       ],
+       ""
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "8. Aktiviti Pembelajaran",
+   "th": "กิจกรรมการเรียนรู้",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      700,
+      5360,
+      2200,
+      1100
+     ],
+     "head": [
+      "#",
+      "Aktiviti · กิจกรรม",
+      "Alat · เครื่องมือ",
+      "Minit"
+     ],
+     "rows": [
+      [
+       "1",
+       "แบบทดสอบก่อนเรียน (Ujian Pra) ใช้ข้อสอบในหัวข้อ 12",
+       "Google Forms / ClassPoint",
+       "10"
+      ],
+      [
+       "2",
+       "ทบทวนบทที่ 9: บรรยายสินค้าด้วย lebih / paling",
+       "ClassPoint",
+       "10"
+      ],
+      [
+       "3",
+       "สำนวนสั่งซื้อและทวนคำสั่งซื้อ: ฟัง พูดตาม แล้วจับคู่",
+       "PowerPoint, Kahoot!",
+       "25"
+      ],
+      [
+       "4",
+       "คำนวณส่วนลดเป็นเปอร์เซ็นต์: แข่งกันเป็นทีม",
+       "Google Sheets, ClassPoint",
+       "20"
+      ],
+      [
+       "5",
+       "ต่อรองอย่างสุภาพ: แยกประโยคสุภาพกับไม่สุภาพ แล้วปรับให้สุภาพ",
+       "Padlet",
+       "25"
+      ],
+      [
+       "–",
+       "พัก",
+       "",
+       "10"
+      ],
+      [
+       "6",
+       "ฟังและกรอกแบบฟอร์มคำสั่งซื้อ: ครูอ่านสคริปต์ในหัวข้อ 13 (Latihan D)",
+       "แบบฟอร์มหัวข้อ 7",
+       "20"
+      ],
+      [
+       "7",
+       "Simulation ผู้ซื้อ–ผู้ขาย: ผู้ซื้อมีงบและวันที่ต้องการ ผู้ขายมีส่วนลดสูงสุดและวันส่งที่ทำได้ ต่อรองให้ได้ข้อตกลง แล้วกรอกแบบฟอร์ม",
+       "บัตรบทบาท แบบฟอร์ม",
+       "45"
+      ],
+      [
+       "8",
+       "แต่ละคู่รายงานข้อตกลงสั้น ๆ · อภิปรายว่าการต่อรองแบบไหนรักษาความสัมพันธ์ได้ดี",
+       "ClassPoint",
+       "20"
+      ],
+      [
+       "9",
+       "สรุปบทเรียน · แบบทดสอบหลังเรียน (ข้อสอบชุดเดียวกับหัวข้อ 12) · Exit Ticket",
+       "Google Forms / ClassPoint",
+       "20"
+      ],
+      [
+       "",
+       "**รวม**",
+       "",
+       "**205**"
+      ]
+     ],
+     "size": 28
+    }
+   ]
+  },
+  {
+   "ms": "9. Latihan",
+   "th": "แบบฝึกหัด",
+   "blocks": [
+    {
+     "t": "h2",
+     "ms": "Latihan A: Padankan",
+     "th": "จับคู่คำศัพท์กับความหมาย"
+    },
+    {
+     "t": "table",
+     "w": [
+      4680,
+      4680
+     ],
+     "rows": [
+      [
+       "1. diskaun  ____",
+       "ก. เห็นด้วย ตกลง"
+      ],
+      [
+       "2. setuju  ____",
+       "ข. ส่วนลด"
+      ],
+      [
+       "3. sebelum  ____",
+       "ค. สุดท้าย"
+      ],
+      [
+       "4. terakhir  ____",
+       "ง. ถ้า"
+      ],
+      [
+       "5. kalau  ____",
+       "จ. ก่อน"
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan B: Kira Harga",
+     "th": "คำนวณราคา"
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      2700,
+      2000,
+      2000,
+      1960
+     ],
+     "head": [
+      "#",
+      "Harga asal",
+      "Diskaun",
+      "Diskaun (RM)",
+      "Harga selepas diskaun"
+     ],
+     "rows": [
+      [
+       "1",
+       "RM1,000",
+       "10%",
+       "______",
+       "______"
+      ],
+      [
+       "2",
+       "RM3,000",
+       "5%",
+       "______",
+       "______"
+      ],
+      [
+       "3",
+       "RM500",
+       "20%",
+       "______",
+       "______"
+      ],
+      [
+       "4",
+       "RM2,400",
+       "25%",
+       "______",
+       "______"
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan C: Pilih Jawapan yang Sopan",
+     "th": "เลือกคำตอบที่สุภาพและเหมาะสม"
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      8660
+     ],
+     "rows": [
+      [
+       "1",
+       [
+        "Anda tidak boleh beri diskaun.",
+        "A. Tidak! Pergi.   B. Maaf, ini harga terakhir.   C. Diskaun? Tidak ada."
+       ]
+      ],
+      [
+       "2",
+       [
+        "Anda tidak boleh hantar pada 10 Februari.",
+        "A. Maaf, kami tidak boleh. Bagaimana dengan 15 Februari?   B. Tidak boleh.   C. Itu masalah Encik."
+       ]
+      ],
+      [
+       "3",
+       [
+        "Anda mahu diskaun.",
+        "A. Beri diskaun!   B. Harga ini mahal sekali, saya tidak mahu.   C. Boleh kurang sedikit?"
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan D: Dengar dan Isi Borang Pesanan",
+     "th": "ฟังแล้วกรอกแบบฟอร์มคำสั่งซื้อในหัวข้อ 7"
+    },
+    {
+     "t": "bi",
+     "ms": "Guru membaca skrip dalam bahagian 13.",
+     "th": "ผู้สอนอ่านสคริปต์ในหัวข้อ 13"
+    }
+   ]
+  },
+  {
+   "ms": "10. Jawapan",
+   "th": "เฉลยแบบฝึกหัด",
+   "blocks": [
+    {
+     "t": "bullets",
+     "items": [
+      "**Latihan A:** 1-ข, 2-ก, 3-จ, 4-ค, 5-ง",
+      "**Latihan B:** 1. RM100 / RM900 2. RM150 / RM2,850 3. RM100 / RM400 4. RM600 / RM1,800",
+      "**Latihan C:** 1-B, 2-A, 3-C",
+      "**Latihan D:** Puan Rosmah · kotak plastik · 300 · RM5 · 10% · RM1,350 · sebelum 22 Februari"
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "11. Rumusan",
+   "th": "สรุปบท",
+   "blocks": [
+    {
+     "t": "box",
+     "lines": [
+      [
+       "Semasa membuat pesanan, nyatakan barang, kuantiti dan tarikh penghantaran, kemudian ulang semula pesanan. Minta diskaun dengan sopan: \"Boleh beri diskaun?\" atau \"Boleh kurang sedikit?\". Jika menolak, mulakan dengan \"Maaf\" dan berikan pilihan lain.",
+       false,
+       80
+      ],
+      [
+       "เวลาสั่งซื้อ ให้บอกสินค้า จำนวน และวันจัดส่ง แล้วทวนคำสั่งซื้อ ขอส่วนลดอย่างสุภาพด้วย Boleh beri diskaun? หรือ Boleh kurang sedikit? ถ้าต้องปฏิเสธ ให้ขึ้นต้นด้วย Maaf และเสนอทางเลือกอื่น",
+       true,
+       0
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Kelas seterusnya: Menulis mesej perniagaan dan komunikasi dalam talian (Kelas 12).",
+     "th": "คาบถัดไป: การเขียนข้อความธุรกิจและการสื่อสารออนไลน์ (คาบที่ 12)"
+    },
+    {
+     "t": "pagebreak"
+    }
+   ]
+  },
+  {
+   "ms": "12. Ujian Pra dan Ujian Pasca",
+   "th": "แบบทดสอบก่อนเรียนและหลังเรียน",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Gunakan ujian ini sebelum kelas (ujian pra) dan selepas kelas (ujian pasca). Pilih satu jawapan yang paling tepat.",
+     "th": "ใช้แบบทดสอบชุดนี้ทั้งก่อนเรียนและหลังเรียน 10 ข้อ ข้อละ 1 คะแนน เวลา 10 นาที (ข้อ 1–6 วัด CLO2 ข้อ 7–10 วัดการใช้ภาษาให้เหมาะกับสถานการณ์ตาม CLO3)"
+    },
+    {
+     "t": "p",
+     "text": "**Jawapan / เฉลย (untuk pengajar · สำหรับผู้สอน):** 1-B · 2-D · 3-A · 4-C · 5-B · 6-A · 7-D · 8-C · 9-A · 10-D",
+     "after": 120
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      8660
+     ],
+     "head": [
+      "#",
+      "Soalan · คำถาม"
+     ],
+     "size": 26,
+     "rows": [
+      [
+       "1",
+       [
+        "\"Diskaun\" bermaksud …",
+        "A. ราคาเดิม   B. ส่วนลด   C. จำนวน   D. ราคาต่อหน่วย",
+        "คำว่า \"diskaun\" หมายถึง …"
+       ]
+      ],
+      [
+       "2",
+       [
+        "\"Lima peratus\" ialah …",
+        "A. 50%   B. 15%   C. 0.5%   D. 5%",
+        "\"lima peratus\" คือ …"
+       ]
+      ],
+      [
+       "3",
+       [
+        "Harga RM1,000, diskaun 10 peratus. Harga selepas diskaun ialah …",
+        "A. RM900   B. RM990   C. RM1,100   D. RM100",
+        "ราคาหลังหักส่วนลดคือ …"
+       ]
+      ],
+      [
+       "4",
+       [
+        "\"Saya mahu ___ dua ratus kotak.\"",
+        "A. hantar   B. bayar   C. pesan   D. terima",
+        "เติมคำให้ถูกต้อง (ต้องการสั่ง)"
+       ]
+      ],
+      [
+       "5",
+       [
+        "\"Sebelum 15 Februari\" bermaksud …",
+        "A. หลัง 15 กุมภาพันธ์   B. ก่อน 15 กุมภาพันธ์   C. วันที่ 15 กุมภาพันธ์   D. ทุกวันที่ 15",
+        "ข้อความนี้หมายถึง …"
+       ]
+      ],
+      [
+       "6",
+       [
+        "\"Setuju\" bermaksud …",
+        "A. เห็นด้วย ตกลง   B. ปฏิเสธ   C. สุดท้าย   D. ถูกต้อง",
+        "คำว่า \"setuju\" หมายถึง …"
+       ]
+      ],
+      [
+       "7",
+       [
+        "Cara yang sopan untuk meminta diskaun ialah …",
+        "A. Beri diskaun sekarang!   B. Harga ini salah.   C. Saya tidak mahu bayar.   D. Boleh kurang sedikit?",
+        "การขอส่วนลดอย่างสุภาพคือ …"
+       ]
+      ],
+      [
+       "8",
+       [
+        "Anda tidak boleh beri diskaun. Jawapan yang sesuai ialah …",
+        "A. Tidak! Pergi.   B. Itu masalah Encik.   C. Maaf, ini harga terakhir.   D. Diskaun tidak ada, faham?",
+        "ถ้าให้ส่วนลดไม่ได้ ควรตอบว่า …"
+       ]
+      ],
+      [
+       "9",
+       [
+        "Selepas pelanggan membuat pesanan, penjual patut …",
+        "A. mengulang semula pesanan   B. terus menutup telefon   C. menukar harga   D. tidak berkata apa-apa",
+        "หลังลูกค้าสั่งซื้อ ผู้ขายควร …"
+       ]
+      ],
+      [
+       "10",
+       [
+        "\"Jadi, Encik pesan 200 kotak, betul?\" digunakan untuk …",
+        "A. ขอส่วนลด   B. ปฏิเสธ   C. นัดหมาย   D. ทวนคำสั่งซื้อ",
+        "ประโยคนี้ใช้เพื่อ …"
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "13. Skrip Guru: Latihan Mendengar",
+   "th": "สคริปต์ผู้สอนสำหรับแบบฝึก D",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Baca dua kali dengan perlahan.",
+     "th": "อ่าน 2 รอบช้า ๆ"
+    },
+    {
+     "t": "box",
+     "lines": [
+      [
+       "Selamat pagi. Saya Rosmah. Saya mahu pesan kotak plastik, tiga ratus kotak. Harga seunit lima ringgit. Kalau saya pesan tiga ratus kotak, boleh dapat diskaun? … Boleh? Diskaun sepuluh peratus. Baik, saya setuju. Boleh hantar sebelum dua puluh dua Februari? Terima kasih.",
+       false,
+       60
+      ],
+      [
+       "Jawapan: Puan Rosmah · kotak plastik · 300 · RM5 · 10% · RM1,350 (300 × 5 = 1,500 − 150) · sebelum 22 Februari (บุคคลเป็นเรื่องสมมติ)",
+       true,
+       0
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

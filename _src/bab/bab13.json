@@ -1,0 +1,891 @@
+{
+ "chapter": 13,
+ "title_ms": "Projek Kumpulan: Simulasi Situasi Perniagaan dalam Bahasa Melayu",
+ "title_th": "โครงงานกลุ่ม: การจำลองสถานการณ์ทางธุรกิจด้วยภาษามลายู",
+ "meta": [
+  [
+   "**Kursus**",
+   [
+    "1503250 Bahasa Melayu untuk Perniagaan",
+    "1503250 ภาษามลายูเพื่อธุรกิจ (3 หน่วยกิต)"
+   ]
+  ],
+  [
+   "**Minggu**",
+   [
+    "Kelas 14 · Semester 2/2569",
+    "คาบที่ 14 · ภาคเรียนที่ 2/2569 · วันพฤหัสบดี 08.00–12.10 น. ห้อง 17401"
+   ]
+  ],
+  [
+   "**Masa**",
+   [
+    "4 jam (teori 2 jam, amali 2 jam)",
+    "4 ชั่วโมง (ทฤษฎี 2 ชั่วโมง ปฏิบัติ 2 ชั่วโมง)"
+   ]
+  ],
+  [
+   "**Pelajar**",
+   [
+    "Tahun 2, Pengurusan Logistik (30 orang) · 5–6 kumpulan",
+    "นิสิตชั้นปีที่ 2 วิชาเอกการจัดการโลจิสติกส์ 30 คน · แบ่ง 5–6 กลุ่ม"
+   ]
+  ],
+  [
+   "**CLO**",
+   [
+    "CLO2, CLO3, CLO4",
+    "CLO2 มีทักษะการใช้ภาษามลายู ฟัง พูด อ่าน เพื่อการสื่อสารในธุรกิจ · CLO3 ฝึกปฏิบัติการใช้ภาษาในสถานการณ์ต่าง ๆ ในธุรกิจได้อย่างเหมาะสม · CLO4 แสดงออกถึงคุณค่าในการสื่อสารภาษามลายู กล้าแสดงออก"
+   ]
+  ],
+  [
+   "**Pengajar**",
+   [
+    "Asst. Prof. Muhammad Salaebing",
+    "ผศ.มูหำหมัด สาแลบิง"
+   ]
+  ]
+ ],
+ "sections": [
+  {
+   "ms": "1. Hasil Pembelajaran",
+   "th": "จุดประสงค์การเรียนรู้",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Pada akhir kelas ini, pelajar dapat:",
+     "th": "เมื่อจบคาบเรียนนี้ นิสิตสามารถ"
+    },
+    {
+     "t": "bullets",
+     "items": [
+      [
+       "Menggunakan ungkapan mesyuarat yang mudah semasa bekerja dalam kumpulan.",
+       "ใช้สำนวนการประชุมง่าย ๆ ระหว่างทำงานกลุ่มได้ (CLO2)"
+      ],
+      [
+       "Merancang simulasi perniagaan yang menggabungkan situasi daripada Kelas 1–13.",
+       "วางแผนการจำลองสถานการณ์ธุรกิจที่รวมสถานการณ์จากคาบที่ 1–13 ได้ (CLO3)"
+      ],
+      [
+       "Menulis skrip simulasi dalam bahasa Melayu.",
+       "เขียนบทการจำลองสถานการณ์เป็นภาษามลายูได้ (CLO3)"
+      ],
+      [
+       "Berlatih dan memberi maklum balas kepada kumpulan lain dengan yakin dan bertanggungjawab.",
+       "ซ้อมการแสดงและให้ข้อเสนอแนะแก่กลุ่มอื่นอย่างมั่นใจและมีความรับผิดชอบได้ (CLO4)"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "2. Ungkapan Mesyuarat Kumpulan",
+   "th": "สำนวนการประชุมกลุ่ม",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      2300,
+      3700,
+      3360
+     ],
+     "head": [
+      "Fungsi · หน้าที่",
+      "Bahasa Melayu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       [
+        "Memberi cadangan",
+        "เสนอความคิด"
+       ],
+       "Cadangan saya, …",
+       "ข้อเสนอของฉัน/ผมคือ …"
+      ],
+      [
+       "",
+       "Bagaimana kalau kita …?",
+       "ถ้าเรา … ดีไหม"
+      ],
+      [
+       [
+        "Bersetuju",
+        "เห็นด้วย"
+       ],
+       "Saya setuju.",
+       "ฉัน/ผมเห็นด้วย"
+      ],
+      [
+       "",
+       "Idea yang baik.",
+       "เป็นความคิดที่ดี"
+      ],
+      [
+       [
+        "Tidak bersetuju",
+        "ไม่เห็นด้วยอย่างสุภาพ"
+       ],
+       "Maaf, saya kurang setuju. Bagaimana kalau …?",
+       "ขอโทษ ฉัน/ผมไม่ค่อยเห็นด้วย ถ้า … ดีไหม"
+      ],
+      [
+       [
+        "Membahagikan tugas",
+        "แบ่งงาน"
+       ],
+       "Siapa buat apa?",
+       "ใครทำอะไร"
+      ],
+      [
+       "",
+       "Saya buat skrip. Nurul buat slaid.",
+       "ฉัน/ผมเขียนบท นูรุลทำสไลด์"
+      ],
+      [
+       [
+        "Menetapkan masa",
+        "กำหนดเวลา"
+       ],
+       "Bila kita berlatih?",
+       "เราจะซ้อมเมื่อไร"
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Nota: \"kita\" digunakan kerana semua ahli kumpulan termasuk (Bab 2). \"Kurang setuju\" lebih sopan daripada \"tidak setuju\".",
+     "th": "หมายเหตุ: ใช้ kita เพราะรวมสมาชิกทุกคนในกลุ่ม (บทที่ 2) และ kurang setuju (ไม่ค่อยเห็นด้วย) สุภาพกว่า tidak setuju (ไม่เห็นด้วย)"
+    }
+   ]
+  },
+  {
+   "ms": "3. Perbualan: Mesyuarat Kumpulan",
+   "th": "บทสนทนา: ประชุมกลุ่ม",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Hakim dan Nurul merancang projek kumpulan. (Watak rekaan.)",
+     "th": "ฮากิมและนูรุลวางแผนโครงงานกลุ่ม (ตัวละครเป็นเรื่องสมมติ)"
+    },
+    {
+     "t": "dialog",
+     "lines": [
+      [
+       "Hakim",
+       "Cadangan saya, syarikat kita syarikat logistik.",
+       "ผมเสนอให้บริษัทของเราเป็นบริษัทโลจิสติกส์"
+      ],
+      [
+       "Nurul",
+       "Saya setuju. Siapa buat apa?",
+       "ฉันเห็นด้วย ใครทำอะไรบ้าง"
+      ],
+      [
+       "Hakim",
+       "Saya buat skrip. Nurul buat slaid.",
+       "ผมเขียนบท นูรุลทำสไลด์"
+      ],
+      [
+       "Nurul",
+       "Baik. Bagaimana kalau kita berlatih hari Isnin?",
+       "ได้ ถ้าเราซ้อมวันจันทร์ดีไหม"
+      ],
+      [
+       "Hakim",
+       "Idea yang baik. Saya setuju.",
+       "เป็นความคิดที่ดี ผมเห็นด้วย"
+      ],
+      [
+       "Nurul",
+       "Terima kasih, semua.",
+       "ขอบคุณทุกคน"
+      ]
+     ]
+    },
+    {
+     "t": "table",
+     "w": [
+      3300,
+      6060
+     ],
+     "head": [
+      "Kata baharu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "cadangan",
+       "ข้อเสนอ"
+      ],
+      [
+       "buat",
+       "ทำ"
+      ],
+      [
+       "skrip / slaid",
+       "บท / สไลด์"
+      ],
+      [
+       "berlatih",
+       "ฝึกซ้อม"
+      ],
+      [
+       "idea",
+       "ความคิด"
+      ],
+      [
+       "ahli kumpulan",
+       "สมาชิกกลุ่ม"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "4. Taklimat Projek",
+   "th": "รายละเอียดโครงงาน",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Projek ini bernilai 10% (Project Rubric, CLO2–CLO4). Pembentangan pada Kelas 15.",
+     "th": "โครงงานนี้มีคะแนน 10% (Project Rubric, CLO2–CLO4) ตาม TSU03 นำเสนอในคาบที่ 15"
+    },
+    {
+     "t": "table",
+     "w": [
+      2800,
+      6560
+     ],
+     "head": [
+      "Perkara · หัวข้อ",
+      "Keperluan · ข้อกำหนด"
+     ],
+     "rows": [
+      [
+       [
+        "Kumpulan",
+        "กลุ่ม"
+       ],
+       "5–6 orang · ใช้บริษัทสมมติที่กลุ่มสร้างไว้ในคาบที่ 5"
+      ],
+      [
+       [
+        "Masa",
+        "เวลา"
+       ],
+       "8–10 minit · สมาชิกทุกคนต้องพูดอย่างน้อย 1 นาที"
+      ],
+      [
+       [
+        "Situasi",
+        "สถานการณ์"
+       ],
+       "เลือกอย่างน้อย 4 จาก 6 สถานการณ์ในหัวข้อ 5"
+      ],
+      [
+       [
+        "Dokumen",
+        "เอกสาร"
+       ],
+       "มีเอกสารธุรกิจอย่างน้อย 1 ชิ้น (ใบเสนอราคา ใบแจ้งหนี้ หรือใบส่งสินค้า) และข้อความ WhatsApp หรืออีเมล 1 ชิ้น"
+      ],
+      [
+       [
+        "Skrip",
+        "บท"
+       ],
+       "ส่งบทใน Google Docs ก่อนคาบที่ 15 · ถือบัตรช่วยจำได้ แต่ห้ามอ่านบทตลอด"
+      ],
+      [
+       [
+        "Penilaian",
+        "การประเมิน"
+       ],
+       "Rubric โครงงานในหัวข้อ 7 และแบบประเมินเพื่อนร่วมกลุ่มในหัวข้อ 8"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "5. Situasi untuk Simulasi",
+   "th": "สถานการณ์ที่เลือกใช้ได้",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      700,
+      4300,
+      2200,
+      2160
+     ],
+     "head": [
+      "#",
+      "Situasi · สถานการณ์",
+      "Rujuk · บทอ้างอิง",
+      "Ungkapan utama"
+     ],
+     "rows": [
+      [
+       "1",
+       [
+        "Menyambut pelanggan",
+        "ต้อนรับลูกค้า"
+       ],
+       "Bab 6",
+       "Selamat datang. Boleh saya bantu?"
+      ],
+      [
+       "2",
+       [
+        "Memperkenalkan syarikat",
+        "แนะนำบริษัท"
+       ],
+       "Bab 2, 5",
+       "Syarikat kami … Kami ada …"
+      ],
+      [
+       "3",
+       [
+        "Membentangkan produk / perkhidmatan",
+        "นำเสนอสินค้า/บริการ"
+       ],
+       "Bab 9",
+       "Hari ini saya mahu memperkenalkan …"
+      ],
+      [
+       "4",
+       [
+        "Membuat pesanan dan tawar-menawar",
+        "สั่งซื้อและต่อรอง"
+       ],
+       "Bab 10",
+       "Boleh beri diskaun?"
+      ],
+      [
+       "5",
+       [
+        "Telefon dan temu janji",
+        "โทรศัพท์และนัดหมาย"
+       ],
+       "Bab 7",
+       "Boleh saya ambil pesanan?"
+      ],
+      [
+       "6",
+       [
+        "Mengendalikan aduan",
+        "รับมือข้อร้องเรียน"
+       ],
+       "Bab 12",
+       "Saya minta maaf atas masalah ini."
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Contoh Alur Cerita",
+     "th": "ตัวอย่างโครงเรื่อง"
+    },
+    {
+     "t": "bullets",
+     "items": [
+      [
+       "Pelanggan datang ke pejabat → pekerja menyambut dan memperkenalkan syarikat → membentangkan perkhidmatan → pelanggan membuat pesanan dan meminta diskaun → barang sampai, tetapi rosak → pelanggan menelefon dan pekerja menyelesaikan masalah.",
+       "ลูกค้ามาที่สำนักงาน → พนักงานต้อนรับและแนะนำบริษัท → นำเสนอบริการ → ลูกค้าสั่งซื้อและขอส่วนลด → สินค้ามาถึงแต่เสียหาย → ลูกค้าโทรมาร้องเรียนและพนักงานแก้ปัญหา"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "6. Borang Perancangan Projek",
+   "th": "แบบวางแผนโครงงาน",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      3200,
+      6160
+     ],
+     "head": [
+      "Perkara · หัวข้อ",
+      ""
+     ],
+     "rows": [
+      [
+       [
+        "Nama syarikat",
+        "ชื่อบริษัท"
+       ],
+       ""
+      ],
+      [
+       [
+        "Jenis perniagaan",
+        "ประเภทธุรกิจ"
+       ],
+       ""
+      ],
+      [
+       [
+        "Situasi yang dipilih (4–6)",
+        "สถานการณ์ที่เลือก"
+       ],
+       ""
+      ],
+      [
+       [
+        "Dokumen dan mesej",
+        "เอกสารและข้อความ"
+       ],
+       ""
+      ],
+      [
+       [
+        "Watak dan ahli",
+        "ตัวละครและผู้รับบท"
+       ],
+       ""
+      ],
+      [
+       [
+        "Tugas setiap ahli",
+        "งานของสมาชิกแต่ละคน"
+       ],
+       ""
+      ],
+      [
+       [
+        "Tarikh berlatih",
+        "วันซ้อม"
+       ],
+       ""
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "7. Rubrik Projek",
+   "th": "แบบประเมินโครงงาน (Project Rubric · CLO2–CLO4)",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      2200,
+      2400,
+      2400,
+      2360
+     ],
+     "head": [
+      "Kriteria · เกณฑ์",
+      "3 Baik · ดี",
+      "2 Sederhana · พอใช้",
+      "1 Perlu dibaiki · ควรปรับปรุง"
+     ],
+     "size": 26,
+     "rows": [
+      [
+       [
+        "Situasi dan alur cerita (CLO3)",
+        "สถานการณ์และโครงเรื่อง"
+       ],
+       "ครบ 4–6 สถานการณ์ ต่อเนื่องสมจริง",
+       "มี 3 สถานการณ์ หรือโครงเรื่องไม่ต่อเนื่อง",
+       "น้อยกว่า 3 สถานการณ์"
+      ],
+      [
+       [
+        "Ketepatan bahasa (CLO2)",
+        "ความถูกต้องของภาษา"
+       ],
+       "ใช้คำและโครงสร้างที่เรียนได้ถูกต้องเกือบทั้งหมด",
+       "ผิดบ้างแต่เข้าใจได้",
+       "ผิดมากจนเข้าใจยาก"
+      ],
+      [
+       [
+        "Sebutan dan kelancaran (CLO2)",
+        "การออกเสียงและความคล่อง"
+       ],
+       "ชัดเจน พูดต่อเนื่อง",
+       "ไม่ชัดบางคำ หยุดบ่อย",
+       "ไม่ชัดหลายคำ อ่านบทตลอด"
+      ],
+      [
+       [
+        "Adab perniagaan (CLO3)",
+        "มารยาทธุรกิจ"
+       ],
+       "ใช้คำนำหน้า คำขอโทษ และมารยาทเหมาะสมตลอด",
+       "มีบางจุดไม่เหมาะสม",
+       "ไม่คำนึงถึงมารยาท"
+      ],
+      [
+       [
+        "Keyakinan (CLO4)",
+        "ความมั่นใจ"
+       ],
+       "ทุกคนพูดอย่างมั่นใจ มองผู้ฟัง",
+       "บางคนไม่มั่นใจ",
+       "ส่วนใหญ่ไม่มั่นใจ"
+      ],
+      [
+       [
+        "Dokumen sokongan (CLO3)",
+        "เอกสารประกอบ"
+       ],
+       "มีเอกสารและข้อความที่ถูกต้องครบ",
+       "มีแต่ข้อมูลผิดบางส่วน",
+       "ไม่มี"
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Jumlah markah: 18. Markah ditukar kepada 10%.",
+     "th": "คะแนนเต็ม 18 คะแนน แล้วแปลงเป็นคะแนนโครงงาน 10% ตาม TSU03"
+    },
+    {
+     "t": "pagebreak"
+    }
+   ]
+  },
+  {
+   "ms": "8. Penilaian Rakan Sekumpulan",
+   "th": "แบบประเมินเพื่อนร่วมกลุ่ม (CLO4 · ความรับผิดชอบ)",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      3160,
+      1550,
+      1550,
+      1550,
+      1550
+     ],
+     "head": [
+      "Kriteria · เกณฑ์",
+      "Ahli 1",
+      "Ahli 2",
+      "Ahli 3",
+      "Ahli 4"
+     ],
+     "rows": [
+      [
+       [
+        "Hadir mesyuarat",
+        "เข้าประชุมกลุ่ม"
+       ],
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       [
+        "Siapkan tugas tepat pada masanya",
+        "ทำงานเสร็จตรงเวลา"
+       ],
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       [
+        "Membantu rakan",
+        "ช่วยเหลือเพื่อน"
+       ],
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       [
+        "Bercakap bahasa Melayu dalam latihan",
+        "พูดภาษามลายูระหว่างซ้อม"
+       ],
+       "",
+       "",
+       "",
+       ""
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Beri markah 1–3 untuk setiap kriteria. Gunakan dalam markah \"penyertaan dan tanggungjawab\" (10%).",
+     "th": "ให้คะแนน 1–3 ในแต่ละเกณฑ์ ใช้ประกอบคะแนนการมีส่วนร่วมและความรับผิดชอบ (10%) ตาม TSU03"
+    }
+   ]
+  },
+  {
+   "ms": "9. Aktiviti Pembelajaran",
+   "th": "กิจกรรมการเรียนรู้",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      700,
+      5360,
+      2200,
+      1100
+     ],
+     "head": [
+      "#",
+      "Aktiviti · กิจกรรม",
+      "Alat · เครื่องมือ",
+      "Minit"
+     ],
+     "rows": [
+      [
+       "1",
+       "แบบทดสอบก่อนเรียน (Ujian Pra) ใช้ข้อสอบในหัวข้อ 11",
+       "Google Forms / ClassPoint",
+       "10"
+      ],
+      [
+       "2",
+       "ชี้แจงรายละเอียดโครงงาน เกณฑ์การประเมิน และกำหนดส่ง",
+       "PowerPoint",
+       "20"
+      ],
+      [
+       "3",
+       "สำนวนการประชุมกลุ่ม: ฟัง พูดตาม และฝึกบทสนทนาหัวข้อ 3",
+       "PowerPoint, ClassPoint",
+       "20"
+      ],
+      [
+       "4",
+       "ทบทวนสถานการณ์และสำนวนสำคัญจากบทที่ 1–12 แบบเกมทีม",
+       "Kahoot!",
+       "20"
+      ],
+      [
+       "5",
+       "ประชุมกลุ่มเป็นภาษามลายู: เลือกสถานการณ์ วางโครงเรื่อง แบ่งงาน แล้วกรอกแบบวางแผนในหัวข้อ 6",
+       "Google Docs, Padlet",
+       "30"
+      ],
+      [
+       "–",
+       "พัก",
+       "",
+       "10"
+      ],
+      [
+       "6",
+       "เขียนบทร่างใน Google Docs ผู้สอนเวียนให้คำปรึกษาและแก้ภาษาทีละกลุ่ม",
+       "Google Docs (Comment)",
+       "50"
+      ],
+      [
+       "7",
+       "ซ้อมรอบแรกให้กลุ่มคู่ดู แล้วให้ข้อเสนอแนะ 2 ข้อตาม Rubric หัวข้อ 7",
+       "Rubric โครงงาน",
+       "30"
+      ],
+      [
+       "8",
+       "สรุปงานที่ต้องทำก่อนคาบที่ 15 · แบบทดสอบหลังเรียน · Exit Ticket",
+       "Google Forms / ClassPoint",
+       "20"
+      ],
+      [
+       "",
+       "**รวม**",
+       "",
+       "**210**"
+      ]
+     ],
+     "size": 28
+    }
+   ]
+  },
+  {
+   "ms": "10. Latihan dan Rumusan",
+   "th": "แบบฝึกหัดและสรุปบท",
+   "blocks": [
+    {
+     "t": "h2",
+     "ms": "Latihan: Padankan",
+     "th": "จับคู่สำนวนกับหน้าที่"
+    },
+    {
+     "t": "table",
+     "w": [
+      4680,
+      4680
+     ],
+     "rows": [
+      [
+       "1. Cadangan saya, …  ____",
+       "ก. แบ่งงาน"
+      ],
+      [
+       "2. Saya setuju.  ____",
+       "ข. ไม่เห็นด้วยอย่างสุภาพ"
+      ],
+      [
+       "3. Siapa buat apa?  ____",
+       "ค. เสนอความคิด"
+      ],
+      [
+       "4. Maaf, saya kurang setuju.  ____",
+       "ง. กำหนดเวลา"
+      ],
+      [
+       "5. Bila kita berlatih?  ____",
+       "จ. เห็นด้วย"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "**Jawapan / เฉลย:** 1-ค, 2-จ, 3-ก, 4-ข, 5-ง",
+     "after": 160
+    },
+    {
+     "t": "box",
+     "lines": [
+      [
+       "Projek kumpulan menggabungkan semua yang telah dipelajari. Gunakan \"kita\" dalam mesyuarat kumpulan, beri cadangan dengan sopan dan bahagikan tugas dengan jelas. Pilih sekurang-kurangnya empat situasi, sediakan dokumen dan mesej, dan berlatih sehingga yakin.",
+       false,
+       80
+      ],
+      [
+       "โครงงานกลุ่มรวมทุกสิ่งที่เรียนมา ใช้ kita ในการประชุมกลุ่ม เสนอความคิดอย่างสุภาพ และแบ่งงานให้ชัดเจน เลือกอย่างน้อย 4 สถานการณ์ เตรียมเอกสารและข้อความ และซ้อมจนมั่นใจ",
+       true,
+       0
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Kelas seterusnya: Pembentangan projek, rumusan dan refleksi (Kelas 15).",
+     "th": "คาบถัดไป: นำเสนอโครงงาน สรุปบทเรียน และสะท้อนผลการเรียนรู้ (คาบที่ 15) ส่งบทใน Google Docs ก่อนเริ่มคาบ"
+    },
+    {
+     "t": "pagebreak"
+    }
+   ]
+  },
+  {
+   "ms": "11. Ujian Pra dan Ujian Pasca",
+   "th": "แบบทดสอบก่อนเรียนและหลังเรียน",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Gunakan ujian ini sebelum kelas (ujian pra) dan selepas kelas (ujian pasca). Pilih satu jawapan yang paling tepat.",
+     "th": "ใช้แบบทดสอบชุดนี้ทั้งก่อนเรียนและหลังเรียน 10 ข้อ ข้อละ 1 คะแนน เวลา 10 นาที (ข้อ 1–5 วัด CLO2 ข้อ 6–8 วัด CLO3 ข้อ 9–10 วัด CLO4)"
+    },
+    {
+     "t": "p",
+     "text": "**Jawapan / เฉลย (untuk pengajar · สำหรับผู้สอน):** 1-C · 2-A · 3-D · 4-B · 5-A · 6-C · 7-D · 8-B · 9-A · 10-D",
+     "after": 120
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      8660
+     ],
+     "head": [
+      "#",
+      "Soalan · คำถาม"
+     ],
+     "size": 26,
+     "after": -1,
+     "rows": [
+      [
+       "1",
+       [
+        "\"Cadangan\" bermaksud …",
+        "A. การประชุม   B. ความคิดเห็น   C. ข้อเสนอ   D. การฝึกซ้อม",
+        "คำว่า \"cadangan\" หมายถึง …"
+       ]
+      ],
+      [
+       "2",
+       [
+        "\"Saya setuju\" bermaksud …",
+        "A. ฉันเห็นด้วย   B. ฉันไม่เห็นด้วย   C. ฉันไม่แน่ใจ   D. ฉันขอโทษ",
+        "ประโยคนี้หมายถึง …"
+       ]
+      ],
+      [
+       "3",
+       [
+        "Dalam mesyuarat kumpulan, \"syarikat ___\" (บริษัทของพวกเราทุกคน)",
+        "A. kami   B. anda   C. saya   D. kita",
+        "เติมคำให้ถูกต้อง"
+       ]
+      ],
+      [
+       "4",
+       [
+        "\"Siapa buat apa?\" digunakan untuk …",
+        "A. ขอโทษ   B. แบ่งงาน   C. นัดหมาย   D. ขอบคุณ",
+        "ประโยคนี้ใช้เพื่อ …"
+       ]
+      ],
+      [
+       "5",
+       [
+        "\"Berlatih\" bermaksud …",
+        "A. ฝึกซ้อม   B. ทำงาน   C. ประชุม   D. เขียน",
+        "คำว่า \"berlatih\" หมายถึง …"
+       ]
+      ],
+      [
+       "6",
+       [
+        "Cara yang sopan untuk tidak bersetuju ialah …",
+        "A. Tidak! Salah!   B. Idea awak teruk.   C. Maaf, saya kurang setuju.   D. Diam.",
+        "การแสดงความไม่เห็นด้วยอย่างสุภาพคือ …"
+       ]
+      ],
+      [
+       "7",
+       [
+        "Situasi \"mengendalikan aduan\" dipelajari dalam …",
+        "A. Bab 2   B. Bab 4   C. Bab 9   D. Bab 12",
+        "สถานการณ์รับมือข้อร้องเรียนเรียนในบทใด"
+       ]
+      ],
+      [
+       "8",
+       [
+        "Ayat untuk menyambut pelanggan ialah …",
+        "A. Sekian, terima kasih.   B. Selamat datang.   C. Saya kurang setuju.   D. Siapa buat apa?",
+        "ประโยคต้อนรับลูกค้าที่เหมาะสมคือ …"
+       ]
+      ],
+      [
+       "9",
+       [
+        "Semasa simulasi, pelajar patut …",
+        "A. bercakap dengan yakin   B. membaca skrip sahaja   C. bercakap bahasa Thai   D. diam",
+        "ระหว่างการแสดง นิสิตควร …"
+       ]
+      ],
+      [
+       "10",
+       [
+        "Ahli kumpulan yang bertanggungjawab …",
+        "A. tidak hadir   B. lewat siapkan tugas   C. tidak membantu   D. siapkan tugas tepat masa",
+        "สมาชิกกลุ่มที่มีความรับผิดชอบคือ …"
+       ]
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

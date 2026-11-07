@@ -1,0 +1,895 @@
+{
+ "chapter": 7,
+ "title_ms": "Komunikasi Melalui Telefon dan Temu Janji Perniagaan",
+ "title_th": "การสื่อสารทางโทรศัพท์และการนัดหมายทางธุรกิจ",
+ "meta": [
+  [
+   "**Kursus**",
+   [
+    "1503250 Bahasa Melayu untuk Perniagaan",
+    "1503250 ภาษามลายูเพื่อธุรกิจ (3 หน่วยกิต)"
+   ]
+  ],
+  [
+   "**Minggu**",
+   [
+    "Kelas 7 · Semester 2/2569",
+    "คาบที่ 7 · ภาคเรียนที่ 2/2569 · วันพฤหัสบดี 08.00–12.10 น. ห้อง 17401"
+   ]
+  ],
+  [
+   "**Masa**",
+   [
+    "4 jam (teori 2 jam, amali 2 jam)",
+    "4 ชั่วโมง (ทฤษฎี 2 ชั่วโมง ปฏิบัติ 2 ชั่วโมง)"
+   ]
+  ],
+  [
+   "**Pelajar**",
+   [
+    "Tahun 2, Pengurusan Logistik (30 orang) · tiada asas bahasa Melayu",
+    "นิสิตชั้นปีที่ 2 วิชาเอกการจัดการโลจิสติกส์ 30 คน · ยังไม่มีพื้นฐานภาษามลายู"
+   ]
+  ],
+  [
+   "**CLO**",
+   [
+    "CLO2, CLO3",
+    "CLO2 มีทักษะการใช้ภาษามลายู ฟัง พูด อ่าน เพื่อการสื่อสารในธุรกิจ · CLO3 ฝึกปฏิบัติการใช้ภาษาในสถานการณ์ต่าง ๆ ในธุรกิจได้อย่างเหมาะสม"
+   ]
+  ],
+  [
+   "**Pengajar**",
+   [
+    "Asst. Prof. Muhammad Salaebing",
+    "ผศ.มูหำหมัด สาแลบิง"
+   ]
+  ]
+ ],
+ "sections": [
+  {
+   "ms": "1. Hasil Pembelajaran",
+   "th": "จุดประสงค์การเรียนรู้",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Pada akhir kelas ini, pelajar dapat:",
+     "th": "เมื่อจบคาบเรียนนี้ นิสิตสามารถ"
+    },
+    {
+     "t": "bullets",
+     "items": [
+      [
+       "Menjawab panggilan telefon dan menyambungkan talian dengan sopan.",
+       "รับโทรศัพท์และโอนสายได้อย่างสุภาพ (CLO2)"
+      ],
+      [
+       "Mengambil pesanan telefon dan mencatat nama, nombor telefon dan pesanan.",
+       "รับฝากข้อความทางโทรศัพท์ และจดชื่อ เบอร์โทรศัพท์ และข้อความได้ (CLO2)"
+      ],
+      [
+       "Meminta orang lain mengulang atau bercakap perlahan.",
+       "ขอให้อีกฝ่ายพูดซ้ำหรือพูดช้าลงได้ (CLO2)"
+      ],
+      [
+       "Membuat dan menukar temu janji dengan hari dan masa yang sesuai.",
+       "นัดหมายและเลื่อนนัดโดยใช้วันและเวลาที่เหมาะสมได้ (CLO3)"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "2. Menjawab dan Menyambungkan Panggilan",
+   "th": "การรับสายและการโอนสาย",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      2300,
+      3700,
+      3360
+     ],
+     "head": [
+      "Situasi · สถานการณ์",
+      "Bahasa Melayu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       [
+        "Menjawab",
+        "รับสาย"
+       ],
+       "Helo, Logistik Sri Songkhla. Selamat pagi. Boleh saya bantu?",
+       "สวัสดีค่ะ บริษัทโลจิสติกส์ศรีสงขลา มีอะไรให้ช่วยไหมคะ"
+      ],
+      [
+       [
+        "Meminta bercakap",
+        "ขอสายบุคคล"
+       ],
+       "Boleh saya bercakap dengan Encik Hakim?",
+       "ขอสายคุณฮากิมได้ไหม"
+      ],
+      [
+       [
+        "Bertanya pemanggil",
+        "ถามว่าใครโทรมา"
+       ],
+       "Siapa yang bercakap?",
+       "ใครพูดสายอยู่คะ/ครับ"
+      ],
+      [
+       [
+        "Menyambungkan",
+        "โอนสาย"
+       ],
+       "Sila tunggu sebentar. Saya sambungkan.",
+       "กรุณารอสักครู่ จะโอนสายให้"
+      ],
+      [
+       [
+        "Orang tiada",
+        "ผู้ที่ถูกขอสายไม่อยู่"
+       ],
+       "Maaf, Encik Hakim tiada di pejabat.",
+       "ขอโทษค่ะ คุณฮากิมไม่อยู่ที่สำนักงาน"
+      ],
+      [
+       "",
+       "Maaf, Encik Hakim sedang bermesyuarat.",
+       "ขอโทษค่ะ คุณฮากิมกำลังประชุม"
+      ],
+      [
+       [
+        "Menutup",
+        "วางสาย"
+       ],
+       "Terima kasih kerana menelefon.",
+       "ขอบคุณที่โทรมา"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "3. Mengambil Pesanan",
+   "th": "การรับฝากข้อความ",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      4400,
+      4960
+     ],
+     "head": [
+      "Bahasa Melayu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "Boleh saya ambil pesanan?",
+       "ฝากข้อความไว้ไหมคะ/ครับ"
+      ],
+      [
+       "Berapa nombor telefon Encik?",
+       "เบอร์โทรศัพท์ของคุณคือเบอร์อะไร"
+      ],
+      [
+       "Maaf, boleh ulang sekali lagi?",
+       "ขอโทษ พูดอีกครั้งได้ไหม"
+      ],
+      [
+       "Sila cakap perlahan-lahan.",
+       "กรุณาพูดช้า ๆ"
+      ],
+      [
+       "Saya akan beri tahu Encik Hakim.",
+       "ฉัน/ผมจะแจ้งคุณฮากิมให้"
+      ]
+     ]
+    },
+    {
+     "t": "box",
+     "lines": [
+      [
+       "**Pesanan = ข้อความ หรือ คำสั่งซื้อ**",
+       false,
+       20
+      ],
+      [
+       "คำว่า pesanan มี 2 ความหมาย ในบทที่ 4 แปลว่า คำสั่งซื้อ ส่วนในบทนี้ ambil pesanan แปลว่า รับฝากข้อความ ต้องดูจากบริบท",
+       true,
+       40
+      ],
+      [
+       "**Membaca nombor telefon**",
+       false,
+       20
+      ],
+      [
+       "อ่านเบอร์โทรศัพท์ทีละตัวเลข เช่น 012-345 6789 อ่านว่า kosong satu dua, tiga empat lima, enam tujuh lapan sembilan (ตัวเลขจากบทที่ 3) เบอร์นี้เป็นตัวอย่างสมมติ",
+       true,
+       0
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Nota Pesanan Telefon",
+     "th": "แบบบันทึกข้อความทางโทรศัพท์"
+    },
+    {
+     "t": "table",
+     "w": [
+      3400,
+      5960
+     ],
+     "head": [
+      "Maklumat · ข้อมูล",
+      ""
+     ],
+     "rows": [
+      [
+       [
+        "Untuk",
+        "ถึง"
+       ],
+       ""
+      ],
+      [
+       [
+        "Daripada",
+        "จาก"
+       ],
+       ""
+      ],
+      [
+       [
+        "Syarikat",
+        "บริษัท"
+       ],
+       ""
+      ],
+      [
+       [
+        "Nombor telefon",
+        "เบอร์โทรศัพท์"
+       ],
+       ""
+      ],
+      [
+       [
+        "Pesanan",
+        "ข้อความ"
+       ],
+       ""
+      ],
+      [
+       [
+        "Tarikh dan masa panggilan",
+        "วันที่และเวลาที่โทรมา"
+       ],
+       ""
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "4. Membuat Temu Janji",
+   "th": "การนัดหมาย",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      4400,
+      4960
+     ],
+     "head": [
+      "Bahasa Melayu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "Boleh kita berjumpa?",
+       "เราพบกันได้ไหม"
+      ],
+      [
+       "Bila Encik ada masa?",
+       "คุณว่างเมื่อไร"
+      ],
+      [
+       "Hari Selasa, pukul sepuluh pagi, boleh?",
+       "วันอังคาร 10 โมงเช้า ได้ไหม"
+      ],
+      [
+       "Boleh. Jumpa hari Selasa.",
+       "ได้ พบกันวันอังคาร"
+      ],
+      [
+       "Maaf, saya tidak boleh hari itu.",
+       "ขอโทษ วันนั้นไม่สะดวก"
+      ],
+      [
+       "Bagaimana dengan hari Rabu?",
+       "วันพุธเป็นอย่างไร"
+      ],
+      [
+       "pukul sepuluh pagi waktu Malaysia",
+       "10 โมงเช้าเวลามาเลเซีย"
+      ]
+     ]
+    },
+    {
+     "t": "box",
+     "lines": [
+      [
+       "**Tips temu janji dengan rakan di Malaysia**",
+       false,
+       20
+      ],
+      [
+       "• บอกเวลาให้ชัดว่าเป็นเวลามาเลเซียหรือเวลาไทย เพราะต่างกัน 1 ชั่วโมง (บทที่ 3)",
+       true,
+       20
+      ],
+      [
+       "• เลี่ยงช่วงเที่ยงวันศุกร์ และตรวจวันทำการของรัฐนั้น เช่น เคดะห์หยุดวันศุกร์–เสาร์ (บทที่ 3 และ 5)",
+       true,
+       20
+      ],
+      [
+       "• ทวนนัดหมายท้ายสายทุกครั้ง: วัน วันที่ เวลา และสถานที่",
+       true,
+       0
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "5. Kosa Kata",
+   "th": "คำศัพท์",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      2300,
+      2380,
+      2300,
+      2380
+     ],
+     "head": [
+      "Bahasa Melayu",
+      "ความหมาย",
+      "Bahasa Melayu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "telefon",
+       "โทรศัพท์",
+       "bercakap",
+       "พูด (คุย)"
+      ],
+      [
+       "menelefon",
+       "โทรศัพท์ (กริยา)",
+       "sambungkan",
+       "ต่อสาย โอนสาย"
+      ],
+      [
+       "helo",
+       "ฮัลโหล",
+       "sebentar",
+       "สักครู่"
+      ],
+      [
+       "pesanan",
+       "ข้อความ (ในบทนี้)",
+       "tiada",
+       "ไม่อยู่ ไม่มี"
+      ],
+      [
+       "mesyuarat",
+       "การประชุม",
+       "sedang",
+       "กำลัง"
+      ],
+      [
+       "temu janji",
+       "การนัดหมาย",
+       "berjumpa",
+       "พบ"
+      ],
+      [
+       "masa",
+       "เวลา (ที่ว่าง)",
+       "ulang",
+       "ซ้ำ"
+      ],
+      [
+       "perlahan-lahan",
+       "ช้า ๆ",
+       "beri tahu",
+       "บอก แจ้ง"
+      ]
+     ]
+    },
+    {
+     "t": "pagebreak"
+    }
+   ]
+  },
+  {
+   "ms": "6. Perbualan: Panggilan Telefon",
+   "th": "บทสนทนา: การโทรศัพท์",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Puan Rosmah menelefon syarikat Aisyah. Encik Hakim sedang bermesyuarat. (Watak, syarikat dan nombor telefon dalam perbualan ini rekaan.)",
+     "th": "คุณรอสมะห์โทรมาที่บริษัทของไอซยะห์ แต่คุณฮากิมกำลังประชุม (ตัวละคร บริษัท และเบอร์โทรศัพท์เป็นเรื่องสมมติ)"
+    },
+    {
+     "t": "dialog",
+     "lines": [
+      [
+       "Aisyah",
+       "Helo, Logistik Sri Songkhla. Selamat pagi. Boleh saya bantu?",
+       "ฮัลโหล บริษัทโลจิสติกส์ศรีสงขลา สวัสดีค่ะ มีอะไรให้ช่วยไหมคะ"
+      ],
+      [
+       "Rosmah",
+       "Selamat pagi. Boleh saya bercakap dengan Encik Hakim?",
+       "สวัสดีค่ะ ขอสายคุณฮากิมได้ไหมคะ"
+      ],
+      [
+       "Aisyah",
+       "Maaf, Encik Hakim sedang bermesyuarat. Boleh saya ambil pesanan?",
+       "ขอโทษค่ะ คุณฮากิมกำลังประชุม ฝากข้อความไว้ไหมคะ"
+      ],
+      [
+       "Rosmah",
+       "Boleh. Saya Rosmah. Saya mahu berjumpa hari Selasa, pukul sepuluh pagi.",
+       "ได้ค่ะ ฉันชื่อรอสมะห์ อยากพบวันอังคาร 10 โมงเช้าค่ะ"
+      ],
+      [
+       "Aisyah",
+       "Baik. Berapa nombor telefon Puan?",
+       "ได้ค่ะ เบอร์โทรศัพท์ของคุณคือเบอร์อะไรคะ"
+      ],
+      [
+       "Rosmah",
+       "012-345 6789. Terima kasih.",
+       "012-345 6789 ขอบคุณค่ะ"
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Tugasan: Isi Nota Pesanan Telefon (bahagian 3) berdasarkan perbualan ini.",
+     "th": "งาน: กรอกแบบบันทึกข้อความทางโทรศัพท์ในหัวข้อ 3 จากบทสนทนานี้"
+    }
+   ]
+  },
+  {
+   "ms": "7. Aktiviti Pembelajaran",
+   "th": "กิจกรรมการเรียนรู้",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      700,
+      5360,
+      2200,
+      1100
+     ],
+     "head": [
+      "#",
+      "Aktiviti · กิจกรรม",
+      "Alat · เครื่องมือ",
+      "Minit"
+     ],
+     "rows": [
+      [
+       "1",
+       "แบบทดสอบก่อนเรียน (Ujian Pra) ใช้ข้อสอบในหัวข้อ 11",
+       "Google Forms / ClassPoint",
+       "10"
+      ],
+      [
+       "2",
+       "ทบทวนบทที่ 6: ต้อนรับลูกค้าและถามความต้องการเป็นคู่",
+       "แบบฟอร์มบทที่ 6",
+       "10"
+      ],
+      [
+       "3",
+       "สำนวนรับสาย โอนสาย และรับฝากข้อความ: ฟัง พูดตาม แล้วจับคู่สำนวนกับสถานการณ์",
+       "PowerPoint, Kahoot!",
+       "25"
+      ],
+      [
+       "4",
+       "อ่านและเขียนเบอร์โทรศัพท์: ครูอ่านเบอร์สมมติ นิสิตจด แล้วสลับกันอ่านเป็นคู่",
+       "ClassPoint Short Answer",
+       "15"
+      ],
+      [
+       "5",
+       "ฟังแล้วกรอกแบบบันทึกข้อความ: ครูอ่านสคริปต์ในหัวข้อ 12 (Latihan B)",
+       "แบบบันทึกในหัวข้อ 3",
+       "25"
+      ],
+      [
+       "–",
+       "พัก",
+       "",
+       "10"
+      ],
+      [
+       "6",
+       "Information Gap นัดหมาย: แต่ละคนมีตารางงานไม่เหมือนกัน หาวันเวลาที่ว่างตรงกันด้วยประโยคในหัวข้อ 4",
+       "บัตรตารางงาน",
+       "35"
+      ],
+      [
+       "7",
+       "จำลองการโทรศัพท์: นั่งหันหลังชนกันเพื่อไม่เห็นหน้า ผู้โทรขอสาย ผู้รับสายโอนสายหรือรับฝากข้อความ แล้วนัดหมาย จากนั้นสลับบท",
+       "บัตรบทบาท แบบบันทึกข้อความ",
+       "40"
+      ],
+      [
+       "8",
+       "ทบทวนก่อนสอบกลางภาค (คาบที่ 1–7) และชี้แจงรูปแบบสอบข้อเขียนและสอบปากเปล่า",
+       "PowerPoint, Kahoot!",
+       "20"
+      ],
+      [
+       "9",
+       "แบบทดสอบหลังเรียน (ข้อสอบชุดเดียวกับหัวข้อ 11) · Exit Ticket",
+       "Google Forms / ClassPoint",
+       "20"
+      ],
+      [
+       "",
+       "**รวม**",
+       "",
+       "**210**"
+      ]
+     ],
+     "size": 28
+    }
+   ]
+  },
+  {
+   "ms": "8. Latihan",
+   "th": "แบบฝึกหัด",
+   "blocks": [
+    {
+     "t": "h2",
+     "ms": "Latihan A: Padankan",
+     "th": "จับคู่สำนวนกับสถานการณ์"
+    },
+    {
+     "t": "table",
+     "w": [
+      5160,
+      4200
+     ],
+     "head": [
+      "Bahasa Melayu",
+      "สถานการณ์"
+     ],
+     "rows": [
+      [
+       "1. Sila tunggu sebentar. Saya sambungkan.  ____",
+       "ก. ขอให้พูดซ้ำ"
+      ],
+      [
+       "2. Boleh saya ambil pesanan?  ____",
+       "ข. โอนสาย"
+      ],
+      [
+       "3. Maaf, boleh ulang sekali lagi?  ____",
+       "ค. ขอสายบุคคล"
+      ],
+      [
+       "4. Boleh saya bercakap dengan Puan Siti?  ____",
+       "ง. รับฝากข้อความ"
+      ],
+      [
+       "5. Bagaimana dengan hari Rabu?  ____",
+       "จ. เสนอวันนัดใหม่"
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan B: Dengar dan Isi Nota Pesanan",
+     "th": "ฟังแล้วกรอกแบบบันทึกข้อความในหัวข้อ 3"
+    },
+    {
+     "t": "bi",
+     "ms": "Guru membaca skrip dalam bahagian 12.",
+     "th": "ผู้สอนอ่านสคริปต์ในหัวข้อ 12 นิสิตกรอกแบบบันทึกข้อความทางโทรศัพท์"
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan C: Susun Perbualan",
+     "th": "เรียงบทสนทนาทางโทรศัพท์ (1–6)"
+    },
+    {
+     "t": "table",
+     "w": [
+      1200,
+      8160
+     ],
+     "rows": [
+      [
+       "____",
+       "Boleh saya bercakap dengan Encik Faiz?"
+      ],
+      [
+       "____",
+       "Terima kasih kerana menelefon."
+      ],
+      [
+       "____",
+       "Helo, Syarikat Bintang Utara. Boleh saya bantu?"
+      ],
+      [
+       "____",
+       "Maaf, Encik Faiz tiada di pejabat. Boleh saya ambil pesanan?"
+      ],
+      [
+       "____",
+       "Siapa yang bercakap?"
+      ],
+      [
+       "____",
+       "Saya Aisyah dari Logistik Sri Songkhla."
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan D: Buat Temu Janji",
+     "th": "นัดหมายจากตารางงาน"
+    },
+    {
+     "t": "bi",
+     "ms": "Ini jadual Encik Faiz. Pilih masa yang kosong dan tulis ayat.",
+     "th": "นี่คือตารางงานของคุณฟาอิซ เลือกเวลาที่ว่างแล้วเขียนประโยคนัดหมาย"
+    },
+    {
+     "t": "table",
+     "w": [
+      2400,
+      3480,
+      3480
+     ],
+     "head": [
+      "Hari",
+      "Pagi",
+      "Petang"
+     ],
+     "rows": [
+      [
+       "Isnin",
+       "mesyuarat",
+       "mesyuarat"
+      ],
+      [
+       "Selasa",
+       "kosong",
+       "ke Pulau Pinang"
+      ],
+      [
+       "Rabu",
+       "ke gudang",
+       "kosong"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "1. ________________________________________ , boleh?"
+    },
+    {
+     "t": "p",
+     "text": "2. ________________________________________ , boleh?",
+     "after": 200
+    },
+    {
+     "t": "bi",
+     "ms": "Nota: kosong = ว่าง (masa yang tiada kerja).",
+     "th": "หมายเหตุ: kosong ในตารางนี้แปลว่า ว่าง (คำเดียวกับเลข 0 ในบทที่ 3)"
+    }
+   ]
+  },
+  {
+   "ms": "9. Jawapan",
+   "th": "เฉลยแบบฝึกหัด",
+   "blocks": [
+    {
+     "t": "bullets",
+     "items": [
+      "**Perbualan (bahagian 6):** Untuk: Encik Hakim · Daripada: Puan Rosmah · Nombor telefon: 012-345 6789 · Pesanan: mahu berjumpa hari Selasa, pukul 10.00 pagi",
+      "**Latihan A:** 1-ข, 2-ง, 3-ก, 4-ค, 5-จ",
+      "**Latihan B:** Untuk: Puan Siti · Daripada: Encik Kamal · Syarikat: Syarikat Mutiara · Nombor telefon: 019-876 5432 · Pesanan: barang sampai hari Khamis, pukul dua petang",
+      "**Latihan C:** 1. Helo, Syarikat Bintang Utara … 2. Boleh saya bercakap dengan Encik Faiz? 3. Siapa yang bercakap? 4. Saya Aisyah dari Logistik Sri Songkhla. 5. Maaf, Encik Faiz tiada di pejabat … 6. Terima kasih kerana menelefon.",
+      "**Latihan D:** 1. Hari Selasa, pukul sepuluh pagi, boleh? 2. Hari Rabu, pukul dua petang, boleh? (masa lain pada pagi Selasa atau petang Rabu juga betul)"
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "10. Rumusan",
+   "th": "สรุปบท",
+   "blocks": [
+    {
+     "t": "box",
+     "lines": [
+      [
+       "Jawab telefon dengan salam dan nama syarikat. Jika orang itu tiada, ambil pesanan dan catat nama, nombor telefon dan pesanan. Minta ulang jika tidak faham. Untuk temu janji, nyatakan hari, tarikh, masa dan tempat, dan ulang semula di akhir panggilan.",
+       false,
+       80
+      ],
+      [
+       "รับสายด้วยคำทักทายและชื่อบริษัท ถ้าผู้ที่ถูกขอสายไม่อยู่ ให้รับฝากข้อความ จดชื่อ เบอร์โทรศัพท์ และข้อความ ถ้าไม่เข้าใจให้ขอให้พูดซ้ำ เวลานัดหมายให้บอกวัน วันที่ เวลา และสถานที่ แล้วทวนอีกครั้งก่อนวางสาย",
+       true,
+       0
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Kelas seterusnya: Peperiksaan pertengahan semester (Kelas 1–7): bertulis dan lisan.",
+     "th": "คาบถัดไป: สอบกลางภาค (เนื้อหาคาบที่ 1–7) มีทั้งสอบข้อเขียนและสอบปากเปล่า"
+    },
+    {
+     "t": "pagebreak"
+    }
+   ]
+  },
+  {
+   "ms": "11. Ujian Pra dan Ujian Pasca",
+   "th": "แบบทดสอบก่อนเรียนและหลังเรียน",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Gunakan ujian ini sebelum kelas (ujian pra) dan selepas kelas (ujian pasca). Pilih satu jawapan yang paling tepat.",
+     "th": "ใช้แบบทดสอบชุดนี้ทั้งก่อนเรียนและหลังเรียน 10 ข้อ ข้อละ 1 คะแนน เวลา 10 นาที (ข้อ 1–6 วัด CLO2 ข้อ 7–10 วัดการเลือกใช้ภาษาให้เหมาะกับสถานการณ์ตาม CLO3)"
+    },
+    {
+     "t": "p",
+     "text": "**Jawapan / เฉลย (untuk pengajar · สำหรับผู้สอน):** 1-A · 2-C · 3-D · 4-B · 5-A · 6-D · 7-C · 8-B · 9-D · 10-A",
+     "after": 120
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      8660
+     ],
+     "head": [
+      "#",
+      "Soalan · คำถาม"
+     ],
+     "size": 26,
+     "rows": [
+      [
+       "1",
+       [
+        "\"Saya sambungkan\" bermaksud …",
+        "A. จะโอนสายให้   B. จะโทรกลับ   C. กำลังประชุม   D. ไม่อยู่",
+        "ประโยคนี้หมายถึง …"
+       ]
+      ],
+      [
+       "2",
+       [
+        "\"Mesyuarat\" bermaksud …",
+        "A. ข้อความ   B. โทรศัพท์   C. การประชุม   D. การนัดหมาย",
+        "คำว่า \"mesyuarat\" หมายถึง …"
+       ]
+      ],
+      [
+       "3",
+       [
+        "\"Boleh saya ambil pesanan?\" digunakan apabila …",
+        "A. ลูกค้าสั่งสินค้า   B. รับโทรศัพท์ครั้งแรก   C. นัดหมาย   D. ผู้ที่ถูกขอสายไม่อยู่",
+        "ประโยคนี้ใช้เมื่อ …"
+       ]
+      ],
+      [
+       "4",
+       [
+        "Nombor 019 dibaca …",
+        "A. sembilan belas   B. kosong satu sembilan   C. seratus sembilan belas   D. satu sembilan",
+        "เบอร์ 019 อ่านว่า …"
+       ]
+      ],
+      [
+       "5",
+       [
+        "\"Sila cakap perlahan-lahan\" bermaksud …",
+        "A. กรุณาพูดช้า ๆ   B. กรุณารอ   C. กรุณาพูดซ้ำ   D. กรุณาโทรมาใหม่",
+        "ประโยคนี้หมายถึง …"
+       ]
+      ],
+      [
+       "6",
+       [
+        "\"Bila Encik ada masa?\" bermaksud …",
+        "A. คุณมีนาฬิกาไหม   B. ตอนนี้กี่โมง   C. คุณอยู่ที่ไหน   D. คุณว่างเมื่อไร",
+        "ประโยคนี้หมายถึง …"
+       ]
+      ],
+      [
+       "7",
+       [
+        "Ayat pertama yang sesuai semasa menjawab telefon di pejabat ialah …",
+        "A. Siapa kamu?   B. Ya, apa?   C. Helo, Logistik Sri Songkhla. Boleh saya bantu?   D. Selamat jalan.",
+        "ประโยคแรกที่เหมาะสมเมื่อรับโทรศัพท์ที่สำนักงานคือ …"
+       ]
+      ],
+      [
+       "8",
+       [
+        "Anda tidak faham nombor telefon. Anda berkata …",
+        "A. Terima kasih.   B. Maaf, boleh ulang sekali lagi?   C. Selamat datang.   D. Sama-sama.",
+        "ถ้าฟังเบอร์โทรศัพท์ไม่ทัน ควรพูดว่า …"
+       ]
+      ],
+      [
+       "9",
+       [
+        "Anda tidak boleh hari Isnin. Anda berkata …",
+        "A. Boleh. Jumpa hari Isnin.   B. Saya sambungkan.   C. Ke mana?   D. Maaf, saya tidak boleh hari itu. Bagaimana dengan hari Rabu?",
+        "ถ้าวันจันทร์ไม่สะดวก ควรพูดว่า …"
+       ]
+      ],
+      [
+       "10",
+       [
+        "Waktu yang kurang sesuai untuk temu janji dengan lelaki Islam ialah …",
+        "A. Jumaat, tengah hari   B. Selasa, pagi   C. Rabu, petang   D. Khamis, pagi",
+        "ช่วงเวลาที่ไม่ค่อยเหมาะนัดหมายกับผู้ชายมุสลิมคือ …"
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "12. Skrip Guru: Latihan Mendengar",
+   "th": "สคริปต์ผู้สอนสำหรับแบบฝึก B",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Baca dua kali dengan perlahan. Baca nombor telefon satu per satu.",
+     "th": "อ่าน 2 รอบช้า ๆ อ่านเบอร์โทรศัพท์ทีละตัวเลข"
+    },
+    {
+     "t": "box",
+     "lines": [
+      [
+       "Helo, selamat petang. Saya Kamal dari Syarikat Mutiara. Boleh saya bercakap dengan Puan Siti? … Tiada? Baik. Nombor telefon saya kosong satu sembilan, lapan tujuh enam, lima empat tiga dua. Barang sampai hari Khamis, pukul dua petang. Terima kasih.",
+       false,
+       60
+      ],
+      [
+       "Jawapan: Untuk Puan Siti · Daripada Encik Kamal · Syarikat Mutiara · 019-876 5432 · barang sampai hari Khamis, pukul 2.00 petang (บุคคล บริษัท และเบอร์เป็นเรื่องสมมติ)",
+       true,
+       0
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

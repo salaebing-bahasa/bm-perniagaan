@@ -1,0 +1,1231 @@
+{
+ "title_ms": "Pengenalan Kursus dan Bahasa Melayu dalam Dunia Perniagaan",
+ "title_th": "แนะนำรายวิชา ความสำคัญของภาษามลายูเพื่อธุรกิจ และภาพรวมธุรกิจมาเลเซีย",
+ "meta": [
+  [
+   "**Kursus**",
+   [
+    "1503250 Bahasa Melayu untuk Perniagaan",
+    "1503250 ภาษามลายูเพื่อธุรกิจ (3 หน่วยกิต)"
+   ]
+  ],
+  [
+   "**Minggu**",
+   [
+    "Kelas 1 · Semester 2/2569",
+    "คาบที่ 1 · ภาคเรียนที่ 2/2569 · วันพฤหัสบดี 08.00–12.10 น. ห้อง 17401"
+   ]
+  ],
+  [
+   "**Masa**",
+   [
+    "4 jam (teori 2 jam, amali 2 jam)",
+    "4 ชั่วโมง (ทฤษฎี 2 ชั่วโมง ปฏิบัติ 2 ชั่วโมง)"
+   ]
+  ],
+  [
+   "**Pelajar**",
+   [
+    "Tahun 2, Pengurusan Logistik (30 orang) · tiada asas bahasa Melayu",
+    "นิสิตชั้นปีที่ 2 วิชาเอกการจัดการโลจิสติกส์ 30 คน · ยังไม่มีพื้นฐานภาษามลายู"
+   ]
+  ],
+  [
+   "**CLO**",
+   [
+    "CLO1, CLO4",
+    "CLO1 อธิบายความรู้พื้นฐาน คำศัพท์ และวัฒนธรรมชาวมาเลเซียที่เกี่ยวข้องกับธุรกิจได้ · CLO4 แสดงออกถึงคุณค่าในการสื่อสารภาษามลายู กล้าแสดงออก"
+   ]
+  ],
+  [
+   "**Pengajar**",
+   [
+    "Asst. Prof. Muhammad Salaebing",
+    "ผศ.มูหำหมัด สาแลบิง"
+   ]
+  ]
+ ],
+ "sections": [
+  {
+   "ms": "1. Hasil Pembelajaran",
+   "th": "จุดประสงค์การเรียนรู้",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Pada akhir kelas ini, pelajar dapat:",
+     "th": "เมื่อจบคาบเรียนนี้ นิสิตสามารถ"
+    },
+    {
+     "t": "bullets",
+     "items": [
+      [
+       "Menerangkan kandungan, aktiviti dan cara penilaian kursus ini.",
+       "อธิบายเนื้อหา กิจกรรม และวิธีการประเมินผลของรายวิชาได้ (CLO1)"
+      ],
+      [
+       "Menyatakan sekurang-kurangnya tiga sebab bahasa Melayu penting dalam perniagaan.",
+       "บอกเหตุผลที่ภาษามลายูมีความสำคัญต่อการทำธุรกิจได้อย่างน้อย 3 ข้อ (CLO1)"
+      ],
+      [
+       "Menerangkan gambaran umum ekonomi dan perniagaan Malaysia, terutama yang berkaitan dengan logistik.",
+       "อธิบายภาพรวมเศรษฐกิจและธุรกิจของมาเลเซีย โดยเฉพาะด้านโลจิสติกส์ได้ (CLO1)"
+      ],
+      [
+       "Menyebut huruf vokal dan konsonan asas bahasa Melayu dengan betul.",
+       "ออกเสียงสระและพยัญชนะพื้นฐานของภาษามลายูได้ถูกต้อง (CLO4)"
+      ],
+      [
+       "Menggunakan 10 frasa salam dan 20 kosa kata asas perniagaan dalam perbualan ringkas.",
+       "ใช้วลีทักทาย 10 วลีและคำศัพท์ธุรกิจพื้นฐาน 20 คำในบทสนทนาสั้น ๆ ได้ (CLO4)"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "2. Pengenalan Kursus",
+   "th": "แนะนำรายวิชา",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Kursus ini melatih kemahiran mendengar, bertutur, membaca dan menulis bahasa Melayu dalam situasi perniagaan. Pelajar juga mempelajari budaya perniagaan Malaysia. Kursus ini sesuai untuk pelajar yang belum pernah belajar bahasa Melayu.",
+     "th": "รายวิชานี้ฝึกทักษะการฟัง พูด อ่าน และเขียนภาษามลายูในสถานการณ์ทางธุรกิจ พร้อมเรียนรู้วัฒนธรรมธุรกิจของมาเลเซีย เหมาะกับนิสิตที่ยังไม่เคยเรียนภาษามลายูมาก่อน"
+    },
+    {
+     "t": "h2",
+     "ms": "Rancangan 15 Minggu",
+     "th": "แผนการสอน 15 สัปดาห์"
+    },
+    {
+     "t": "table",
+     "w": [
+      1100,
+      6460,
+      1800
+     ],
+     "head": [
+      "Kelas",
+      "Topik · หัวข้อ",
+      "CLO"
+     ],
+     "rows": [
+      [
+       "1",
+       "แนะนำรายวิชา ความสำคัญของภาษามลายูเพื่อธุรกิจ ภาพรวมธุรกิจมาเลเซีย และระบบเสียงภาษามลายู",
+       "1, 4"
+      ],
+      [
+       "2",
+       "การแนะนำตนเองในบริบทธุรกิจ",
+       "2, 4"
+      ],
+      [
+       "3",
+       "ตัวเลข เงิน ราคา วัน เดือน และเวลา",
+       "1, 2"
+      ],
+      [
+       "4",
+       "คำศัพท์และสำนวนพื้นฐานทางธุรกิจ–โลจิสติกส์ และโครงสร้างประโยคพื้นฐาน",
+       "1, 2"
+      ],
+      [
+       "5",
+       "วัฒนธรรมและมารยาททางธุรกิจของชาวมาเลเซีย และการแนะนำองค์กร",
+       "1, 3"
+      ],
+      [
+       "6",
+       "การต้อนรับลูกค้าและการสร้างความสัมพันธ์ทางธุรกิจ",
+       "2, 3"
+      ],
+      [
+       "7",
+       "การสื่อสารทางโทรศัพท์และการนัดหมายทางธุรกิจ",
+       "2, 3"
+      ],
+      [
+       "8",
+       "สอบกลางภาค (ข้อเขียนและปากเปล่า)",
+       "1, 2"
+      ],
+      [
+       "9",
+       "การอ่านเอกสารและประกาศทางธุรกิจ",
+       "1, 2"
+      ],
+      [
+       "10",
+       "การนำเสนอสินค้าและบริการเป็นภาษามลายู",
+       "3, 4"
+      ],
+      [
+       "11",
+       "การสั่งซื้อและการเจรจาต่อรองราคาเบื้องต้น",
+       "2, 3"
+      ],
+      [
+       "12",
+       "การเขียนข้อความธุรกิจและการสื่อสารออนไลน์",
+       "3"
+      ],
+      [
+       "13",
+       "การจัดการข้อร้องเรียนและการแก้ปัญหาในการบริการลูกค้า",
+       "3, 4"
+      ],
+      [
+       "14",
+       "โครงงานกลุ่ม: การจำลองสถานการณ์ทางธุรกิจด้วยภาษามลายู",
+       "2, 3, 4"
+      ],
+      [
+       "15",
+       "นำเสนอโครงงาน สรุปบทเรียน และสะท้อนผลการเรียนรู้",
+       "3, 4"
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Penilaian",
+     "th": "การประเมินผล"
+    },
+    {
+     "t": "table",
+     "w": [
+      5560,
+      2400,
+      1400
+     ],
+     "head": [
+      "Penilaian · วิธีการ",
+      "CLO",
+      "%"
+     ],
+     "rows": [
+      [
+       "สอบข้อเขียนกลางภาคและปลายภาค",
+       "CLO1",
+       "30"
+      ],
+      [
+       "ทดสอบทักษะการฟัง พูด และอ่าน",
+       "CLO2",
+       "20"
+      ],
+      [
+       "บทบาทสมมติและการจำลองสถานการณ์ทางธุรกิจ",
+       "CLO3",
+       "20"
+      ],
+      [
+       "การนำเสนอผลงานรายบุคคล/รายกลุ่ม",
+       "CLO4",
+       "10"
+      ],
+      [
+       "โครงงานกลุ่มด้านการสื่อสารทางธุรกิจ",
+       "CLO2, CLO3, CLO4",
+       "10"
+      ],
+      [
+       "การมีส่วนร่วมและความรับผิดชอบในการเรียน",
+       "CLO4",
+       "10"
+      ],
+      [
+       "**รวม**",
+       "",
+       "**100**"
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Setiap bab ada ujian pra dan ujian pasca untuk melihat perkembangan pelajar.",
+     "th": "ทุกบทมีแบบทดสอบก่อนเรียนและหลังเรียน เพื่อดูพัฒนาการของนิสิต"
+    }
+   ]
+  },
+  {
+   "ms": "3. Mengapa Bahasa Melayu Penting dalam Perniagaan?",
+   "th": "ทำไมภาษามลายูจึงสำคัญต่อธุรกิจ",
+   "blocks": [
+    {
+     "t": "bullets",
+     "items": [
+      [
+       "**Bahasa kebangsaan Malaysia.** Bahasa Melayu ialah bahasa kebangsaan Malaysia (Perkara 152, Perlembagaan Persekutuan). Ia digunakan dalam urusan kerajaan, dokumen rasmi, papan tanda dan media.",
+       "**ภาษาประจำชาติของมาเลเซีย** ภาษามลายูเป็นภาษาประจำชาติของมาเลเซียตามมาตรา 152 ของรัฐธรรมนูญสหพันธรัฐ ใช้ในงานราชการ เอกสารทางการ ป้าย และสื่อ"
+      ],
+      [
+       "**Digunakan di beberapa negara ASEAN.** Bahasa Melayu juga bahasa rasmi Brunei dan bahasa kebangsaan Singapura. Bahasa Indonesia berasal daripada bahasa Melayu, jadi penuturnya boleh saling memahami.",
+       "**ใช้ในหลายประเทศอาเซียน** ภาษามลายูเป็นภาษาราชการของบรูไนและภาษาประจำชาติของสิงคโปร์ ภาษาอินโดนีเซียพัฒนามาจากภาษามลายู ผู้พูดจึงสื่อสารเข้าใจกันได้มาก"
+      ],
+      [
+       "**Jiran dan rakan dagang Thailand.** Malaysia bersempadan dengan Thailand. Banyak barang dihantar melalui sempadan di Songkhla setiap hari.",
+       "**เพื่อนบ้านและคู่ค้าของไทย** มาเลเซียมีพรมแดนติดกับไทย และมีสินค้าขนส่งผ่านด่านชายแดนในจังหวัดสงขลาทุกวัน"
+      ],
+      [
+       "**Membina kepercayaan pelanggan.** Pelanggan lebih selesa apabila kita menyapa mereka dalam bahasa mereka sendiri.",
+       "**สร้างความไว้วางใจ** ลูกค้ารู้สึกเป็นกันเองมากขึ้นเมื่อเราทักทายด้วยภาษาของเขา"
+      ],
+      [
+       "**Peluang kerjaya.** Syarikat logistik, kastam, pelancongan dan produk halal di selatan Thailand memerlukan pekerja yang boleh berbahasa Melayu.",
+       "**โอกาสทางอาชีพ** บริษัทโลจิสติกส์ งานศุลกากร การท่องเที่ยว และธุรกิจสินค้าฮาลาลในภาคใต้ของไทยต้องการบุคลากรที่สื่อสารภาษามลายูได้"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "4. Gambaran Umum Perniagaan Malaysia",
+   "th": "ภาพรวมธุรกิจมาเลเซีย",
+   "blocks": [
+    {
+     "t": "h2",
+     "ms": "Fakta Asas",
+     "th": "ข้อมูลพื้นฐาน"
+    },
+    {
+     "t": "table",
+     "w": [
+      2700,
+      6660
+     ],
+     "head": [
+      "Perkara · หัวข้อ",
+      "Keterangan · รายละเอียด"
+     ],
+     "rows": [
+      [
+       "Ibu negara",
+       [
+        "Kuala Lumpur; pusat pentadbiran kerajaan di Putrajaya",
+        "เมืองหลวงคือกัวลาลัมเปอร์ ศูนย์กลางการบริหารของรัฐบาลอยู่ที่ปุตราจายา"
+       ]
+      ],
+      [
+       "Negeri",
+       [
+        "13 negeri dan 3 wilayah persekutuan",
+        "13 รัฐ และ 3 ดินแดนสหพันธ์"
+       ]
+      ],
+      [
+       "Mata wang",
+       [
+        "Ringgit Malaysia (RM)",
+        "ริงกิตมาเลเซีย ใช้สัญลักษณ์ RM เช่น RM10 = สิบริงกิต"
+       ]
+      ],
+      [
+       "ASEAN",
+       [
+        "Negara pengasas ASEAN (1967), sama seperti Thailand",
+        "เป็นหนึ่งในประเทศผู้ก่อตั้งอาเซียน (พ.ศ. 2510) เช่นเดียวกับไทย"
+       ]
+      ],
+      [
+       "Sempadan dengan Thailand",
+       [
+        "Perlis, Kedah, Perak dan Kelantan bersempadan dengan Satun, Songkhla, Yala dan Narathiwat",
+        "รัฐเปอร์ลิส เคดะห์ เประ และกลันตัน ติดกับจังหวัดสตูล สงขลา ยะลา และนราธิวาส"
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Sektor Ekonomi Utama",
+     "th": "ภาคเศรษฐกิจสำคัญ"
+    },
+    {
+     "t": "table",
+     "w": [
+      3200,
+      6160
+     ],
+     "head": [
+      "Sektor · ภาค",
+      "Contoh · ตัวอย่าง"
+     ],
+     "rows": [
+      [
+       "Perkhidmatan",
+       [
+        "perdagangan, kewangan, logistik, pelancongan",
+        "ภาคบริการ: การค้า การเงิน โลจิสติกส์ การท่องเที่ยว"
+       ]
+      ],
+      [
+       "Perkilangan",
+       [
+        "elektrik dan elektronik, produk getah",
+        "ภาคการผลิต: เครื่องใช้ไฟฟ้าและอิเล็กทรอนิกส์ ผลิตภัณฑ์ยาง"
+       ]
+      ],
+      [
+       "Pertanian",
+       [
+        "kelapa sawit, getah, koko",
+        "ภาคเกษตร: ปาล์มน้ำมัน ยางพารา โกโก้"
+       ]
+      ],
+      [
+       "Perlombongan",
+       [
+        "minyak dan gas asli",
+        "ภาคเหมืองแร่: น้ำมันและก๊าซธรรมชาติ"
+       ]
+      ],
+      [
+       "Produk halal",
+       [
+        "makanan, kosmetik dan farmaseutikal halal",
+        "อาหาร เครื่องสำอาง และเวชภัณฑ์ฮาลาล"
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Logistik dan Perdagangan Sempadan",
+     "th": "โลจิสติกส์และการค้าชายแดน"
+    },
+    {
+     "t": "bullets",
+     "items": [
+      [
+       "**Pelabuhan utama:** Pelabuhan Klang (Selangor), Pelabuhan Tanjung Pelepas (Johor) dan Pelabuhan Pulau Pinang.",
+       "**ท่าเรือสำคัญ:** ท่าเรือกลัง (รัฐสลังงอร์) ท่าเรือตันจุงเปเลปัส (รัฐยะโฮร์) และท่าเรือปีนัง"
+      ],
+      [
+       "**Pintu sempadan dengan Songkhla:** Bukit Kayu Hitam (Kedah) – Sadao, dan Padang Besar (Perlis) – Padang Besar, termasuk laluan kereta api.",
+       "**ด่านชายแดนที่ติดกับสงขลา:** บูกิตกายูฮิตัม (รัฐเคดะห์) – สะเดา และปาดังเบซาร์ (รัฐเปอร์ลิส) – ปาดังเบซาร์ ซึ่งมีเส้นทางรถไฟผ่านด้วย"
+      ],
+      [
+       "**Kastam:** Jabatan Kastam Diraja Malaysia mengurus barang eksport dan import.",
+       "**ศุลกากร:** กรมศุลกากรหลวงมาเลเซียดูแลสินค้าส่งออกและนำเข้า"
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Jenis Perniagaan",
+     "th": "รูปแบบธุรกิจที่พบบ่อย"
+    },
+    {
+     "t": "table",
+     "w": [
+      3000,
+      6360
+     ],
+     "head": [
+      "Nama · ชื่อเรียก",
+      "Maksud · ความหมาย"
+     ],
+     "rows": [
+      [
+       "Sdn. Bhd. (Sendirian Berhad)",
+       [
+        "syarikat persendirian berhad",
+        "บริษัทจำกัด (ไม่จดทะเบียนในตลาดหลักทรัพย์)"
+       ]
+      ],
+      [
+       "Bhd. (Berhad)",
+       [
+        "syarikat awam berhad",
+        "บริษัทมหาชนจำกัด"
+       ]
+      ],
+      [
+       "Enterprise",
+       [
+        "perniagaan milikan tunggal atau perkongsian",
+        "กิจการเจ้าของคนเดียวหรือห้างหุ้นส่วน"
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Syarikat di Malaysia didaftarkan dengan Suruhanjaya Syarikat Malaysia (SSM). Sijil halal Malaysia dikeluarkan oleh JAKIM.",
+     "th": "บริษัทในมาเลเซียจดทะเบียนกับคณะกรรมการบริษัทแห่งมาเลเซีย (SSM) ส่วนใบรับรองฮาลาลของมาเลเซียออกโดย JAKIM"
+    }
+   ]
+  },
+  {
+   "ms": "5. Langkah Pertama: Sebutan Bahasa Melayu",
+   "th": "ก้าวแรก: การออกเสียงภาษามลายู",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Bahasa Melayu ditulis dengan huruf Rumi (huruf Latin). Kebanyakan perkataan dibaca seperti ejaannya.",
+     "th": "ภาษามลายูเขียนด้วยอักษรรูมี (อักษรละติน) และคำส่วนใหญ่อ่านตรงตามตัวสะกด นิสิตที่อ่านอักษรภาษาอังกฤษได้จึงเริ่มอ่านภาษามลายูได้เร็ว"
+    },
+    {
+     "t": "h2",
+     "ms": "Vokal",
+     "th": "สระ"
+    },
+    {
+     "t": "table",
+     "w": [
+      2400,
+      3480,
+      3480
+     ],
+     "head": [
+      "Huruf",
+      "Bunyi · เสียง",
+      "Contoh"
+     ],
+     "rows": [
+      [
+       "a",
+       "อา / อะ",
+       "saya"
+      ],
+      [
+       "e (pepet)",
+       "เออ",
+       "emas"
+      ],
+      [
+       "e (taling)",
+       "เอ",
+       "meja"
+      ],
+      [
+       "i",
+       "อี",
+       "kita"
+      ],
+      [
+       "o",
+       "โอ",
+       "kopi"
+      ],
+      [
+       "u",
+       "อู",
+       "buku"
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Perhatian: huruf e mempunyai dua bunyi. Semak sebutan dalam kamus.",
+     "th": "ข้อควรระวัง: ตัว e มี 2 เสียง คือ เออ และ เอ ต้องจำเป็นรายคำหรือเปิดพจนานุกรม"
+    },
+    {
+     "t": "h2",
+     "ms": "Konsonan Yang Berbeza daripada Bahasa Inggeris",
+     "th": "พยัญชนะที่ต้องระวัง"
+    },
+    {
+     "t": "table",
+     "w": [
+      2400,
+      3480,
+      3480
+     ],
+     "head": [
+      "Huruf",
+      "Bunyi · เสียง",
+      "Contoh"
+     ],
+     "rows": [
+      [
+       "c",
+       "จ (ไม่ใช่ ค)",
+       "cari"
+      ],
+      [
+       "j",
+       "จ (เสียงก้อง)",
+       "jalan"
+      ],
+      [
+       "sy",
+       "ช",
+       "syarikat"
+      ],
+      [
+       "kh",
+       "ค (เสียงขูดในคอ)",
+       "khabar"
+      ],
+      [
+       "ng",
+       "ง",
+       "pelanggan"
+      ],
+      [
+       "ny",
+       "ญ (นาสิก)",
+       "banyak"
+      ],
+      [
+       "k ท้ายคำ",
+       "เสียงหยุด คล้าย ก สะกด",
+       "baik"
+      ],
+      [
+       "r",
+       "ร (รัวลิ้น)",
+       "harga"
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Kebanyakan perkataan ditekan sedikit pada suku kata terakhir atau kedua terakhir; tekanan tidak mengubah makna.",
+     "th": "การลงเสียงหนักเบาในภาษามลายูไม่เปลี่ยนความหมายของคำ และภาษามลายูไม่มีวรรณยุกต์ นิสิตจึงอ่านด้วยเสียงสามัญได้เลย"
+    }
+   ]
+  },
+  {
+   "ms": "6. Frasa Salam Asas",
+   "th": "วลีทักทายพื้นฐาน",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      4000,
+      5360
+     ],
+     "head": [
+      "Bahasa Melayu",
+      "ความหมาย / ใช้เมื่อ"
+     ],
+     "rows": [
+      [
+       "Selamat pagi.",
+       "สวัสดีตอนเช้า (ถึงราวเที่ยง)"
+      ],
+      [
+       "Selamat petang.",
+       "สวัสดีตอนบ่ายถึงเย็น"
+      ],
+      [
+       "Selamat datang.",
+       "ยินดีต้อนรับ"
+      ],
+      [
+       "Apa khabar?",
+       "สบายดีไหม"
+      ],
+      [
+       "Khabar baik.",
+       "สบายดี"
+      ],
+      [
+       "Nama saya ...",
+       "ฉัน/ผมชื่อ ..."
+      ],
+      [
+       "Saya dari Thailand.",
+       "ฉัน/ผมมาจากประเทศไทย"
+      ],
+      [
+       "Terima kasih.",
+       "ขอบคุณ"
+      ],
+      [
+       "Sama-sama.",
+       "ด้วยความยินดี (ตอบคำขอบคุณ)"
+      ],
+      [
+       "Maaf.",
+       "ขอโทษ"
+      ],
+      [
+       "Jumpa lagi.",
+       "แล้วพบกันใหม่"
+      ]
+     ]
+    },
+    {
+     "t": "box",
+     "lines": [
+      [
+       "**Panggilan hormat dalam perniagaan**",
+       false,
+       20
+      ],
+      [
+       "คำเรียกขานอย่างสุภาพในธุรกิจ",
+       true,
+       80
+      ],
+      [
+       "**Encik** untuk lelaki, **Puan** untuk wanita yang sudah berkahwin, **Cik** untuk wanita yang belum berkahwin. Contoh: Encik Hafiz, Puan Aminah.",
+       false,
+       20
+      ],
+      [
+       "**Encik** ใช้กับผู้ชาย **Puan** ใช้กับผู้หญิงที่แต่งงานแล้ว **Cik** ใช้กับผู้หญิงที่ยังไม่แต่งงาน ตัวอย่างเช่น Encik Hafiz และ Puan Aminah เรื่องมารยาทเพิ่มเติมจะเรียนในคาบที่ 5",
+       true,
+       0
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "7. Kosa Kata Asas Perniagaan",
+   "th": "คำศัพท์ธุรกิจพื้นฐาน",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      2300,
+      2260,
+      2300,
+      2500
+     ],
+     "head": [
+      "Bahasa Melayu",
+      "ความหมาย",
+      "Bahasa Melayu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "syarikat",
+       "บริษัท",
+       "gudang",
+       "คลังสินค้า"
+      ],
+      [
+       "perniagaan",
+       "ธุรกิจ",
+       "penghantaran",
+       "การจัดส่ง"
+      ],
+      [
+       "pelanggan",
+       "ลูกค้า",
+       "pelabuhan",
+       "ท่าเรือ"
+      ],
+      [
+       "barang",
+       "สินค้า สิ่งของ",
+       "sempadan",
+       "ชายแดน"
+      ],
+      [
+       "harga",
+       "ราคา",
+       "kastam",
+       "ศุลกากร"
+      ],
+      [
+       "wang",
+       "เงิน",
+       "eksport",
+       "ส่งออก"
+      ],
+      [
+       "kedai",
+       "ร้านค้า",
+       "import",
+       "นำเข้า"
+      ],
+      [
+       "pejabat",
+       "สำนักงาน",
+       "lori",
+       "รถบรรทุก"
+      ],
+      [
+       "pekerja",
+       "พนักงาน",
+       "pasaran",
+       "ตลาด"
+      ],
+      [
+       "pengurus",
+       "ผู้จัดการ",
+       "halal",
+       "ฮาลาล"
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Ayat contoh: Syarikat kami menghantar barang ke Malaysia.",
+     "th": "ตัวอย่างประโยค: บริษัทของเราส่งสินค้าไปมาเลเซีย (syarikat = บริษัท, kami = ของเรา, menghantar = ส่ง, barang = สินค้า, ke = ไปยัง)"
+    },
+    {
+     "t": "pagebreak"
+    }
+   ]
+  },
+  {
+   "ms": "8. Perbualan: Hari Pertama di Syarikat Logistik",
+   "th": "บทสนทนา: วันแรกที่บริษัทโลจิสติกส์",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Aisyah, pelajar dari Thailand, datang ke sebuah syarikat logistik di Malaysia. Dia bertemu Encik Hafiz. (Watak dan syarikat dalam perbualan ini rekaan.)",
+     "th": "ไอซยะห์ นิสิตจากประเทศไทย มาที่บริษัทโลจิสติกส์แห่งหนึ่งในมาเลเซีย และพบกับคุณฮาฟิซ (ตัวละครและบริษัทเป็นเรื่องสมมติ) บทสนทนานี้ใช้เฉพาะวลีในหัวข้อ 6"
+    },
+    {
+     "t": "dialog",
+     "lines": [
+      [
+       "Hafiz",
+       "Selamat pagi. Selamat datang.",
+       "สวัสดีตอนเช้า ยินดีต้อนรับครับ"
+      ],
+      [
+       "Aisyah",
+       "Selamat pagi, Encik. Terima kasih.",
+       "สวัสดีค่ะ ขอบคุณค่ะ"
+      ],
+      [
+       "Hafiz",
+       "Nama saya Hafiz. Siapa nama anda?",
+       "ผมชื่อฮาฟิซ คุณชื่ออะไรครับ"
+      ],
+      [
+       "Aisyah",
+       "Nama saya Aisyah. Saya dari Thailand.",
+       "ดิฉันชื่อไอซยะห์ มาจากประเทศไทยค่ะ"
+      ],
+      [
+       "Hafiz",
+       "Apa khabar?",
+       "สบายดีไหมครับ"
+      ],
+      [
+       "Aisyah",
+       "Khabar baik, terima kasih.",
+       "สบายดีค่ะ ขอบคุณค่ะ"
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Nota: \"Siapa nama anda?\" digunakan untuk bertanya nama dengan sopan. \"Anda\" ialah kata ganti nama yang sopan.",
+     "th": "หมายเหตุ: \"Siapa nama anda?\" แปลว่า คุณชื่ออะไร คำว่า \"anda\" แปลว่า คุณ เป็นคำสุภาพ เหมาะกับงานธุรกิจ"
+    }
+   ]
+  },
+  {
+   "ms": "9. Aktiviti Pembelajaran",
+   "th": "กิจกรรมการเรียนรู้",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      700,
+      5360,
+      2200,
+      1100
+     ],
+     "head": [
+      "#",
+      "Aktiviti · กิจกรรม",
+      "Alat · เครื่องมือ",
+      "Minit"
+     ],
+     "rows": [
+      [
+       "1",
+       "แบบทดสอบก่อนเรียน (Ujian Pra) ใช้ข้อสอบในหัวข้อ 13",
+       "Google Forms / ClassPoint",
+       "10"
+      ],
+      [
+       "2",
+       "แนะนำรายวิชา แผนการสอน และการประเมินผล",
+       "PowerPoint, TSU MOOC",
+       "20"
+      ],
+      [
+       "3",
+       "Word Cloud: \"เมื่อนึกถึงมาเลเซีย นึกถึงอะไร\"",
+       "ClassPoint",
+       "10"
+      ],
+      [
+       "4",
+       "บรรยายเชิงปฏิสัมพันธ์: ความสำคัญของภาษามลายูและภาพรวมธุรกิจมาเลเซีย (หัวข้อ 3–4)",
+       "PowerPoint, ClassPoint Quick Poll",
+       "40"
+      ],
+      [
+       "5",
+       "อภิปรายกลุ่ม 5 กลุ่ม: โอกาสทางธุรกิจโลจิสติกส์ไทย–มาเลเซีย แล้วโพสต์คำตอบกลุ่มละ 3 ข้อ",
+       "Padlet",
+       "30"
+      ],
+      [
+       "–",
+       "พัก",
+       "",
+       "10"
+      ],
+      [
+       "6",
+       "ฝึกออกเสียงสระ พยัญชนะ และวลีทักทาย (ครูอ่านนำ นิสิตอ่านตาม เป็นรายคู่)",
+       "ClassPoint Audio",
+       "30"
+      ],
+      [
+       "7",
+       "เกมคำศัพท์ธุรกิจ 20 คำ",
+       "Kahoot!",
+       "20"
+      ],
+      [
+       "8",
+       "บทบาทสมมติรายคู่: ฝึกบทสนทนาหัวข้อ 8 โดยใส่ชื่อของตัวเอง สลับบทกัน แล้วแสดงหน้าชั้น 3–4 คู่",
+       "Google Docs (บทของแต่ละคู่)",
+       "40"
+      ],
+      [
+       "9",
+       "สรุปบทเรียน แบบทดสอบหลังเรียน (ข้อสอบชุดเดียวกับหัวข้อ 13) และ Exit Ticket \"วันนี้ได้เรียนรู้อะไร 1 ข้อ\"",
+       "Google Forms / ClassPoint",
+       "20"
+      ],
+      [
+       "",
+       "**รวม**",
+       "",
+       "**230**"
+      ]
+     ],
+     "size": 28
+    }
+   ]
+  },
+  {
+   "ms": "10. Latihan",
+   "th": "แบบฝึกหัด",
+   "blocks": [
+    {
+     "t": "h2",
+     "ms": "Latihan A: Padankan",
+     "th": "จับคู่คำศัพท์กับความหมาย"
+    },
+    {
+     "t": "table",
+     "w": [
+      4680,
+      4680
+     ],
+     "head": [
+      "Bahasa Melayu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "1. pelanggan  ____",
+       "ก. คลังสินค้า"
+      ],
+      [
+       "2. gudang  ____",
+       "ข. ราคา"
+      ],
+      [
+       "3. harga  ____",
+       "ค. ลูกค้า"
+      ],
+      [
+       "4. sempadan  ____",
+       "ง. การจัดส่ง"
+      ],
+      [
+       "5. penghantaran  ____",
+       "จ. ชายแดน"
+      ],
+      [
+       "6. pejabat  ____",
+       "ฉ. สำนักงาน"
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan B: Lengkapkan Perbualan",
+     "th": "เติมบทสนทนาให้สมบูรณ์"
+    },
+    {
+     "t": "p",
+     "text": "Pilihan / ตัวเลือก: **khabar · Selamat · kasih · Nama · Jumpa**"
+    },
+    {
+     "t": "table",
+     "w": [
+      1500,
+      7860
+     ],
+     "rows": [
+      [
+       "A",
+       "(1) __________ pagi, Puan."
+      ],
+      [
+       "B",
+       "Selamat pagi. Apa (2) __________?"
+      ],
+      [
+       "A",
+       "Khabar baik. (3) __________ saya Danial."
+      ],
+      [
+       "B",
+       "Terima (4) __________, Encik Danial."
+      ],
+      [
+       "A",
+       "Sama-sama. (5) __________ lagi."
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan C: Betul atau Salah",
+     "th": "ถูกหรือผิด"
+    },
+    {
+     "t": "table",
+     "w": [
+      7360,
+      2000
+     ],
+     "head": [
+      "Pernyataan · ข้อความ",
+      "B / S"
+     ],
+     "rows": [
+      [
+       [
+        "1. Mata wang Malaysia ialah Ringgit (RM).",
+        "สกุลเงินของมาเลเซียคือริงกิต"
+       ],
+       ""
+      ],
+      [
+       [
+        "2. Bahasa Melayu ialah bahasa kebangsaan Malaysia.",
+        "ภาษามลายูเป็นภาษาประจำชาติของมาเลเซีย"
+       ],
+       ""
+      ],
+      [
+       [
+        "3. Sdn. Bhd. bermaksud syarikat awam.",
+        "Sdn. Bhd. หมายถึงบริษัทมหาชน"
+       ],
+       ""
+      ],
+      [
+       [
+        "4. Bukit Kayu Hitam bersempadan dengan Sadao.",
+        "บูกิตกายูฮิตัมอยู่ติดกับอำเภอสะเดา"
+       ],
+       ""
+      ],
+      [
+       [
+        "5. \"Sama-sama\" digunakan untuk menjawab \"terima kasih\".",
+        "\"Sama-sama\" ใช้ตอบเมื่อมีคนขอบคุณ"
+       ],
+       ""
+      ],
+      [
+       [
+        "6. Huruf c dalam \"cari\" dibaca seperti ค.",
+        "ตัว c ในคำว่า \"cari\" อ่านเหมือน ค"
+       ],
+       ""
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan D: Perkenalkan Diri",
+     "th": "แนะนำตัวเอง"
+    },
+    {
+     "t": "bi",
+     "ms": "Tulis 3–4 ayat untuk memperkenalkan diri kepada pelanggan Malaysia. Gunakan frasa dalam bahagian 6.",
+     "th": "เขียน 3–4 ประโยคเพื่อแนะนำตัวกับลูกค้าชาวมาเลเซีย โดยใช้วลีในหัวข้อ 6"
+    },
+    {
+     "t": "p",
+     "text": "______________________________________________________________"
+    },
+    {
+     "t": "p",
+     "text": "______________________________________________________________"
+    },
+    {
+     "t": "p",
+     "text": "______________________________________________________________",
+     "after": 200
+    }
+   ]
+  },
+  {
+   "ms": "11. Jawapan",
+   "th": "เฉลยแบบฝึกหัด",
+   "blocks": [
+    {
+     "t": "bullets",
+     "items": [
+      "**Latihan A:** 1-ค, 2-ก, 3-ข, 4-จ, 5-ง, 6-ฉ",
+      "**Latihan B:** (1) Selamat (2) khabar (3) Nama (4) kasih (5) Jumpa",
+      "**Latihan C:** 1-B, 2-B, 3-S (Sdn. Bhd. = syarikat persendirian / บริษัทจำกัด), 4-B, 5-B, 6-S (c dibaca seperti จ / อ่านเหมือน จ)",
+      "**Latihan D (contoh):** Selamat pagi. Nama saya Somchai. Saya dari Thailand. Saya pelajar Universiti Thaksin. Terima kasih."
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "12. Rumusan",
+   "th": "สรุปบท",
+   "blocks": [
+    {
+     "t": "box",
+     "lines": [
+      [
+       "Bahasa Melayu ialah bahasa kebangsaan Malaysia dan digunakan di beberapa negara ASEAN. Bagi pelajar logistik di Songkhla, bahasa Melayu membuka peluang dalam perdagangan sempadan, penghantaran barang dan perniagaan halal. Bahasa Melayu ditulis dengan huruf Rumi dan mudah dibaca. Mulakan dengan salam, panggilan hormat (Encik, Puan, Cik) dan kosa kata asas perniagaan.",
+       false,
+       80
+      ],
+      [
+       "ภาษามลายูเป็นภาษาประจำชาติของมาเลเซียและใช้ในหลายประเทศอาเซียน สำหรับนิสิตโลจิสติกส์ในสงขลา ภาษามลายูช่วยเปิดโอกาสในการค้าชายแดน การขนส่งสินค้า และธุรกิจฮาลาล ภาษามลายูเขียนด้วยอักษรรูมีและอ่านง่าย ให้เริ่มจากคำทักทาย คำเรียกขานอย่างสุภาพ (Encik, Puan, Cik) และคำศัพท์ธุรกิจพื้นฐาน",
+       true,
+       0
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Kelas seterusnya: Memperkenalkan diri dalam konteks perniagaan (Kelas 2).",
+     "th": "คาบถัดไป: การแนะนำตนเองในบริบทธุรกิจ (คาบที่ 2) ให้นิสิตทบทวนวลีทักทายและคำศัพท์ในบทนี้มาก่อน"
+    }
+   ]
+  },
+  {
+   "ms": "13. Ujian Pra dan Ujian Pasca",
+   "th": "แบบทดสอบก่อนเรียนและหลังเรียน",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Gunakan ujian ini sebelum kelas (ujian pra) dan selepas kelas (ujian pasca). Pilih satu jawapan yang paling tepat.",
+     "th": "ใช้แบบทดสอบชุดนี้ทั้งก่อนเรียนและหลังเรียน 10 ข้อ ข้อละ 1 คะแนน เวลา 10 นาที ให้เลือกคำตอบที่ถูกต้องที่สุดเพียงข้อเดียว (ข้อ 1–4 และ 10 วัด CLO1 ข้อ 5–9 วัดความรู้ด้านเสียงและวลีที่ใช้ใน CLO4)"
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      8660
+     ],
+     "head": [
+      "#",
+      "Soalan · คำถาม"
+     ],
+     "rows": [
+      [
+       "1",
+       [
+        "Bahasa kebangsaan Malaysia ialah …",
+        "A. bahasa Inggeris     B. bahasa Melayu     C. bahasa Cina     D. bahasa Tamil",
+        "ภาษาประจำชาติของมาเลเซียคือ …"
+       ]
+      ],
+      [
+       "2",
+       [
+        "Mata wang Malaysia ialah …",
+        "A. Ringgit (RM)     B. Rupiah     C. Baht     D. Dolar",
+        "สกุลเงินของมาเลเซียคือ …"
+       ]
+      ],
+      [
+       "3",
+       [
+        "Pintu sempadan Malaysia yang bertentangan dengan Sadao ialah …",
+        "A. Padang Besar     B. Rantau Panjang     C. Bukit Kayu Hitam     D. Pengkalan Hulu",
+        "ด่านชายแดนมาเลเซียที่อยู่ตรงข้ามอำเภอสะเดาคือ …"
+       ]
+      ],
+      [
+       "4",
+       [
+        "\"Sdn. Bhd.\" bermaksud …",
+        "A. บริษัทมหาชนจำกัด     B. กิจการเจ้าของคนเดียว     C. หน่วยงานรัฐ     D. บริษัทจำกัด",
+        "\"Sdn. Bhd.\" หมายถึง …"
+       ]
+      ],
+      [
+       "5",
+       [
+        "Huruf c dalam perkataan \"cari\" dibaca seperti …",
+        "A. ค     B. ซ     C. จ     D. ช",
+        "ตัว c ในคำว่า \"cari\" ออกเสียงเหมือน …"
+       ]
+      ],
+      [
+       "6",
+       [
+        "Huruf sy dalam perkataan \"syarikat\" dibaca seperti …",
+        "A. ซ     B. ช     C. ส     D. ญ",
+        "ตัว sy ในคำว่า \"syarikat\" ออกเสียงเหมือน …"
+       ]
+      ],
+      [
+       "7",
+       [
+        "Salam yang sesuai pada pukul 9.00 pagi ialah …",
+        "A. Selamat malam     B. Selamat petang     C. Selamat pagi     D. Selamat jalan",
+        "คำทักทายที่เหมาะสมเวลา 09.00 น. คือ …"
+       ]
+      ],
+      [
+       "8",
+       [
+        "Jawapan yang sesuai untuk \"Terima kasih\" ialah …",
+        "A. Sama-sama     B. Apa khabar?     C. Maaf     D. Jumpa lagi",
+        "คำตอบที่เหมาะสมเมื่อมีคนพูดว่า \"Terima kasih\" คือ …"
+       ]
+      ],
+      [
+       "9",
+       [
+        "Panggilan hormat untuk lelaki ialah …",
+        "A. Puan     B. Cik     C. Kak     D. Encik",
+        "คำเรียกขานอย่างสุภาพสำหรับผู้ชายคือ …"
+       ]
+      ],
+      [
+       "10",
+       [
+        "\"Gudang\" bermaksud …",
+        "A. ท่าเรือ     B. ชายแดน     C. ลูกค้า     D. คลังสินค้า",
+        "คำว่า \"gudang\" หมายถึง …"
+       ]
+      ]
+     ],
+     "size": 28
+    },
+    {
+     "t": "p",
+     "text": "**Jawapan / เฉลย:** 1-B · 2-A · 3-C · 4-D · 5-C · 6-B · 7-C · 8-A · 9-D · 10-D"
+    }
+   ]
+  }
+ ]
+}

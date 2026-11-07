@@ -1,0 +1,903 @@
+{
+ "chapter": 14,
+ "title_ms": "Pembentangan Projek, Rumusan dan Refleksi",
+ "title_th": "การนำเสนอโครงงาน สรุปบทเรียน และสะท้อนผลการเรียนรู้",
+ "meta": [
+  [
+   "**Kursus**",
+   [
+    "1503250 Bahasa Melayu untuk Perniagaan",
+    "1503250 ภาษามลายูเพื่อธุรกิจ (3 หน่วยกิต)"
+   ]
+  ],
+  [
+   "**Minggu**",
+   [
+    "Kelas 15 · Semester 2/2569",
+    "คาบที่ 15 · ภาคเรียนที่ 2/2569 · วันพฤหัสบดี 08.00–12.10 น. ห้อง 17401"
+   ]
+  ],
+  [
+   "**Masa**",
+   [
+    "4 jam (teori 1 jam, amali 3 jam)",
+    "4 ชั่วโมง (ทฤษฎี 1 ชั่วโมง ปฏิบัติ 3 ชั่วโมง)"
+   ]
+  ],
+  [
+   "**Pelajar**",
+   [
+    "Tahun 2, Pengurusan Logistik (30 orang) · 5–6 kumpulan",
+    "นิสิตชั้นปีที่ 2 วิชาเอกการจัดการโลจิสติกส์ 30 คน · 5–6 กลุ่ม"
+   ]
+  ],
+  [
+   "**CLO**",
+   [
+    "CLO3, CLO4",
+    "CLO3 ฝึกปฏิบัติการใช้ภาษาในสถานการณ์ต่าง ๆ ในธุรกิจได้อย่างเหมาะสม · CLO4 แสดงออกถึงคุณค่าในการสื่อสารภาษามลายู กล้าแสดงออก"
+   ]
+  ],
+  [
+   "**Pengajar**",
+   [
+    "Asst. Prof. Muhammad Salaebing",
+    "ผศ.มูหำหมัด สาแลบิง"
+   ]
+  ]
+ ],
+ "sections": [
+  {
+   "ms": "1. Hasil Pembelajaran",
+   "th": "จุดประสงค์การเรียนรู้",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Pada akhir kelas ini, pelajar dapat:",
+     "th": "เมื่อจบคาบเรียนนี้ นิสิตสามารถ"
+    },
+    {
+     "t": "bullets",
+     "items": [
+      [
+       "Membentangkan simulasi perniagaan dalam bahasa Melayu dengan sopan dan yakin.",
+       "นำเสนอการจำลองสถานการณ์ธุรกิจเป็นภาษามลายูอย่างสุภาพและมั่นใจได้ (CLO3, CLO4)"
+      ],
+      [
+       "Bertanya dan menjawab soalan mudah selepas pembentangan.",
+       "ถามและตอบคำถามง่าย ๆ หลังการนำเสนอได้ (CLO3)"
+      ],
+      [
+       "Memberi maklum balas yang membina kepada kumpulan lain.",
+       "ให้ข้อเสนอแนะเชิงสร้างสรรค์แก่กลุ่มอื่นได้ (CLO4)"
+      ],
+      [
+       "Membuat refleksi tentang pembelajaran sepanjang semester.",
+       "สะท้อนผลการเรียนรู้ของตนตลอดภาคเรียนได้ (CLO4)"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "2. Ungkapan Pembentangan",
+   "th": "สำนวนการนำเสนอ",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      2300,
+      3900,
+      3160
+     ],
+     "head": [
+      "Bahagian · ช่วง",
+      "Bahasa Melayu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       [
+        "Pembukaan",
+        "เปิดการนำเสนอ"
+       ],
+       "Selamat pagi, tuan-tuan dan puan-puan.",
+       "สวัสดีตอนเช้าท่านผู้ฟังทุกท่าน"
+      ],
+      [
+       "",
+       "Kami dari kumpulan …",
+       "พวกเรามาจากกลุ่ม …"
+      ],
+      [
+       [
+        "Peralihan",
+        "เชื่อมไปส่วนต่อไป"
+       ],
+       "Seterusnya, …",
+       "ต่อไป …"
+      ],
+      [
+       [
+        "Penutup",
+        "ปิดการนำเสนอ"
+       ],
+       "Sekian sahaja pembentangan kami.",
+       "การนำเสนอของเรามีเพียงเท่านี้"
+      ],
+      [
+       "",
+       "Terima kasih kerana mendengar.",
+       "ขอบคุณที่รับฟัง"
+      ],
+      [
+       [
+        "Sesi soal jawab",
+        "ช่วงถาม-ตอบ"
+       ],
+       "Ada soalan?",
+       "มีคำถามไหม"
+      ],
+      [
+       "",
+       "Soalan yang baik.",
+       "เป็นคำถามที่ดี"
+      ],
+      [
+       "",
+       "Maaf, boleh ulang soalan?",
+       "ขอโทษ ช่วยถามซ้ำได้ไหม"
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Nota: \"kami\" digunakan kerana penonton tidak termasuk dalam kumpulan (Bab 2).",
+     "th": "หมายเหตุ: ใช้ kami เพราะผู้ฟังไม่ได้เป็นสมาชิกของกลุ่ม (บทที่ 2) ต่างจากคาบที่แล้วที่ใช้ kita ในการประชุมภายในกลุ่ม"
+    },
+    {
+     "t": "pagebreak"
+    }
+   ]
+  },
+  {
+   "ms": "3. Ungkapan Maklum Balas",
+   "th": "สำนวนการให้ข้อเสนอแนะ",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      4680,
+      4680
+     ],
+     "head": [
+      "Bahasa Melayu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "Pembentangan kumpulan anda sangat baik.",
+       "การนำเสนอของกลุ่มคุณดีมาก"
+      ],
+      [
+       "Saya suka bahagian …",
+       "ฉัน/ผมชอบช่วง …"
+      ],
+      [
+       "Sebutan anda jelas.",
+       "การออกเสียงของคุณชัดเจน"
+      ],
+      [
+       "Cadangan saya, cakap lebih kuat.",
+       "ข้อเสนอของฉัน/ผมคือ พูดให้ดังขึ้น"
+      ],
+      [
+       "Cadangan saya, kurangkan membaca skrip.",
+       "ข้อเสนอของฉัน/ผมคือ อ่านบทให้น้อยลง"
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Mulakan dengan pujian, kemudian beri satu cadangan.",
+     "th": "เริ่มด้วยคำชม แล้วจึงให้ข้อเสนอแนะ 1 ข้อ"
+    },
+    {
+     "t": "pagebreak"
+    }
+   ]
+  },
+  {
+   "ms": "4. Perbualan: Selepas Pembentangan",
+   "th": "บทสนทนา: หลังการนำเสนอ",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Nurul baru selesai membentang. Hakim bertanya soalan. (Watak rekaan.)",
+     "th": "นูรุลเพิ่งนำเสนอเสร็จ ฮากิมถามคำถาม (ตัวละครเป็นเรื่องสมมติ)"
+    },
+    {
+     "t": "table",
+     "w": [
+      3300,
+      6060
+     ],
+     "head": [
+      "Kata baharu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "pembentangan / membentang",
+       "การนำเสนอ / นำเสนอ"
+      ],
+      [
+       "sekian sahaja",
+       "มีเพียงเท่านี้"
+      ],
+      [
+       "soalan",
+       "คำถาม"
+      ],
+      [
+       "mendengar",
+       "ฟัง"
+      ],
+      [
+       "jelas",
+       "ชัดเจน"
+      ],
+      [
+       "refleksi",
+       "การสะท้อนผล"
+      ]
+     ]
+    },
+    {
+     "t": "dialog",
+     "lines": [
+      [
+       "Nurul",
+       "Sekian sahaja pembentangan kami. Ada soalan?",
+       "การนำเสนอของเรามีเพียงเท่านี้ มีคำถามไหม"
+      ],
+      [
+       "Hakim",
+       "Pembentangan kumpulan anda sangat baik.",
+       "การนำเสนอของกลุ่มคุณดีมาก"
+      ],
+      [
+       "Hakim",
+       "Berapa harga perkhidmatan ini?",
+       "บริการนี้ราคาเท่าไร"
+      ],
+      [
+       "Nurul",
+       "Soalan yang baik. Harganya RM500.",
+       "เป็นคำถามที่ดี ราคา 500 ริงกิต"
+      ],
+      [
+       "Hakim",
+       "Terima kasih. Sebutan anda jelas.",
+       "ขอบคุณ การออกเสียงของคุณชัดเจน"
+      ],
+      [
+       "Nurul",
+       "Terima kasih kerana mendengar.",
+       "ขอบคุณที่รับฟัง"
+      ]
+     ]
+    },
+    {
+     "t": "pagebreak"
+    }
+   ]
+  },
+  {
+   "ms": "5. Jadual Pembentangan",
+   "th": "ลำดับและเวลาการนำเสนอ",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      2400,
+      2400,
+      4560
+     ],
+     "head": [
+      "Kumpulan",
+      "Masa",
+      "Catatan · บันทึก"
+     ],
+     "rows": [
+      [
+       "Kumpulan 1",
+       "09.00–09.15",
+       ""
+      ],
+      [
+       "Kumpulan 2",
+       "09.15–09.30",
+       ""
+      ],
+      [
+       "Kumpulan 3",
+       "09.30–09.45",
+       ""
+      ],
+      [
+       "Kumpulan 4",
+       "09.45–10.00",
+       ""
+      ],
+      [
+       "Kumpulan 5",
+       "10.10–10.25",
+       ""
+      ],
+      [
+       "Kumpulan 6",
+       "10.25–10.40",
+       ""
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Setiap kumpulan: 8–10 minit simulasi dan 3–5 minit soal jawab. Undian susunan dibuat pada awal kelas.",
+     "th": "แต่ละกลุ่ม: แสดง 8–10 นาที และถาม-ตอบ 3–5 นาที จับฉลากลำดับตอนต้นคาบ ประเมินด้วย Rubric โครงงานในบทที่ 13 หัวข้อ 7"
+    }
+   ]
+  },
+  {
+   "ms": "6. Borang Maklum Balas Rakan",
+   "th": "แบบให้ข้อเสนอแนะแก่กลุ่มอื่น (กรอกระหว่างฟัง)",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      2000,
+      3680,
+      3680
+     ],
+     "head": [
+      "Kumpulan",
+      "Saya suka … · สิ่งที่ชอบ",
+      "Cadangan saya … · ข้อเสนอแนะ"
+     ],
+     "rows": [
+      [
+       "1",
+       "",
+       ""
+      ],
+      [
+       "2",
+       "",
+       ""
+      ],
+      [
+       "3",
+       "",
+       ""
+      ],
+      [
+       "4",
+       "",
+       ""
+      ],
+      [
+       "5",
+       "",
+       ""
+      ],
+      [
+       "6",
+       "",
+       ""
+      ]
+     ]
+    },
+    {
+     "t": "pagebreak"
+    }
+   ]
+  },
+  {
+   "ms": "7. Rumusan Kursus",
+   "th": "สรุปเนื้อหาตลอดภาคเรียน",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      1500,
+      4200,
+      3660
+     ],
+     "head": [
+      "Bab",
+      "Tajuk · หัวข้อ",
+      "Ungkapan penting"
+     ],
+     "size": 26,
+     "rows": [
+      [
+       "1",
+       [
+        "Pengenalan kursus dan perniagaan Malaysia",
+        "แนะนำรายวิชาและธุรกิจมาเลเซีย"
+       ],
+       "Selamat pagi."
+      ],
+      [
+       "2",
+       [
+        "Memperkenalkan diri",
+        "การแนะนำตนเอง"
+       ],
+       "Nama saya … Saya bekerja di …"
+      ],
+      [
+       "3",
+       [
+        "Nombor, wang, hari dan masa",
+        "ตัวเลข เงิน วันเวลา"
+       ],
+       "Berapa harganya?"
+      ],
+      [
+       "4",
+       [
+        "Kosa kata dan struktur ayat",
+        "คำศัพท์และโครงสร้างประโยค"
+       ],
+       "Syarikat ini besar."
+      ],
+      [
+       "5",
+       [
+        "Budaya perniagaan dan syarikat",
+        "วัฒนธรรมธุรกิจและองค์กร"
+       ],
+       "Syarikat kami …"
+      ],
+      [
+       "6",
+       [
+        "Menyambut pelanggan",
+        "การต้อนรับลูกค้า"
+       ],
+       "Boleh saya bantu?"
+      ],
+      [
+       "7",
+       [
+        "Telefon dan temu janji",
+        "โทรศัพท์และการนัดหมาย"
+       ],
+       "Boleh saya ambil pesanan?"
+      ],
+      [
+       "8",
+       [
+        "Membaca dokumen perniagaan",
+        "การอ่านเอกสารธุรกิจ"
+       ],
+       "sebut harga, invois"
+      ],
+      [
+       "9",
+       [
+        "Membentangkan produk",
+        "การนำเสนอสินค้าและบริการ"
+       ],
+       "Hari ini saya mahu memperkenalkan …"
+      ],
+      [
+       "10",
+       [
+        "Pesanan dan tawar-menawar",
+        "การสั่งซื้อและต่อรองราคา"
+       ],
+       "Boleh beri diskaun?"
+      ],
+      [
+       "11",
+       [
+        "Menulis mesej perniagaan",
+        "การเขียนข้อความธุรกิจ"
+       ],
+       "Dengan hormatnya …"
+      ],
+      [
+       "12",
+       [
+        "Mengendalikan aduan",
+        "การจัดการข้อร้องเรียน"
+       ],
+       "Saya minta maaf atas masalah ini."
+      ],
+      [
+       "13–14",
+       [
+        "Projek kumpulan",
+        "โครงงานกลุ่ม"
+       ],
+       "Cadangan saya, … · Sekian sahaja."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "8. Refleksi Pembelajaran",
+   "th": "แบบสะท้อนผลการเรียนรู้ (รายบุคคล · CLO4)",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      5360,
+      1000,
+      1000,
+      1000,
+      1000
+     ],
+     "head": [
+      "Saya boleh … · ฉันสามารถ …",
+      "4",
+      "3",
+      "2",
+      "1"
+     ],
+     "rows": [
+      [
+       [
+        "memperkenalkan diri dan syarikat",
+        "แนะนำตนเองและบริษัท"
+       ],
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       [
+        "menyambut pelanggan dan bercakap di telefon",
+        "ต้อนรับลูกค้าและพูดโทรศัพท์"
+       ],
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       [
+        "membaca sebut harga dan invois",
+        "อ่านใบเสนอราคาและใบแจ้งหนี้"
+       ],
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       [
+        "membuat pesanan dan tawar-menawar",
+        "สั่งซื้อและต่อรองราคา"
+       ],
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       [
+        "menulis mesej WhatsApp dan e-mel",
+        "เขียนข้อความ WhatsApp และอีเมล"
+       ],
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       [
+        "bercakap bahasa Melayu dengan yakin",
+        "พูดภาษามลายูอย่างมั่นใจ"
+       ],
+       "",
+       "",
+       "",
+       ""
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "4 = sangat yakin · 3 = yakin · 2 = kurang yakin · 1 = belum boleh",
+     "th": "4 = มั่นใจมาก · 3 = มั่นใจ · 2 = ไม่ค่อยมั่นใจ · 1 = ยังทำไม่ได้"
+    },
+    {
+     "t": "h2",
+     "ms": "Jawab dalam bahasa Melayu atau bahasa Thai",
+     "th": "ตอบเป็นภาษามลายูหรือภาษาไทย"
+    },
+    {
+     "t": "bullets",
+     "items": [
+      [
+       "Apakah perkara paling berguna yang saya pelajari?",
+       "สิ่งที่มีประโยชน์ที่สุดที่ได้เรียนคืออะไร"
+      ],
+      [
+       "Apakah perkara yang masih sukar?",
+       "สิ่งที่ยังยากอยู่คืออะไร"
+      ],
+      [
+       "Bagaimana saya mahu menggunakan bahasa Melayu dalam kerja logistik?",
+       "จะนำภาษามลายูไปใช้ในงานโลจิสติกส์อย่างไร"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "9. Aktiviti Pembelajaran",
+   "th": "กิจกรรมการเรียนรู้",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      700,
+      5360,
+      2200,
+      1100
+     ],
+     "head": [
+      "#",
+      "Aktiviti · กิจกรรม",
+      "Alat · เครื่องมือ",
+      "Minit"
+     ],
+     "rows": [
+      [
+       "1",
+       "แบบทดสอบก่อนเรียน (Ujian Pra) ใช้ข้อสอบในหัวข้อ 11",
+       "Google Forms / ClassPoint",
+       "10"
+      ],
+      [
+       "2",
+       "ทบทวนสำนวนการนำเสนอ การถาม-ตอบ และการให้ข้อเสนอแนะ ฝึกบทสนทนาหัวข้อ 4 และจับฉลากลำดับกลุ่ม",
+       "PowerPoint, ClassPoint",
+       "20"
+      ],
+      [
+       "3",
+       "นำเสนอโครงงานกลุ่ม 1–4 พร้อมถาม-ตอบ ผู้ฟังกรอกแบบในหัวข้อ 6 อาจารย์ประเมินด้วย Rubric",
+       "Rubric โครงงาน, Google Forms",
+       "60"
+      ],
+      [
+       "–",
+       "พัก",
+       "",
+       "10"
+      ],
+      [
+       "4",
+       "นำเสนอโครงงานกลุ่ม 5–6 พร้อมถาม-ตอบ",
+       "Rubric โครงงาน",
+       "30"
+      ],
+      [
+       "5",
+       "ให้ข้อเสนอแนะแก่กลุ่มอื่น (ชม 1 ข้อ เสนอแนะ 1 ข้อ) บนกระดาน และอาจารย์สรุปภาพรวม",
+       "Padlet",
+       "20"
+      ],
+      [
+       "6",
+       "สรุปเนื้อหาตลอดภาคเรียนแบบเกมทีม",
+       "Kahoot!",
+       "20"
+      ],
+      [
+       "7",
+       "ประเมินเพื่อนร่วมกลุ่ม (บทที่ 13 หัวข้อ 8) และเขียนแบบสะท้อนผลหัวข้อ 8",
+       "Google Forms",
+       "20"
+      ],
+      [
+       "8",
+       "แบบทดสอบหลังเรียน · ชี้แจงการสอบปลายภาค",
+       "Google Forms / ClassPoint",
+       "20"
+      ],
+      [
+       "",
+       "**รวม**",
+       "",
+       "**210**"
+      ]
+     ],
+     "size": 28
+    },
+    {
+     "t": "pagebreak"
+    }
+   ]
+  },
+  {
+   "ms": "10. Latihan dan Rumusan",
+   "th": "แบบฝึกหัดและสรุปบท",
+   "blocks": [
+    {
+     "t": "h2",
+     "ms": "Latihan: Susun mengikut urutan pembentangan",
+     "th": "เรียงประโยคตามลำดับการนำเสนอ"
+    },
+    {
+     "t": "table",
+     "w": [
+      4680,
+      4680
+     ],
+     "rows": [
+      [
+       "ก. Ada soalan?",
+       "ข. Selamat pagi, tuan-tuan dan puan-puan."
+      ],
+      [
+       "ค. Sekian sahaja pembentangan kami.",
+       "ง. Kami dari kumpulan 3."
+      ],
+      [
+       "จ. Seterusnya, …",
+       ""
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "**Jawapan / เฉลย:** ข → ง → จ → ค → ก",
+     "after": 160
+    },
+    {
+     "t": "box",
+     "lines": [
+      [
+       "Gunakan \"kami\" semasa membentang kepada penonton. Buka dengan salam, gunakan \"seterusnya\" untuk peralihan, dan tutup dengan \"Sekian sahaja\" dan \"Terima kasih kerana mendengar\". Semasa memberi maklum balas, mulakan dengan pujian dan beri satu cadangan.",
+       false,
+       80
+      ],
+      [
+       "ใช้ kami เมื่อนำเสนอต่อผู้ฟัง เปิดด้วยการทักทาย ใช้ seterusnya เชื่อมแต่ละส่วน และปิดด้วย Sekian sahaja และ Terima kasih kerana mendengar เมื่อให้ข้อเสนอแนะ ให้เริ่มด้วยคำชมแล้วเสนอแนะ 1 ข้อ",
+       true,
+       0
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Seterusnya: Peperiksaan akhir (Minggu 16).",
+     "th": "ต่อไป: สอบปลายภาค (สัปดาห์ที่ 16) ครอบคลุมบทที่ 1–14 ตามสัดส่วนใน TSU03"
+    },
+    {
+     "t": "pagebreak"
+    }
+   ]
+  },
+  {
+   "ms": "11. Ujian Pra dan Ujian Pasca",
+   "th": "แบบทดสอบก่อนเรียนและหลังเรียน",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Pilih satu jawapan yang paling tepat.",
+     "th": "ใช้ทั้งก่อนและหลังเรียน 10 ข้อ ข้อละ 1 คะแนน 10 นาที (ข้อ 1–6 วัด CLO3 ข้อ 7–10 วัด CLO4)"
+    },
+    {
+     "t": "p",
+     "text": "**Jawapan / เฉลย (untuk pengajar · สำหรับผู้สอน):** 1-B · 2-D · 3-A · 4-C · 5-B · 6-A · 7-D · 8-C · 9-B · 10-A",
+     "after": 120
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      8660
+     ],
+     "head": [
+      "#",
+      "Soalan · คำถาม"
+     ],
+     "size": 26,
+     "after": -1,
+     "rows": [
+      [
+       "1",
+       [
+        "Ayat pembukaan pembentangan ialah …",
+        "A. Ada soalan?   B. Selamat pagi, semua.   C. Sekian sahaja.   D. Seterusnya, …",
+        "ประโยคเปิดการนำเสนอคือ …"
+       ]
+      ],
+      [
+       "2",
+       [
+        "\"Sekian sahaja pembentangan kami\" digunakan pada …",
+        "A. awal   B. tengah   C. sesi rehat   D. akhir",
+        "ประโยคนี้ใช้ช่วงใด"
+       ]
+      ],
+      [
+       "3",
+       [
+        "Semasa membentang kepada penonton: \"___ dari kumpulan 2.\"",
+        "A. Kami   B. Kita   C. Anda   D. Mereka",
+        "เติมคำให้ถูกต้อง"
+       ]
+      ],
+      [
+       "4",
+       [
+        "\"Seterusnya\" bermaksud …",
+        "A. ขอบคุณ   B. สุดท้าย   C. ต่อไป   D. คำถาม",
+        "คำนี้หมายถึง …"
+       ]
+      ],
+      [
+       "5",
+       [
+        "Anda tidak dengar soalan. Anda berkata …",
+        "A. Diam!   B. Maaf, boleh ulang soalan?   C. Sekian sahaja.   D. Selamat datang.",
+        "ไม่ได้ยินคำถาม ควรพูดว่า …"
+       ]
+      ],
+      [
+       "6",
+       [
+        "\"Terima kasih kerana mendengar\" bermaksud …",
+        "A. ขอบคุณที่รับฟัง   B. ขอบคุณที่มา   C. ขอบคุณที่ถาม   D. ขอบคุณที่ช่วย",
+        "ประโยคนี้หมายถึง …"
+       ]
+      ],
+      [
+       "7",
+       [
+        "Maklum balas yang membina ialah …",
+        "A. Teruk!   B. Saya tidak suka.   C. Diam.   D. Saya suka bahagian ini.",
+        "ข้อเสนอแนะเชิงสร้างสรรค์คือ …"
+       ]
+      ],
+      [
+       "8",
+       [
+        "\"Sebutan anda jelas\" ialah …",
+        "A. soalan   B. aduan   C. pujian   D. pesanan",
+        "ประโยคนี้เป็น …"
+       ]
+      ],
+      [
+       "9",
+       [
+        "Semasa kumpulan lain membentang, anda patut …",
+        "A. bercakap dengan kawan   B. mendengar dan mencatat   C. tidur   D. keluar",
+        "ขณะกลุ่มอื่นนำเสนอ ควร …"
+       ]
+      ],
+      [
+       "10",
+       [
+        "Refleksi membantu pelajar …",
+        "A. kenal kekuatan dan kelemahan diri   B. lupa pelajaran   C. tidak belajar   D. membaca skrip",
+        "การสะท้อนผลช่วยให้นิสิต …"
+       ]
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

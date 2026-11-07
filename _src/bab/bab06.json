@@ -1,0 +1,903 @@
+{
+ "chapter": 6,
+ "title_ms": "Menyambut Pelanggan dan Membina Hubungan Perniagaan",
+ "title_th": "การต้อนรับลูกค้าและการสร้างความสัมพันธ์ทางธุรกิจ",
+ "meta": [
+  [
+   "**Kursus**",
+   [
+    "1503250 Bahasa Melayu untuk Perniagaan",
+    "1503250 ภาษามลายูเพื่อธุรกิจ (3 หน่วยกิต)"
+   ]
+  ],
+  [
+   "**Minggu**",
+   [
+    "Kelas 6 · Semester 2/2569",
+    "คาบที่ 6 · ภาคเรียนที่ 2/2569 · วันพฤหัสบดี 08.00–12.10 น. ห้อง 17401"
+   ]
+  ],
+  [
+   "**Masa**",
+   [
+    "4 jam (teori 2 jam, amali 2 jam)",
+    "4 ชั่วโมง (ทฤษฎี 2 ชั่วโมง ปฏิบัติ 2 ชั่วโมง)"
+   ]
+  ],
+  [
+   "**Pelajar**",
+   [
+    "Tahun 2, Pengurusan Logistik (30 orang) · tiada asas bahasa Melayu",
+    "นิสิตชั้นปีที่ 2 วิชาเอกการจัดการโลจิสติกส์ 30 คน · ยังไม่มีพื้นฐานภาษามลายู"
+   ]
+  ],
+  [
+   "**CLO**",
+   [
+    "CLO2, CLO3",
+    "CLO2 มีทักษะการใช้ภาษามลายู ฟัง พูด อ่าน เพื่อการสื่อสารในธุรกิจ · CLO3 ฝึกปฏิบัติการใช้ภาษาในสถานการณ์ต่าง ๆ ในธุรกิจได้อย่างเหมาะสม"
+   ]
+  ],
+  [
+   "**Pengajar**",
+   [
+    "Asst. Prof. Muhammad Salaebing",
+    "ผศ.มูหำหมัด สาแลบิง"
+   ]
+  ]
+ ],
+ "sections": [
+  {
+   "ms": "1. Hasil Pembelajaran",
+   "th": "จุดประสงค์การเรียนรู้",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Pada akhir kelas ini, pelajar dapat:",
+     "th": "เมื่อจบคาบเรียนนี้ นิสิตสามารถ"
+    },
+    {
+     "t": "bullets",
+     "items": [
+      [
+       "Menyambut pelanggan dengan ungkapan yang sopan.",
+       "ต้อนรับลูกค้าด้วยสำนวนที่สุภาพได้ (CLO2)"
+      ],
+      [
+       "Menawarkan bantuan dan bertanya keperluan pelanggan.",
+       "เสนอความช่วยเหลือและสอบถามความต้องการของลูกค้าได้ (CLO2)"
+      ],
+      [
+       "Mendengar keperluan pelanggan dan mengisi borang ringkas.",
+       "ฟังความต้องการของลูกค้าแล้วกรอกแบบฟอร์มสั้น ๆ ได้ (CLO2)"
+      ],
+      [
+       "Melakonkan situasi menyambut pelanggan dari awal hingga akhir dengan sesuai.",
+       "แสดงบทบาทสมมติการต้อนรับลูกค้าตั้งแต่ต้นจนจบได้อย่างเหมาะสม (CLO3)"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "2. Ungkapan Menyambut Pelanggan",
+   "th": "สำนวนต้อนรับลูกค้า",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      2300,
+      3500,
+      3560
+     ],
+     "head": [
+      "Peringkat · ขั้นตอน",
+      "Bahasa Melayu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       [
+        "Menyambut",
+        "ต้อนรับ"
+       ],
+       "Selamat datang ke syarikat kami.",
+       "ยินดีต้อนรับสู่บริษัทของเรา"
+      ],
+      [
+       "",
+       "Sila masuk. Sila duduk.",
+       "เชิญเข้ามา เชิญนั่ง"
+      ],
+      [
+       "",
+       "Encik mahu minum apa? Kopi atau teh?",
+       "คุณจะดื่มอะไรคะ/ครับ กาแฟหรือชา"
+      ],
+      [
+       [
+        "Berbual ringkas",
+        "พูดคุยเล็กน้อย"
+       ],
+       "Bagaimana perjalanan Encik?",
+       "การเดินทางของคุณเป็นอย่างไรบ้าง"
+      ],
+      [
+       "",
+       "Baik, terima kasih.",
+       "ดี ขอบคุณ"
+      ],
+      [
+       [
+        "Menawarkan bantuan",
+        "เสนอความช่วยเหลือ"
+       ],
+       "Boleh saya bantu?",
+       "มีอะไรให้ช่วยไหมคะ/ครับ"
+      ],
+      [
+       [
+        "Menutup",
+        "ปิดการสนทนา"
+       ],
+       "Terima kasih kerana datang.",
+       "ขอบคุณที่มา"
+      ],
+      [
+       "",
+       "Selamat jalan.",
+       "เดินทางปลอดภัย (พูดกับคนที่กำลังจะไป)"
+      ]
+     ]
+    },
+    {
+     "t": "box",
+     "lines": [
+      [
+       "**Selamat jalan atau selamat tinggal?**",
+       false,
+       20
+      ],
+      [
+       "**Selamat jalan** พูดกับคนที่กำลังจะจากไป เช่น พนักงานพูดกับลูกค้าที่กลับ ส่วน **Selamat tinggal** พูดโดยคนที่กำลังจะจากไป บอกกับคนที่อยู่ เช่น ลูกค้าพูดกับพนักงาน",
+       true,
+       0
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "3. Bertanya Keperluan Pelanggan",
+   "th": "การสอบถามความต้องการของลูกค้า",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Gunakan kata tanya dalam Bab 4 dan tambah \"ke mana\".",
+     "th": "ใช้คำถามจากบทที่ 4 และเพิ่มคำถาม ke mana (ไปที่ไหน)"
+    },
+    {
+     "t": "table",
+     "w": [
+      3800,
+      2800,
+      2760
+     ],
+     "head": [
+      "Soalan",
+      "ความหมาย",
+      "Contoh jawapan"
+     ],
+     "rows": [
+      [
+       "Encik perlukan apa?",
+       "คุณต้องการอะไร",
+       "Saya mahu hantar barang."
+      ],
+      [
+       "Barang apa?",
+       "สินค้าอะไร",
+       "Barang elektronik."
+      ],
+      [
+       "Berapa kotak?",
+       "กี่กล่อง",
+       "Lima puluh kotak."
+      ],
+      [
+       "Ke mana?",
+       "ไปที่ไหน",
+       "Ke Kuala Lumpur."
+      ],
+      [
+       "Bila barang perlu sampai?",
+       "สินค้าต้องถึงเมื่อไร",
+       "Hari Jumaat ini."
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Tatabahasa Ringkas",
+     "th": "ไวยากรณ์สั้น ๆ"
+    },
+    {
+     "t": "table",
+     "w": [
+      1800,
+      3600,
+      3960
+     ],
+     "head": [
+      "Kata",
+      "Penggunaan · การใช้",
+      "Contoh"
+     ],
+     "rows": [
+      [
+       "boleh",
+       [
+        "boleh + kata kerja",
+        "ได้ / สามารถ ใช้ขอหรือเสนออย่างสุภาพ"
+       ],
+       "Boleh saya bantu? · Boleh Encik tunggu?"
+      ],
+      [
+       "mahu",
+       [
+        "mahu + kata kerja / kata nama",
+        "ต้องการ อยาก"
+       ],
+       "Saya mahu hantar barang. · Saya mahu kopi."
+      ],
+      [
+       "perlu",
+       [
+        "perlu + kata kerja",
+        "จำเป็นต้อง"
+       ],
+       "Barang perlu sampai hari Jumaat."
+      ],
+      [
+       "perlukan",
+       [
+        "perlukan + kata nama",
+        "ต้องการ (สิ่งของ)"
+       ],
+       "Encik perlukan apa? · Saya perlukan dua lori."
+      ]
+     ]
+    },
+    {
+     "t": "box",
+     "lines": [
+      [
+       "**Panggil pelanggan dengan gelaran, bukan \"anda\"**",
+       false,
+       20
+      ],
+      [
+       "เวลาคุยกับลูกค้าต่อหน้า คนมาเลเซียนิยมใช้คำนำหน้าแทนคำว่า \"คุณ\" เช่น Encik perlukan apa? หรือ Puan mahu minum apa? ฟังสุภาพและเป็นกันเองกว่าการใช้ anda ซ้ำ ๆ ส่วน anda เหมาะกับข้อความทั่วไปหรือคนที่ยังไม่รู้คำนำหน้า",
+       true,
+       0
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "4. Membina Hubungan Perniagaan",
+   "th": "การสร้างความสัมพันธ์ทางธุรกิจ",
+   "blocks": [
+    {
+     "t": "bullets",
+     "items": [
+      [
+       "**Layan dengan mesra.** Sambut pelanggan dengan senyuman dan tawarkan minuman.",
+       "**ต้อนรับอย่างเป็นมิตร** ยิ้มรับลูกค้าและเสนอเครื่องดื่ม"
+      ],
+      [
+       "**Berbual ringkas dahulu.** Tanya tentang perjalanan sebelum bercakap tentang perniagaan.",
+       "**คุยเรื่องทั่วไปก่อน** เช่น ถามเรื่องการเดินทาง ก่อนเข้าเรื่องธุรกิจ ช่วยสร้างความสัมพันธ์"
+      ],
+      [
+       "**Elakkan topik sensitif.** Contohnya politik, agama dan kaum.",
+       "**หลีกเลี่ยงหัวข้ออ่อนไหว** เช่น การเมือง ศาสนา และเชื้อชาติ โดยเฉพาะในการพบกันครั้งแรก"
+      ],
+      [
+       "**Ingat nama pelanggan.** Gunakan gelaran dan nama pertama (Bab 5).",
+       "**จำชื่อลูกค้า** และเรียกด้วยคำนำหน้ากับชื่อตัว (บทที่ 5)"
+      ],
+      [
+       "**Hormati pilihan minuman dan makanan.** Tawarkan pilihan halal (Bab 5).",
+       "**เคารพข้อจำกัดเรื่องอาหารและเครื่องดื่ม** เสนอตัวเลือกที่เป็นฮาลาล (บทที่ 5)"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "5. Kosa Kata",
+   "th": "คำศัพท์",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      2300,
+      2380,
+      2300,
+      2380
+     ],
+     "head": [
+      "Bahasa Melayu",
+      "ความหมาย",
+      "Bahasa Melayu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "sila",
+       "เชิญ กรุณา",
+       "bantu",
+       "ช่วย"
+      ],
+      [
+       "masuk",
+       "เข้า",
+       "mahu",
+       "ต้องการ อยาก"
+      ],
+      [
+       "duduk",
+       "นั่ง",
+       "perlu / perlukan",
+       "จำเป็น / ต้องการ"
+      ],
+      [
+       "minum",
+       "ดื่ม",
+       "ke mana",
+       "ไปที่ไหน"
+      ],
+      [
+       "kopi / teh",
+       "กาแฟ / ชา",
+       "perjalanan",
+       "การเดินทาง"
+      ],
+      [
+       "air",
+       "น้ำ",
+       "kerana",
+       "เพราะ"
+      ],
+      [
+       "bagaimana",
+       "อย่างไร",
+       "selamat jalan",
+       "เดินทางปลอดภัย"
+      ]
+     ]
+    },
+    {
+     "t": "pagebreak"
+    }
+   ]
+  },
+  {
+   "ms": "6. Perbualan: Pelanggan Datang ke Pejabat",
+   "th": "บทสนทนา: ลูกค้ามาที่สำนักงาน",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Puan Rosmah datang ke pejabat Aisyah. Dia mahu menghantar barang. (Watak dalam perbualan ini rekaan.)",
+     "th": "คุณรอสมะห์มาที่สำนักงานของไอซยะห์ เพื่อส่งสินค้า (ตัวละครเป็นเรื่องสมมติ) บทสนทนานี้ใช้เฉพาะคำในบทนี้และบทก่อนหน้า"
+    },
+    {
+     "t": "dialog",
+     "lines": [
+      [
+       "Aisyah",
+       "Selamat datang, Puan. Sila duduk. Boleh saya bantu?",
+       "ยินดีต้อนรับค่ะ เชิญนั่งค่ะ มีอะไรให้ช่วยไหมคะ"
+      ],
+      [
+       "Rosmah",
+       "Saya mahu hantar barang ke Kuala Lumpur.",
+       "ฉันต้องการส่งสินค้าไปกัวลาลัมเปอร์ค่ะ"
+      ],
+      [
+       "Aisyah",
+       "Berapa kotak, Puan?",
+       "กี่กล่องคะ"
+      ],
+      [
+       "Rosmah",
+       "Lima puluh kotak.",
+       "50 กล่องค่ะ"
+      ],
+      [
+       "Aisyah",
+       "Bila barang perlu sampai?",
+       "สินค้าต้องถึงเมื่อไรคะ"
+      ],
+      [
+       "Rosmah",
+       "Hari Jumaat ini.",
+       "วันศุกร์นี้ค่ะ"
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Nota: \"Hari Jumaat ini\" bermaksud Jumaat minggu ini.",
+     "th": "หมายเหตุ: Hari Jumaat ini แปลว่า วันศุกร์นี้ (ini วางหลังคำนามตามบทที่ 4)"
+    }
+   ]
+  },
+  {
+   "ms": "7. Borang Keperluan Pelanggan",
+   "th": "แบบฟอร์มความต้องการของลูกค้า",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Isi borang ini semasa bercakap dengan pelanggan. Borang ini digunakan dalam aktiviti dan Latihan B.",
+     "th": "กรอกแบบฟอร์มนี้ระหว่างคุยกับลูกค้า ใช้ในกิจกรรมและแบบฝึก B"
+    },
+    {
+     "t": "table",
+     "w": [
+      3400,
+      5960
+     ],
+     "head": [
+      "Maklumat · ข้อมูล",
+      ""
+     ],
+     "rows": [
+      [
+       [
+        "Nama pelanggan",
+        "ชื่อลูกค้า"
+       ],
+       ""
+      ],
+      [
+       [
+        "Syarikat",
+        "บริษัท"
+       ],
+       ""
+      ],
+      [
+       [
+        "Barang",
+        "สินค้า"
+       ],
+       ""
+      ],
+      [
+       [
+        "Kuantiti (berapa kotak)",
+        "จำนวน (กี่กล่อง)"
+       ],
+       ""
+      ],
+      [
+       [
+        "Destinasi (ke mana)",
+        "ปลายทาง (ไปที่ไหน)"
+       ],
+       ""
+      ],
+      [
+       [
+        "Tarikh sampai (bila)",
+        "วันที่ต้องถึง (เมื่อไร)"
+       ],
+       ""
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "8. Aktiviti Pembelajaran",
+   "th": "กิจกรรมการเรียนรู้",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      700,
+      5360,
+      2200,
+      1100
+     ],
+     "head": [
+      "#",
+      "Aktiviti · กิจกรรม",
+      "Alat · เครื่องมือ",
+      "Minit"
+     ],
+     "rows": [
+      [
+       "1",
+       "แบบทดสอบก่อนเรียน (Ujian Pra) ใช้ข้อสอบในหัวข้อ 12",
+       "Google Forms / ClassPoint",
+       "10"
+      ],
+      [
+       "2",
+       "ทบทวนบทที่ 5: แต่ละกลุ่มแนะนำบริษัทสมมติสั้น ๆ 3 ประโยค",
+       "บทแนะนำบริษัทจากคาบที่ 5",
+       "10"
+      ],
+      [
+       "3",
+       "สำนวนต้อนรับลูกค้าตามขั้นตอน: ฟังและพูดตาม แล้วเรียงขั้นตอนการต้อนรับให้ถูก",
+       "PowerPoint, ClassPoint Drag & Drop",
+       "30"
+      ],
+      [
+       "4",
+       "boleh / mahu / perlu / perlukan: แต่งประโยคจากภาพสถานการณ์",
+       "ClassPoint Short Answer",
+       "25"
+      ],
+      [
+       "5",
+       "อภิปรายกลุ่ม: การสร้างความสัมพันธ์กับลูกค้ามาเลเซีย ควรคุยเรื่องอะไร และควรเลี่ยงเรื่องอะไร",
+       "Padlet",
+       "20"
+      ],
+      [
+       "–",
+       "พัก",
+       "",
+       "10"
+      ],
+      [
+       "6",
+       "ฟังและกรอกแบบฟอร์ม: ครูอ่านสคริปต์ในหัวข้อ 13 นิสิตกรอกแบบฟอร์มความต้องการของลูกค้า (Latihan B)",
+       "แบบฟอร์มหัวข้อ 7",
+       "20"
+      ],
+      [
+       "7",
+       "Simulation รายคู่: พนักงานต้อนรับลูกค้า ถามความต้องการ กรอกแบบฟอร์ม และปิดการสนทนา ลูกค้าใช้บัตรบทบาท แล้วสลับบท",
+       "บัตรบทบาทลูกค้า แบบฟอร์ม",
+       "45"
+      ],
+      [
+       "8",
+       "อาสาสมัคร 3 คู่แสดงหน้าชั้น · เพื่อนให้ข้อเสนอแนะด้วย Rubric CLO3",
+       "Rubric CLO3",
+       "20"
+      ],
+      [
+       "9",
+       "สรุปบทเรียน · แบบทดสอบหลังเรียน (ข้อสอบชุดเดียวกับหัวข้อ 12) · Exit Ticket",
+       "Google Forms / ClassPoint",
+       "20"
+      ],
+      [
+       "",
+       "**รวม**",
+       "",
+       "**210**"
+      ]
+     ],
+     "size": 28
+    }
+   ]
+  },
+  {
+   "ms": "9. Latihan",
+   "th": "แบบฝึกหัด",
+   "blocks": [
+    {
+     "t": "h2",
+     "ms": "Latihan A: Susun Mengikut Urutan",
+     "th": "เรียงลำดับขั้นตอนการต้อนรับลูกค้า (1–6)"
+    },
+    {
+     "t": "table",
+     "w": [
+      1200,
+      8160
+     ],
+     "rows": [
+      [
+       "____",
+       "Boleh saya bantu?"
+      ],
+      [
+       "____",
+       "Selamat jalan."
+      ],
+      [
+       "____",
+       "Selamat datang ke syarikat kami."
+      ],
+      [
+       "____",
+       "Terima kasih kerana datang."
+      ],
+      [
+       "____",
+       "Sila duduk. Encik mahu minum apa?"
+      ],
+      [
+       "____",
+       "Bagaimana perjalanan Encik?"
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan B: Dengar dan Isi Borang",
+     "th": "ฟังแล้วกรอกแบบฟอร์มในหัวข้อ 7"
+    },
+    {
+     "t": "bi",
+     "ms": "Guru membaca skrip dalam bahagian 13. Isi borang keperluan pelanggan.",
+     "th": "ผู้สอนอ่านสคริปต์ในหัวข้อ 13 นิสิตกรอกแบบฟอร์มความต้องการของลูกค้า"
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan C: Pilih Perkataan",
+     "th": "เลือกคำที่ถูกต้อง"
+    },
+    {
+     "t": "p",
+     "text": "Pilihan / ตัวเลือก: **Boleh · mahu · perlu · perlukan · Sila**"
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      8660
+     ],
+     "rows": [
+      [
+       "1",
+       "______ saya bantu?"
+      ],
+      [
+       "2",
+       "______ masuk, Puan."
+      ],
+      [
+       "3",
+       "Saya ______ minum teh."
+      ],
+      [
+       "4",
+       "Encik ______ apa?"
+      ],
+      [
+       "5",
+       "Barang ______ sampai hari Isnin."
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan D: Jawab sebagai Pekerja",
+     "th": "ตอบในฐานะพนักงาน"
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      8660
+     ],
+     "rows": [
+      [
+       "1",
+       [
+        "Pelanggan masuk ke pejabat. Anda berkata: ______________________",
+        "ลูกค้าเข้ามาในสำนักงาน คุณพูดว่า"
+       ]
+      ],
+      [
+       "2",
+       [
+        "Anda mahu tahu keperluan pelanggan. Anda bertanya: ______________________",
+        "คุณอยากรู้ว่าลูกค้าต้องการอะไร คุณถามว่า"
+       ]
+      ],
+      [
+       "3",
+       [
+        "Pelanggan mahu pulang. Anda berkata: ______________________",
+        "ลูกค้ากำลังจะกลับ คุณพูดว่า"
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "10. Jawapan",
+   "th": "เฉลยแบบฝึกหัด",
+   "blocks": [
+    {
+     "t": "bullets",
+     "items": [
+      "**Latihan A:** 1. Selamat datang ke syarikat kami. 2. Sila duduk. Encik mahu minum apa? 3. Bagaimana perjalanan Encik? 4. Boleh saya bantu? 5. Terima kasih kerana datang. 6. Selamat jalan.",
+      "**Latihan B:** Encik Kamal · Syarikat Mutiara · barang elektronik · 30 kotak · Pulau Pinang · Selasa, 1 Disember",
+      "**Latihan C:** 1. Boleh 2. Sila 3. mahu 4. perlukan 5. perlu",
+      "**Latihan D (contoh):** 1. Selamat datang. Sila duduk. 2. Boleh saya bantu? / Encik perlukan apa? 3. Terima kasih kerana datang. Selamat jalan."
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "11. Rumusan",
+   "th": "สรุปบท",
+   "blocks": [
+    {
+     "t": "box",
+     "lines": [
+      [
+       "Sambut pelanggan dengan \"Selamat datang\", jemput duduk dan tawarkan minuman. Berbual ringkas dahulu, kemudian tanya \"Boleh saya bantu?\". Gunakan apa, berapa, ke mana dan bila untuk bertanya keperluan. Panggil pelanggan dengan gelaran. Tutup dengan \"Terima kasih kerana datang\" dan \"Selamat jalan\".",
+       false,
+       80
+      ],
+      [
+       "ต้อนรับลูกค้าด้วย Selamat datang เชิญนั่งและเสนอเครื่องดื่ม คุยเรื่องทั่วไปก่อน แล้วถาม Boleh saya bantu? ใช้ apa, berapa, ke mana, bila ถามความต้องการ เรียกลูกค้าด้วยคำนำหน้า และปิดท้ายด้วย Terima kasih kerana datang และ Selamat jalan",
+       true,
+       0
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Kelas seterusnya: Komunikasi melalui telefon dan temu janji perniagaan (Kelas 7).",
+     "th": "คาบถัดไป: การสื่อสารทางโทรศัพท์และการนัดหมายทางธุรกิจ (คาบที่ 7)"
+    },
+    {
+     "t": "pagebreak"
+    }
+   ]
+  },
+  {
+   "ms": "12. Ujian Pra dan Ujian Pasca",
+   "th": "แบบทดสอบก่อนเรียนและหลังเรียน",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Gunakan ujian ini sebelum kelas (ujian pra) dan selepas kelas (ujian pasca). Pilih satu jawapan yang paling tepat.",
+     "th": "ใช้แบบทดสอบชุดนี้ทั้งก่อนเรียนและหลังเรียน 10 ข้อ ข้อละ 1 คะแนน เวลา 10 นาที (ข้อ 1–6 วัด CLO2 ข้อ 7–10 วัดการเลือกใช้ภาษาให้เหมาะกับสถานการณ์ตาม CLO3)"
+    },
+    {
+     "t": "p",
+     "text": "**Jawapan / เฉลย (untuk pengajar · สำหรับผู้สอน):** 1-B · 2-D · 3-A · 4-C · 5-B · 6-A · 7-D · 8-C · 9-A · 10-D",
+     "after": 120
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      8660
+     ],
+     "head": [
+      "#",
+      "Soalan · คำถาม"
+     ],
+     "size": 26,
+     "after": 160,
+     "rows": [
+      [
+       "1",
+       [
+        "\"Boleh saya bantu?\" bermaksud …",
+        "A. ขอบคุณที่มา   B. มีอะไรให้ช่วยไหม   C. เชิญนั่ง   D. เดินทางปลอดภัย",
+        "ประโยคนี้หมายถึง …"
+       ]
+      ],
+      [
+       "2",
+       [
+        "\"Sila duduk\" bermaksud …",
+        "A. เชิญเข้ามา   B. กรุณารอ   C. เชิญดื่ม   D. เชิญนั่ง",
+        "ประโยคนี้หมายถึง …"
+       ]
+      ],
+      [
+       "3",
+       [
+        "Soalan untuk bertanya destinasi ialah …",
+        "A. Ke mana?   B. Berapa?   C. Bila?   D. Siapa?",
+        "คำถามที่ใช้ถามปลายทางคือ …"
+       ]
+      ],
+      [
+       "4",
+       [
+        "\"Saya ___ kopi.\" (ฉันอยากได้กาแฟ)",
+        "A. perlu   B. boleh   C. mahu   D. sila",
+        "เติมคำที่ถูกต้อง"
+       ]
+      ],
+      [
+       "5",
+       [
+        "\"Encik ___ apa?\" (คุณต้องการอะไร)",
+        "A. perlu   B. perlukan   C. boleh   D. sila",
+        "เติมคำที่ถูกต้อง"
+       ]
+      ],
+      [
+       "6",
+       [
+        "\"Kerana\" bermaksud …",
+        "A. เพราะ   B. แต่   C. และ   D. หรือ",
+        "คำว่า \"kerana\" หมายถึง …"
+       ]
+      ],
+      [
+       "7",
+       [
+        "Pekerja berkata kepada pelanggan yang mahu pulang: …",
+        "A. Selamat datang.   B. Selamat pagi.   C. Selamat tinggal.   D. Selamat jalan.",
+        "พนักงานพูดกับลูกค้าที่กำลังจะกลับว่า …"
+       ]
+      ],
+      [
+       "8",
+       [
+        "Selepas menyambut pelanggan, topik yang sesuai untuk berbual ringkas ialah …",
+        "A. politik   B. agama   C. perjalanan   D. kaum",
+        "หัวข้อที่เหมาะสำหรับพูดคุยเล็กน้อยคือ …"
+       ]
+      ],
+      [
+       "9",
+       [
+        "Cara yang sopan untuk bertanya kepada pelanggan lelaki ialah …",
+        "A. Encik perlukan apa?   B. Kamu mahu apa?   C. Apa kamu perlu?   D. Aku boleh bantu?",
+        "การถามลูกค้าผู้ชายอย่างสุภาพคือ …"
+       ]
+      ],
+      [
+       "10",
+       [
+        "Urutan yang betul ialah …",
+        "A. Selamat jalan → Selamat datang   B. Boleh saya bantu? → Selamat datang   C. Terima kasih kerana datang → Sila duduk   D. Selamat datang → Boleh saya bantu?",
+        "ลำดับที่ถูกต้องคือ …"
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "13. Skrip Guru: Latihan Mendengar",
+   "th": "สคริปต์ผู้สอนสำหรับแบบฝึก B",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Baca dua kali dengan perlahan. Guru memainkan peranan pelanggan.",
+     "th": "อ่าน 2 รอบช้า ๆ ผู้สอนเป็นลูกค้า นิสิตกรอกแบบฟอร์มในหัวข้อ 7"
+    },
+    {
+     "t": "box",
+     "lines": [
+      [
+       "Selamat pagi. Nama saya Kamal. Saya dari Syarikat Mutiara. Saya mahu hantar barang elektronik. Tiga puluh kotak. Barang ke Pulau Pinang. Barang perlu sampai hari Selasa, satu Disember. Terima kasih.",
+       false,
+       60
+      ],
+      [
+       "Jawapan: Encik Kamal · Syarikat Mutiara · barang elektronik · 30 kotak · Pulau Pinang · Selasa, 1 Disember (บริษัทและบุคคลเป็นเรื่องสมมติ)",
+       true,
+       0
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,969 @@
+{
+ "chapter": 9,
+ "title_ms": "Membentangkan Produk dan Perkhidmatan dalam Bahasa Melayu",
+ "title_th": "การนำเสนอสินค้าและบริการเป็นภาษามลายู",
+ "meta": [
+  [
+   "**Kursus**",
+   [
+    "1503250 Bahasa Melayu untuk Perniagaan",
+    "1503250 ภาษามลายูเพื่อธุรกิจ (3 หน่วยกิต)"
+   ]
+  ],
+  [
+   "**Minggu**",
+   [
+    "Kelas 10 · Semester 2/2569",
+    "คาบที่ 10 · ภาคเรียนที่ 2/2569 · วันพฤหัสบดี 08.00–12.10 น. ห้อง 17401"
+   ]
+  ],
+  [
+   "**Masa**",
+   [
+    "4 jam (teori 2 jam, amali 2 jam)",
+    "4 ชั่วโมง (ทฤษฎี 2 ชั่วโมง ปฏิบัติ 2 ชั่วโมง)"
+   ]
+  ],
+  [
+   "**Pelajar**",
+   [
+    "Tahun 2, Pengurusan Logistik (30 orang) · tiada asas bahasa Melayu",
+    "นิสิตชั้นปีที่ 2 วิชาเอกการจัดการโลจิสติกส์ 30 คน · ยังไม่มีพื้นฐานภาษามลายู"
+   ]
+  ],
+  [
+   "**CLO**",
+   [
+    "CLO3, CLO4",
+    "CLO3 ฝึกปฏิบัติการใช้ภาษาในสถานการณ์ต่าง ๆ ในธุรกิจได้อย่างเหมาะสม · CLO4 แสดงออกถึงคุณค่าในการสื่อสารภาษามลายู กล้าแสดงออก"
+   ]
+  ],
+  [
+   "**Pengajar**",
+   [
+    "Asst. Prof. Muhammad Salaebing",
+    "ผศ.มูหำหมัด สาแลบิง"
+   ]
+  ]
+ ],
+ "sections": [
+  {
+   "ms": "1. Hasil Pembelajaran",
+   "th": "จุดประสงค์การเรียนรู้",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Pada akhir kelas ini, pelajar dapat:",
+     "th": "เมื่อจบคาบเรียนนี้ นิสิตสามารถ"
+    },
+    {
+     "t": "bullets",
+     "items": [
+      [
+       "Menerangkan produk dan perkhidmatan dengan kata adjektif yang sesuai.",
+       "บรรยายสินค้าและบริการด้วยคำคุณศัพท์ที่เหมาะสมได้ (CLO3)"
+      ],
+      [
+       "Membandingkan harga dan kualiti dengan sangat, lebih dan paling.",
+       "เปรียบเทียบราคาและคุณภาพด้วย sangat, lebih และ paling ได้ (CLO3)"
+      ],
+      [
+       "Menjawab soalan pelanggan tentang harga dan ciri produk.",
+       "ตอบคำถามลูกค้าเรื่องราคาและคุณสมบัติของสินค้าได้ (CLO3)"
+      ],
+      [
+       "Membentangkan produk atau perkhidmatan selama 2–3 minit dengan yakin.",
+       "นำเสนอสินค้าหรือบริการ 2–3 นาทีได้อย่างมั่นใจ (CLO4)"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "2. Kata Adjektif untuk Produk dan Perkhidmatan",
+   "th": "คำคุณศัพท์สำหรับสินค้าและบริการ",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      2300,
+      2380,
+      2300,
+      2380
+     ],
+     "head": [
+      "Bahasa Melayu",
+      "ความหมาย",
+      "Lawan · คำตรงข้าม",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "murah",
+       "ถูก",
+       "mahal",
+       "แพง"
+      ],
+      [
+       "cepat",
+       "เร็ว",
+       "lambat",
+       "ช้า"
+      ],
+      [
+       "besar",
+       "ใหญ่",
+       "kecil",
+       "เล็ก"
+      ],
+      [
+       "ringan",
+       "เบา",
+       "berat",
+       "หนัก"
+      ],
+      [
+       "baru",
+       "ใหม่",
+       "lama",
+       "เก่า"
+      ],
+      [
+       "selamat",
+       "ปลอดภัย",
+       "bahaya",
+       "อันตราย"
+      ],
+      [
+       "mudah",
+       "ง่าย",
+       "susah",
+       "ยาก"
+      ]
+     ]
+    },
+    {
+     "t": "table",
+     "w": [
+      3300,
+      6060
+     ],
+     "head": [
+      "Kata adjektif lain",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "berkualiti",
+       "มีคุณภาพ"
+      ],
+      [
+       "tahan lama",
+       "ทนทาน ใช้ได้นาน"
+      ],
+      [
+       "kuat",
+       "แข็งแรง"
+      ],
+      [
+       "segar",
+       "สด"
+      ],
+      [
+       "popular",
+       "เป็นที่นิยม"
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Kata adjektif diletakkan selepas kata nama: lori besar, barang baru, perkhidmatan cepat.",
+     "th": "คำคุณศัพท์วางหลังคำนามเหมือนภาษาไทย เช่น lori besar (รถบรรทุกใหญ่) และ barang baru (สินค้าใหม่)"
+    }
+   ]
+  },
+  {
+   "ms": "3. Sangat, Lebih dan Paling",
+   "th": "การบอกระดับและการเปรียบเทียบ",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      2100,
+      2500,
+      2900,
+      1860
+     ],
+     "head": [
+      "Kata",
+      "Penggunaan · การใช้",
+      "Contoh",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "sangat",
+       [
+        "sangat + adjektif",
+        "มาก"
+       ],
+       "Harga ini sangat murah.",
+       "ราคานี้ถูกมาก"
+      ],
+      [
+       "… sekali",
+       [
+        "adjektif + sekali",
+        "มาก ๆ"
+       ],
+       "Penghantaran cepat sekali.",
+       "ส่งเร็วมาก ๆ"
+      ],
+      [
+       "lebih … daripada",
+       [
+        "lebih + adjektif + daripada",
+        "กว่า"
+       ],
+       "Lori A lebih besar daripada lori B.",
+       "รถ A ใหญ่กว่ารถ B"
+      ],
+      [
+       "paling",
+       [
+        "paling + adjektif",
+        "ที่สุด"
+       ],
+       "Perkhidmatan kami paling cepat.",
+       "บริการของเราเร็วที่สุด"
+      ]
+     ]
+    },
+    {
+     "t": "box",
+     "lines": [
+      [
+       "**Contoh perbandingan · ตัวอย่างการเปรียบเทียบ**",
+       false,
+       40
+      ],
+      [
+       "Syarikat A: RM900, 2 hari · Syarikat B: RM1,200, 1 hari",
+       false,
+       40
+      ],
+      [
+       "Harga Syarikat A lebih murah daripada Syarikat B. · Penghantaran Syarikat B lebih cepat.",
+       false,
+       20
+      ],
+      [
+       "ราคาบริษัท A ถูกกว่าบริษัท B ส่วนการจัดส่งของบริษัท B เร็วกว่า",
+       true,
+       0
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "4. Struktur Pembentangan",
+   "th": "โครงสร้างการนำเสนอ",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      2200,
+      3800,
+      3360
+     ],
+     "head": [
+      "Bahagian · ส่วน",
+      "Ungkapan",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       [
+        "Pembukaan",
+        "เปิด"
+       ],
+       "Selamat pagi, semua.",
+       "สวัสดีทุกท่าน"
+      ],
+      [
+       "",
+       "Nama saya … dari Syarikat …",
+       "ผม/ดิฉันชื่อ … จากบริษัท …"
+      ],
+      [
+       "",
+       "Hari ini saya mahu memperkenalkan …",
+       "วันนี้ผม/ดิฉันจะแนะนำ …"
+      ],
+      [
+       [
+        "Isi",
+        "เนื้อหา"
+       ],
+       "Ini perkhidmatan kami: …",
+       "นี่คือบริการของเรา …"
+      ],
+      [
+       "",
+       "Perkhidmatan kami cepat dan selamat.",
+       "บริการของเรารวดเร็วและปลอดภัย"
+      ],
+      [
+       "",
+       "Harganya hanya RM …",
+       "ราคาเพียง … ริงกิต"
+      ],
+      [
+       "",
+       "Harga kami lebih murah daripada syarikat lain.",
+       "ราคาของเราถูกกว่าบริษัทอื่น"
+      ],
+      [
+       [
+        "Penutup",
+        "ปิด"
+       ],
+       "Ada soalan?",
+       "มีคำถามไหม"
+      ],
+      [
+       "",
+       "Terima kasih kerana mendengar.",
+       "ขอบคุณที่รับฟัง"
+      ]
+     ]
+    },
+    {
+     "t": "box",
+     "lines": [
+      [
+       "**Tips pembentangan · เคล็ดลับการนำเสนอ**",
+       false,
+       40
+      ],
+      [
+       "• ทักทายและแนะนำตัวก่อนทุกครั้ง (บทที่ 1–2)",
+       true,
+       20
+      ],
+      [
+       "• พูดช้า ชัด และมองผู้ฟัง ไม่ก้มอ่านโน้ตตลอดเวลา",
+       true,
+       20
+      ],
+      [
+       "• ใช้ภาพสินค้าหรือสไลด์ที่มีข้อความน้อย",
+       true,
+       20
+      ],
+      [
+       "• บอกจุดเด่น 2–3 ข้อ และบอกราคาให้ชัด",
+       true,
+       20
+      ],
+      [
+       "• รักษาเวลาไม่เกิน 3 นาที",
+       true,
+       0
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "5. Contoh Pembentangan",
+   "th": "ตัวอย่างการนำเสนอ",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Aisyah membentangkan perkhidmatan syarikatnya. (Watak dan syarikat rekaan.)",
+     "th": "ไอซยะห์นำเสนอบริการของบริษัท (ตัวละครและบริษัทเป็นเรื่องสมมติ)"
+    },
+    {
+     "t": "box",
+     "lines": [
+      [
+       "Selamat pagi, semua. Nama saya Aisyah dari Syarikat Logistik Sri Songkhla. Hari ini saya mahu memperkenalkan perkhidmatan penghantaran kami ke Malaysia. Penghantaran kami cepat, hanya satu hari dari Hat Yai ke Pulau Pinang. Lori kami besar dan gudang kami selamat. Harganya hanya RM900, lebih murah daripada syarikat lain. Ada soalan? Terima kasih kerana mendengar.",
+       false,
+       60
+      ],
+      [
+       "สวัสดีทุกท่าน ดิฉันชื่อไอซยะห์ จากบริษัทโลจิสติกส์ศรีสงขลา วันนี้ดิฉันจะแนะนำบริการจัดส่งไปมาเลเซียของเรา การจัดส่งของเรารวดเร็ว ใช้เวลาเพียง 1 วันจากหาดใหญ่ถึงปีนัง รถบรรทุกของเราใหญ่ และคลังสินค้าของเราปลอดภัย ราคาเพียง 900 ริงกิต ถูกกว่าบริษัทอื่น มีคำถามไหมคะ ขอบคุณที่รับฟังค่ะ",
+       true,
+       0
+      ]
+     ]
+    },
+    {
+     "t": "pagebreak"
+    }
+   ]
+  },
+  {
+   "ms": "6. Perbualan: Soalan Pelanggan",
+   "th": "บทสนทนา: ลูกค้าถามเกี่ยวกับบริการ",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Selepas pembentangan, Puan Rosmah bertanya kepada Aisyah. (Watak rekaan.)",
+     "th": "หลังการนำเสนอ คุณรอสมะห์ถามไอซยะห์ (ตัวละครเป็นเรื่องสมมติ)"
+    },
+    {
+     "t": "dialog",
+     "lines": [
+      [
+       "Rosmah",
+       "Berapa harga penghantaran ke Pulau Pinang?",
+       "ค่าจัดส่งไปปีนังเท่าไรคะ"
+      ],
+      [
+       "Aisyah",
+       "Hanya RM900. Lebih murah daripada syarikat lain.",
+       "เพียง 900 ริงกิตค่ะ ถูกกว่าบริษัทอื่น"
+      ],
+      [
+       "Rosmah",
+       "Berapa hari?",
+       "กี่วันคะ"
+      ],
+      [
+       "Aisyah",
+       "Satu hari sahaja. Sangat cepat.",
+       "แค่ 1 วันค่ะ เร็วมาก"
+      ],
+      [
+       "Rosmah",
+       "Gudang anda selamat?",
+       "คลังสินค้าของคุณปลอดภัยไหมคะ"
+      ],
+      [
+       "Aisyah",
+       "Ya, gudang kami paling selamat di Hat Yai.",
+       "ค่ะ คลังสินค้าของเราปลอดภัยที่สุดในหาดใหญ่"
+      ]
+     ]
+    },
+    {
+     "t": "table",
+     "w": [
+      3300,
+      6060
+     ],
+     "head": [
+      "Kata baharu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "hanya / sahaja",
+       "เพียง แค่"
+      ],
+      [
+       "lain",
+       "อื่น"
+      ],
+      [
+       "ya",
+       "ใช่ ค่ะ ครับ"
+      ],
+      [
+       "semua",
+       "ทุกคน ทั้งหมด"
+      ],
+      [
+       "mendengar",
+       "ฟัง"
+      ],
+      [
+       "memperkenalkan",
+       "แนะนำ"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "7. Aktiviti Pembelajaran",
+   "th": "กิจกรรมการเรียนรู้",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      700,
+      5360,
+      2200,
+      1100
+     ],
+     "head": [
+      "#",
+      "Aktiviti · กิจกรรม",
+      "Alat · เครื่องมือ",
+      "Minit"
+     ],
+     "rows": [
+      [
+       "1",
+       "แบบทดสอบก่อนเรียน (Ujian Pra) ใช้ข้อสอบในหัวข้อ 11",
+       "Google Forms / ClassPoint",
+       "10"
+      ],
+      [
+       "2",
+       "ทบทวนบทที่ 8: อ่านใบเสนอราคาแล้วบอกราคาและวันที่",
+       "ClassPoint",
+       "10"
+      ],
+      [
+       "3",
+       "คำคุณศัพท์และคำตรงข้าม: ทายสินค้าจากภาพ แล้วบรรยายด้วยคำคุณศัพท์ 2 คำ",
+       "PowerPoint, Kahoot!",
+       "25"
+      ],
+      [
+       "4",
+       "sangat / lebih / paling: เปรียบเทียบบัตรข้อมูลบริการขนส่ง 3 บริษัท (ราคา เวลา ขนาดรถ)",
+       "บัตรข้อมูล, ClassPoint",
+       "30"
+      ],
+      [
+       "5",
+       "วิเคราะห์ตัวอย่างการนำเสนอ: แยกส่วนเปิด เนื้อหา และปิด",
+       "ClassPoint Drag & Drop",
+       "20"
+      ],
+      [
+       "–",
+       "พัก",
+       "",
+       "10"
+      ],
+      [
+       "6",
+       "งานกลุ่ม 5–6 คน: เตรียมนำเสนอสินค้าหรือบริการของบริษัทสมมติ (จากคาบที่ 5) สไลด์ไม่เกิน 3 หน้า",
+       "Canva / Google Slides",
+       "40"
+      ],
+      [
+       "7",
+       "นำเสนอกลุ่มละ 2–3 นาที เพื่อนในห้องถามคำถาม 1–2 ข้อ ผู้สอนและเพื่อนประเมินด้วยแบบประเมินในหัวข้อ 8",
+       "Rubric CLO4, ClassPoint",
+       "45"
+      ],
+      [
+       "8",
+       "สรุปบทเรียน · แบบทดสอบหลังเรียน (ข้อสอบชุดเดียวกับหัวข้อ 11) · Exit Ticket",
+       "Google Forms / ClassPoint",
+       "20"
+      ],
+      [
+       "",
+       "**รวม**",
+       "",
+       "**210**"
+      ]
+     ],
+     "size": 28
+    }
+   ]
+  },
+  {
+   "ms": "8. Borang Penilaian Pembentangan",
+   "th": "แบบประเมินการนำเสนอ (Presentation Rubric · CLO4)",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      2200,
+      2400,
+      2400,
+      2360
+     ],
+     "head": [
+      "Kriteria · เกณฑ์",
+      "3 Baik · ดี",
+      "2 Sederhana · พอใช้",
+      "1 Perlu dibaiki · ควรปรับปรุง"
+     ],
+     "size": 26,
+     "rows": [
+      [
+       [
+        "Struktur",
+        "โครงสร้าง"
+       ],
+       "มีส่วนเปิด เนื้อหา และปิดครบ",
+       "ขาด 1 ส่วน",
+       "ขาดมากกว่า 1 ส่วน"
+      ],
+      [
+       [
+        "Kandungan",
+        "เนื้อหา"
+       ],
+       "บอกจุดเด่น 2–3 ข้อและราคาชัดเจน",
+       "บอกจุดเด่น 1 ข้อหรือราคาไม่ชัด",
+       "ไม่บอกจุดเด่นหรือราคา"
+      ],
+      [
+       [
+        "Bahasa",
+        "ภาษา"
+       ],
+       "ใช้คำคุณศัพท์และ sangat/lebih/paling ถูกต้อง",
+       "ผิดบ้างแต่เข้าใจได้",
+       "ผิดมากจนเข้าใจยาก"
+      ],
+      [
+       [
+        "Sebutan",
+        "การออกเสียง"
+       ],
+       "ชัดเจน ฟังเข้าใจง่าย",
+       "ไม่ชัดบางคำ",
+       "ไม่ชัดหลายคำ"
+      ],
+      [
+       [
+        "Keyakinan",
+        "ความมั่นใจ"
+       ],
+       "มองผู้ฟัง เสียงดังพอ ดูโน้ตน้อย",
+       "ดูโน้ตบ่อย",
+       "อ่านโน้ตตลอด"
+      ],
+      [
+       [
+        "Masa",
+        "เวลา"
+       ],
+       "2–3 นาที",
+       "น้อยหรือเกินเล็กน้อย",
+       "น้อยกว่า 1 นาทีหรือเกิน 4 นาที"
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Jumlah markah: 18. Gunakan borang yang sama untuk penilaian rakan.",
+     "th": "คะแนนเต็ม 18 คะแนน ใช้แบบประเมินเดียวกันให้เพื่อนประเมินเพื่อน (Peer Assessment) ได้"
+    }
+   ]
+  },
+  {
+   "ms": "9. Latihan",
+   "th": "แบบฝึกหัด",
+   "blocks": [
+    {
+     "t": "h2",
+     "ms": "Latihan A: Lawan Kata",
+     "th": "จับคู่คำตรงข้าม"
+    },
+    {
+     "t": "table",
+     "w": [
+      4680,
+      4680
+     ],
+     "rows": [
+      [
+       "1. murah  ____",
+       "ก. lambat"
+      ],
+      [
+       "2. cepat  ____",
+       "ข. kecil"
+      ],
+      [
+       "3. besar  ____",
+       "ค. mahal"
+      ],
+      [
+       "4. ringan  ____",
+       "ง. susah"
+      ],
+      [
+       "5. mudah  ____",
+       "จ. berat"
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan B: Sangat, Lebih atau Paling?",
+     "th": "ดูตารางแล้วเติมคำ"
+    },
+    {
+     "t": "table",
+     "w": [
+      3120,
+      3120,
+      3120
+     ],
+     "head": [
+      "Syarikat",
+      "Harga",
+      "Masa penghantaran"
+     ],
+     "rows": [
+      [
+       "Syarikat A",
+       "RM800",
+       "3 hari"
+      ],
+      [
+       "Syarikat B",
+       "RM1,000",
+       "2 hari"
+      ],
+      [
+       "Syarikat C",
+       "RM1,300",
+       "1 hari"
+      ]
+     ]
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      8660
+     ],
+     "rows": [
+      [
+       "1",
+       "Harga Syarikat A ______ murah daripada Syarikat B."
+      ],
+      [
+       "2",
+       "Syarikat C ______ cepat."
+      ],
+      [
+       "3",
+       "Harga Syarikat C ______ mahal. (paling tinggi)"
+      ],
+      [
+       "4",
+       "Penghantaran Syarikat B ______ cepat daripada Syarikat A."
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan C: Susun Pembentangan",
+     "th": "เรียงลำดับการนำเสนอ (1–6)"
+    },
+    {
+     "t": "table",
+     "w": [
+      1200,
+      8160
+     ],
+     "rows": [
+      [
+       "____",
+       "Harganya hanya RM500."
+      ],
+      [
+       "____",
+       "Terima kasih kerana mendengar."
+      ],
+      [
+       "____",
+       "Selamat pagi, semua."
+      ],
+      [
+       "____",
+       "Hari ini saya mahu memperkenalkan kotak baru kami."
+      ],
+      [
+       "____",
+       "Kotak kami kuat dan ringan."
+      ],
+      [
+       "____",
+       "Nama saya Hakim dari Syarikat ABC."
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan D: Tulis Pembentangan Ringkas",
+     "th": "เขียนบทนำเสนอสั้น ๆ 5–6 ประโยค"
+    },
+    {
+     "t": "bi",
+     "ms": "Pilih satu produk atau perkhidmatan. Gunakan struktur dalam bahagian 4.",
+     "th": "เลือกสินค้าหรือบริการ 1 อย่าง แล้วเขียนตามโครงสร้างในหัวข้อ 4"
+    },
+    {
+     "t": "p",
+     "text": "__________________________________________________"
+    },
+    {
+     "t": "p",
+     "text": "__________________________________________________"
+    },
+    {
+     "t": "p",
+     "text": "__________________________________________________",
+     "after": 200
+    }
+   ]
+  },
+  {
+   "ms": "10. Jawapan dan Rumusan",
+   "th": "เฉลยแบบฝึกหัดและสรุปบท",
+   "blocks": [
+    {
+     "t": "bullets",
+     "items": [
+      "**Latihan A:** 1-ค, 2-ก, 3-ข, 4-จ, 5-ง",
+      "**Latihan B:** 1. lebih 2. paling 3. paling 4. lebih",
+      "**Latihan C:** 1. Selamat pagi, semua. 2. Nama saya Hakim … 3. Hari ini saya mahu memperkenalkan … 4. Kotak kami kuat dan ringan. 5. Harganya hanya RM500. 6. Terima kasih kerana mendengar.",
+      "**Latihan D (contoh):** Selamat pagi, semua. Nama saya Nurul dari Syarikat Pattani Segar. Hari ini saya mahu memperkenalkan buah-buahan kami. Buah kami segar dan berkualiti. Harganya hanya RM10. Terima kasih kerana mendengar."
+     ]
+    },
+    {
+     "t": "box",
+     "lines": [
+      [
+       "Kata adjektif diletakkan selepas kata nama. Gunakan sangat untuk menguatkan, lebih … daripada untuk membandingkan dan paling untuk yang tertinggi. Pembentangan ada pembukaan, isi dan penutup. Nyatakan kelebihan dan harga dengan jelas.",
+       false,
+       80
+      ],
+      [
+       "คำคุณศัพท์วางหลังคำนาม ใช้ sangat เพื่อเน้น ใช้ lebih … daripada เพื่อเปรียบเทียบ และใช้ paling เพื่อบอกระดับสูงสุด การนำเสนอมีส่วนเปิด เนื้อหา และปิด และต้องบอกจุดเด่นกับราคาให้ชัดเจน",
+       true,
+       0
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Kelas seterusnya: Membuat pesanan dan tawar-menawar harga asas (Kelas 11).",
+     "th": "คาบถัดไป: การสั่งซื้อและการเจรจาต่อรองราคาเบื้องต้น (คาบที่ 11)"
+    },
+    {
+     "t": "pagebreak"
+    }
+   ]
+  },
+  {
+   "ms": "11. Ujian Pra dan Ujian Pasca",
+   "th": "แบบทดสอบก่อนเรียนและหลังเรียน",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Gunakan ujian ini sebelum kelas (ujian pra) dan selepas kelas (ujian pasca). Pilih satu jawapan yang paling tepat.",
+     "th": "ใช้แบบทดสอบชุดนี้ทั้งก่อนเรียนและหลังเรียน 10 ข้อ ข้อละ 1 คะแนน เวลา 10 นาที (ข้อ 1–7 วัดภาษาที่ใช้ใน CLO3 ข้อ 8–10 วัดความรู้เรื่องการนำเสนอตาม CLO4)"
+    },
+    {
+     "t": "p",
+     "text": "**Jawapan / เฉลย (untuk pengajar · สำหรับผู้สอน):** 1-C · 2-A · 3-D · 4-B · 5-C · 6-A · 7-D · 8-B · 9-A · 10-D",
+     "after": 120
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      8660
+     ],
+     "head": [
+      "#",
+      "Soalan · คำถาม"
+     ],
+     "size": 26,
+     "after": -1,
+     "rows": [
+      [
+       "1",
+       [
+        "\"Cepat\" bermaksud …",
+        "A. ช้า   B. ถูก   C. เร็ว   D. ใหญ่",
+        "คำว่า \"cepat\" หมายถึง …"
+       ]
+      ],
+      [
+       "2",
+       [
+        "Lawan \"berat\" ialah …",
+        "A. ringan   B. kuat   C. besar   D. lama",
+        "คำตรงข้ามของ \"berat\" คือ …"
+       ]
+      ],
+      [
+       "3",
+       [
+        "Susunan yang betul ialah …",
+        "A. besar lori   B. besar lori ini   C. sangat lori besar   D. lori besar",
+        "การเรียงคำที่ถูกต้องคือ …"
+       ]
+      ],
+      [
+       "4",
+       [
+        "\"Lori A ___ besar daripada lori B.\"",
+        "A. paling   B. lebih   C. sangat   D. sekali",
+        "เติมคำให้ถูกต้อง"
+       ]
+      ],
+      [
+       "5",
+       [
+        "\"Paling murah\" bermaksud …",
+        "A. ถูกมาก   B. ถูกกว่า   C. ถูกที่สุด   D. ไม่ถูก",
+        "คำนี้หมายถึง …"
+       ]
+      ],
+      [
+       "6",
+       [
+        "\"Harganya hanya RM50\" bermaksud …",
+        "A. ราคาเพียง 50 ริงกิต   B. ราคาเกิน 50 ริงกิต   C. ราคาลด 50 ริงกิต   D. ไม่มีราคา",
+        "ข้อความนี้หมายถึง …"
+       ]
+      ],
+      [
+       "7",
+       [
+        "\"Berkualiti\" bermaksud …",
+        "A. ราคาถูก   B. ทนทาน   C. เป็นที่นิยม   D. มีคุณภาพ",
+        "คำว่า \"berkualiti\" หมายถึง …"
+       ]
+      ],
+      [
+       "8",
+       [
+        "Ayat yang sesuai untuk pembukaan pembentangan ialah …",
+        "A. Terima kasih kerana mendengar.   B. Selamat pagi, semua. Nama saya Aisyah.   C. Ada soalan?   D. Harganya RM900.",
+        "ประโยคที่เหมาะกับส่วนเปิดการนำเสนอคือ …"
+       ]
+      ],
+      [
+       "9",
+       [
+        "Ayat yang sesuai untuk penutup pembentangan ialah …",
+        "A. Terima kasih kerana mendengar.   B. Hari ini saya mahu memperkenalkan …   C. Lori kami besar.   D. Nama saya Hakim.",
+        "ประโยคที่เหมาะกับส่วนปิดการนำเสนอคือ …"
+       ]
+      ],
+      [
+       "10",
+       [
+        "Semasa membentang, anda patut …",
+        "A. membaca nota sepanjang masa   B. bercakap sangat cepat   C. bercakap lebih 10 minit   D. melihat pendengar dan bercakap dengan jelas",
+        "ระหว่างนำเสนอ ควร …"
+       ]
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

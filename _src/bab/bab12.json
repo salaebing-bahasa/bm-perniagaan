@@ -1,0 +1,833 @@
+{
+ "chapter": 12,
+ "title_ms": "Mengendalikan Aduan dan Menyelesaikan Masalah Pelanggan",
+ "title_th": "การจัดการข้อร้องเรียนและการแก้ปัญหาในการบริการลูกค้า",
+ "meta": [
+  [
+   "**Kursus**",
+   [
+    "1503250 Bahasa Melayu untuk Perniagaan",
+    "1503250 ภาษามลายูเพื่อธุรกิจ (3 หน่วยกิต)"
+   ]
+  ],
+  [
+   "**Minggu**",
+   [
+    "Kelas 13 · Semester 2/2569",
+    "คาบที่ 13 · ภาคเรียนที่ 2/2569 · วันพฤหัสบดี 08.00–12.10 น. ห้อง 17401"
+   ]
+  ],
+  [
+   "**Masa**",
+   [
+    "4 jam (teori 2 jam, amali 2 jam)",
+    "4 ชั่วโมง (ทฤษฎี 2 ชั่วโมง ปฏิบัติ 2 ชั่วโมง)"
+   ]
+  ],
+  [
+   "**Pelajar**",
+   [
+    "Tahun 2, Pengurusan Logistik (30 orang) · tiada asas bahasa Melayu",
+    "นิสิตชั้นปีที่ 2 วิชาเอกการจัดการโลจิสติกส์ 30 คน · ยังไม่มีพื้นฐานภาษามลายู"
+   ]
+  ],
+  [
+   "**CLO**",
+   [
+    "CLO3, CLO4",
+    "CLO3 ฝึกปฏิบัติการใช้ภาษาในสถานการณ์ต่าง ๆ ในธุรกิจได้อย่างเหมาะสม · CLO4 แสดงออกถึงคุณค่าในการสื่อสารภาษามลายู กล้าแสดงออก"
+   ]
+  ],
+  [
+   "**Pengajar**",
+   [
+    "Asst. Prof. Muhammad Salaebing",
+    "ผศ.มูหำหมัด สาแลบิง"
+   ]
+  ]
+ ],
+ "sections": [
+  {
+   "ms": "1. Hasil Pembelajaran",
+   "th": "จุดประสงค์การเรียนรู้",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Pada akhir kelas ini, pelajar dapat:",
+     "th": "เมื่อจบคาบเรียนนี้ นิสิตสามารถ"
+    },
+    {
+     "t": "bullets",
+     "items": [
+      [
+       "Memahami aduan pelanggan tentang barang rosak, penghantaran lambat dan kuantiti salah.",
+       "เข้าใจข้อร้องเรียนของลูกค้าเรื่องสินค้าเสียหาย ส่งล่าช้า และจำนวนผิดได้ (CLO3)"
+      ],
+      [
+       "Meminta maaf dan menyemak maklumat dengan sopan.",
+       "ขอโทษและตรวจสอบข้อมูลอย่างสุภาพได้ (CLO3)"
+      ],
+      [
+       "Mencadangkan penyelesaian dengan \"Kami akan …\".",
+       "เสนอทางแก้ไขด้วย Kami akan … ได้ (CLO3)"
+      ],
+      [
+       "Mengendalikan aduan dengan tenang dan yakin dalam simulasi.",
+       "รับมือข้อร้องเรียนอย่างใจเย็นและมั่นใจในสถานการณ์จำลองได้ (CLO4)"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "2. Jenis Aduan",
+   "th": "ประเภทข้อร้องเรียน",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      2400,
+      4300,
+      2660
+     ],
+     "head": [
+      "Masalah · ปัญหา",
+      "Contoh aduan",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       [
+        "rosak",
+        "เสียหาย ชำรุด"
+       ],
+       "Dua kotak rosak.",
+       "เสียหาย 2 กล่อง"
+      ],
+      [
+       [
+        "lambat",
+        "ช้า ล่าช้า"
+       ],
+       "Penghantaran lambat dua hari.",
+       "ส่งช้าไป 2 วัน"
+      ],
+      [
+       [
+        "salah",
+        "ผิด"
+       ],
+       "Kuantiti salah. Saya pesan 30 kotak, tetapi saya terima 28 kotak.",
+       "จำนวนผิด สั่ง 30 กล่อง แต่ได้รับ 28 กล่อง"
+      ],
+      [
+       "",
+       "Invois salah.",
+       "ใบแจ้งหนี้ผิด"
+      ],
+      [
+       [
+        "tidak sampai",
+        "ไม่มาถึง"
+       ],
+       "Barang belum sampai.",
+       "สินค้ายังไม่มาถึง"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "3. Langkah Mengendalikan Aduan",
+   "th": "ขั้นตอนการรับมือข้อร้องเรียน",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      2100,
+      4100,
+      3160
+     ],
+     "head": [
+      "Langkah · ขั้นตอน",
+      "Ungkapan",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       [
+        "1. Dengar",
+        "ฟัง"
+       ],
+       "Boleh Puan beri tahu apa masalahnya?",
+       "บอกได้ไหมว่ามีปัญหาอะไร"
+      ],
+      [
+       "",
+       "Saya faham.",
+       "ฉัน/ผมเข้าใจ"
+      ],
+      [
+       [
+        "2. Minta maaf",
+        "ขอโทษ"
+       ],
+       "Saya minta maaf atas masalah ini.",
+       "ขออภัยในปัญหานี้"
+      ],
+      [
+       [
+        "3. Semak",
+        "ตรวจสอบ"
+       ],
+       "Boleh saya tahu nombor pesanan Puan?",
+       "ขอทราบเลขที่คำสั่งซื้อได้ไหม"
+      ],
+      [
+       "",
+       "Sila tunggu, saya semak.",
+       "กรุณารอ ฉัน/ผมจะตรวจสอบ"
+      ],
+      [
+       [
+        "4. Selesaikan",
+        "แก้ไข"
+       ],
+       "Kami akan ganti barang yang rosak.",
+       "เราจะเปลี่ยนสินค้าที่เสียหายให้"
+      ],
+      [
+       "",
+       "Kami akan hantar dua kotak lagi esok.",
+       "เราจะส่งเพิ่มอีก 2 กล่องพรุ่งนี้"
+      ],
+      [
+       "",
+       "Kami akan betulkan invois.",
+       "เราจะแก้ใบแจ้งหนี้ให้"
+      ],
+      [
+       "",
+       "Kami akan beri diskaun 10 peratus.",
+       "เราจะให้ส่วนลด 10%"
+      ],
+      [
+       [
+        "5. Terima kasih",
+        "ขอบคุณ"
+       ],
+       "Terima kasih atas maklum balas Puan.",
+       "ขอบคุณสำหรับข้อเสนอแนะ"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "4. Sikap Semasa Mengendalikan Aduan",
+   "th": "ท่าทีในการรับมือข้อร้องเรียน",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      4680,
+      4680
+     ],
+     "head": [
+      "Lakukan · ควรทำ",
+      "Elakkan · ควรหลีกเลี่ยง"
+     ],
+     "rows": [
+      [
+       [
+        "Bercakap dengan tenang dan perlahan.",
+        "พูดอย่างใจเย็นและช้า"
+       ],
+       [
+        "Meninggikan suara.",
+        "ขึ้นเสียง"
+       ]
+      ],
+      [
+       [
+        "Dengar sampai habis.",
+        "ฟังลูกค้าจนจบ"
+       ],
+       [
+        "Memotong cakap pelanggan.",
+        "พูดแทรกลูกค้า"
+       ]
+      ],
+      [
+       [
+        "Minta maaf walaupun belum pasti siapa yang salah.",
+        "ขอโทษก่อน แม้ยังไม่แน่ใจว่าใครผิด"
+       ],
+       [
+        "\"Itu bukan salah kami.\"",
+        "พูดว่า \"นั่นไม่ใช่ความผิดของเรา\""
+       ]
+      ],
+      [
+       [
+        "Beri tarikh dan masa penyelesaian yang jelas.",
+        "บอกวันเวลาที่จะแก้ไขให้ชัดเจน"
+       ],
+       [
+        "Berjanji tanpa tarikh.",
+        "สัญญาโดยไม่บอกวันเวลา"
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Dalam budaya Melayu, menjaga air muka (maruah) orang lain sangat penting. Jangan memalukan pelanggan atau rakan sekerja di hadapan orang lain.",
+     "th": "ในวัฒนธรรมมลายู การรักษาหน้า (menjaga air muka) ของผู้อื่นสำคัญมาก ไม่ควรทำให้ลูกค้าหรือเพื่อนร่วมงานเสียหน้าต่อหน้าคนอื่น การแก้ปัญหาอย่างสุภาพช่วยรักษาความสัมพันธ์ทางธุรกิจ"
+    }
+   ]
+  },
+  {
+   "ms": "5. Kosa Kata",
+   "th": "คำศัพท์",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      2300,
+      2380,
+      2300,
+      2380
+     ],
+     "head": [
+      "Bahasa Melayu",
+      "ความหมาย",
+      "Bahasa Melayu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "aduan",
+       "ข้อร้องเรียน",
+       "semak",
+       "ตรวจสอบ"
+      ],
+      [
+       "masalah",
+       "ปัญหา",
+       "ganti",
+       "เปลี่ยนให้ใหม่ ชดเชย"
+      ],
+      [
+       "rosak",
+       "เสียหาย ชำรุด",
+       "betulkan",
+       "แก้ไขให้ถูก"
+      ],
+      [
+       "salah",
+       "ผิด",
+       "lagi",
+       "อีก (เพิ่ม)"
+      ],
+      [
+       "tetapi",
+       "แต่",
+       "faham",
+       "เข้าใจ"
+      ],
+      [
+       "minta maaf",
+       "ขอโทษ",
+       "maklum balas",
+       "ข้อเสนอแนะ ความคิดเห็น"
+      ],
+      [
+       "penyelesaian",
+       "ทางแก้ไข",
+       "tenang",
+       "ใจเย็น สงบ"
+      ]
+     ]
+    },
+    {
+     "t": "pagebreak"
+    }
+   ]
+  },
+  {
+   "ms": "6. Perbualan: Barang Rosak",
+   "th": "บทสนทนา: สินค้าเสียหาย",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Puan Rosmah menelefon Encik Hakim tentang barang yang rosak. (Watak rekaan.)",
+     "th": "คุณรอสมะห์โทรหาคุณฮากิมเรื่องสินค้าเสียหาย (ตัวละครเป็นเรื่องสมมติ)"
+    },
+    {
+     "t": "dialog",
+     "lines": [
+      [
+       "Rosmah",
+       "Encik Hakim, barang saya sudah sampai, tetapi dua kotak rosak.",
+       "คุณฮากิมคะ สินค้าของฉันมาถึงแล้ว แต่เสียหาย 2 กล่องค่ะ"
+      ],
+      [
+       "Hakim",
+       "Saya minta maaf atas masalah ini. Boleh saya tahu nombor pesanan Puan?",
+       "ผมขออภัยในปัญหานี้ครับ ขอทราบเลขที่คำสั่งซื้อได้ไหมครับ"
+      ],
+      [
+       "Rosmah",
+       "Nombor pesanan P-0218.",
+       "เลขที่คำสั่งซื้อ P-0218 ค่ะ"
+      ],
+      [
+       "Hakim",
+       "Sila tunggu, saya semak. Ya, betul. Kami akan ganti dua kotak itu esok.",
+       "กรุณารอสักครู่ ผมจะตรวจสอบ ใช่ครับ ถูกต้อง เราจะเปลี่ยน 2 กล่องนั้นให้พรุ่งนี้ครับ"
+      ],
+      [
+       "Rosmah",
+       "Baik, terima kasih.",
+       "ได้ค่ะ ขอบคุณค่ะ"
+      ],
+      [
+       "Hakim",
+       "Terima kasih atas maklum balas Puan.",
+       "ขอบคุณสำหรับข้อเสนอแนะครับ"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "7. Borang Aduan",
+   "th": "แบบบันทึกข้อร้องเรียน",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      3400,
+      5960
+     ],
+     "head": [
+      "Maklumat · ข้อมูล",
+      ""
+     ],
+     "rows": [
+      [
+       [
+        "Nama pelanggan",
+        "ชื่อลูกค้า"
+       ],
+       ""
+      ],
+      [
+       [
+        "Nombor pesanan",
+        "เลขที่คำสั่งซื้อ"
+       ],
+       ""
+      ],
+      [
+       [
+        "Masalah",
+        "ปัญหา"
+       ],
+       "□ rosak   □ lambat   □ salah   □ tidak sampai"
+      ],
+      [
+       [
+        "Butiran",
+        "รายละเอียด"
+       ],
+       ""
+      ],
+      [
+       [
+        "Tindakan",
+        "การแก้ไข"
+       ],
+       "□ ganti   □ hantar lagi   □ betulkan invois   □ diskaun"
+      ],
+      [
+       [
+        "Tarikh tindakan",
+        "วันที่ดำเนินการ"
+       ],
+       ""
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "8. Aktiviti Pembelajaran",
+   "th": "กิจกรรมการเรียนรู้",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      700,
+      5360,
+      2200,
+      1100
+     ],
+     "head": [
+      "#",
+      "Aktiviti · กิจกรรม",
+      "Alat · เครื่องมือ",
+      "Minit"
+     ],
+     "rows": [
+      [
+       "1",
+       "แบบทดสอบก่อนเรียน (Ujian Pra) ใช้ข้อสอบในหัวข้อ 11",
+       "Google Forms / ClassPoint",
+       "10"
+      ],
+      [
+       "2",
+       "ทบทวนบทที่ 11: เขียนข้อความแจ้งความล่าช้าสั้น ๆ",
+       "ClassPoint Short Answer",
+       "10"
+      ],
+      [
+       "3",
+       "ประเภทข้อร้องเรียนและขั้นตอนการรับมือ 5 ขั้น: ฟัง พูดตาม แล้วเรียงขั้นตอน",
+       "PowerPoint, ClassPoint Drag & Drop",
+       "25"
+      ],
+      [
+       "4",
+       "ควรทำ–ไม่ควรทำ: ดูคลิปหรือบทสนทนาตัวอย่าง 2 แบบ แล้ววิเคราะห์ท่าทีของพนักงาน",
+       "วิดีโอ, Padlet",
+       "25"
+      ],
+      [
+       "5",
+       "Problem-Based Learning: กลุ่มได้บัตรปัญหา 4 กรณี (เสียหาย ล่าช้า จำนวนผิด ใบแจ้งหนี้ผิด) แล้วเลือกทางแก้พร้อมเหตุผล",
+       "บัตรปัญหา, Google Docs",
+       "30"
+      ],
+      [
+       "–",
+       "พัก",
+       "",
+       "10"
+      ],
+      [
+       "6",
+       "Simulation รายคู่: ลูกค้าร้องเรียนทางโทรศัพท์ พนักงานรับมือตาม 5 ขั้นตอนและกรอกแบบบันทึกข้อร้องเรียน แล้วสลับบท",
+       "บัตรบทบาท แบบบันทึกหัวข้อ 7",
+       "40"
+      ],
+      [
+       "7",
+       "อาสาสมัคร 3 คู่แสดงหน้าชั้น · ประเมินด้วย Rubric CLO3 และ CLO4",
+       "Rubric CLO3/CLO4",
+       "20"
+      ],
+      [
+       "8",
+       "เขียนข้อความ WhatsApp ขอโทษและแจ้งทางแก้ไขถึงลูกค้า (Latihan D)",
+       "Google Docs",
+       "15"
+      ],
+      [
+       "9",
+       "สรุปบทเรียน · แบบทดสอบหลังเรียน (ข้อสอบชุดเดียวกับหัวข้อ 11) · Exit Ticket",
+       "Google Forms / ClassPoint",
+       "20"
+      ],
+      [
+       "",
+       "**รวม**",
+       "",
+       "**205**"
+      ]
+     ],
+     "size": 28
+    }
+   ]
+  },
+  {
+   "ms": "9. Latihan",
+   "th": "แบบฝึกหัด",
+   "blocks": [
+    {
+     "t": "h2",
+     "ms": "Latihan A: Padankan Masalah dan Penyelesaian",
+     "th": "จับคู่ปัญหากับทางแก้ไข"
+    },
+    {
+     "t": "table",
+     "w": [
+      4680,
+      4680
+     ],
+     "head": [
+      "Masalah",
+      "Penyelesaian"
+     ],
+     "rows": [
+      [
+       "1. Tiga kotak rosak.  ____",
+       "ก. Kami akan betulkan invois."
+      ],
+      [
+       "2. Saya terima 45 kotak, bukan 50 kotak.  ____",
+       "ข. Kami akan ganti tiga kotak itu."
+      ],
+      [
+       "3. Jumlah dalam invois salah.  ____",
+       "ค. Kami akan beri diskaun 10 peratus."
+      ],
+      [
+       "4. Penghantaran lambat tiga hari.  ____",
+       "ง. Kami akan hantar lima kotak lagi."
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan B: Susun Langkah",
+     "th": "เรียงขั้นตอนการรับมือข้อร้องเรียน (1–5)"
+    },
+    {
+     "t": "table",
+     "w": [
+      1200,
+      8160
+     ],
+     "rows": [
+      [
+       "____",
+       "Kami akan hantar dua kotak lagi esok."
+      ],
+      [
+       "____",
+       "Boleh Encik beri tahu apa masalahnya?"
+      ],
+      [
+       "____",
+       "Terima kasih atas maklum balas Encik."
+      ],
+      [
+       "____",
+       "Saya minta maaf atas masalah ini."
+      ],
+      [
+       "____",
+       "Boleh saya tahu nombor pesanan Encik?"
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan C: Betulkan Jawapan",
+     "th": "เปลี่ยนคำตอบให้สุภาพ"
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      4100,
+      4560
+     ],
+     "head": [
+      "#",
+      "Jawapan tidak sopan",
+      "Jawapan sopan"
+     ],
+     "rows": [
+      [
+       "1",
+       "Itu bukan salah kami.",
+       "______________________"
+      ],
+      [
+       "2",
+       "Nombor pesanan! Cepat!",
+       "______________________"
+      ],
+      [
+       "3",
+       "Tunggu.",
+       "______________________"
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan D: Tulis Mesej WhatsApp",
+     "th": "เขียนข้อความ WhatsApp ขอโทษและแจ้งทางแก้ไข"
+    },
+    {
+     "t": "bi",
+     "ms": "Situasi: Penghantaran kepada Encik Faiz lambat satu hari. Barang akan sampai esok, pukul 9 pagi.",
+     "th": "สถานการณ์: การจัดส่งถึงคุณฟาอิซล่าช้า 1 วัน สินค้าจะถึงพรุ่งนี้ 9 โมงเช้า (ใช้แม่แบบจากบทที่ 11)"
+    },
+    {
+     "t": "p",
+     "text": "__________________________________________________"
+    },
+    {
+     "t": "p",
+     "text": "__________________________________________________",
+     "after": 200
+    }
+   ]
+  },
+  {
+   "ms": "10. Jawapan dan Rumusan",
+   "th": "เฉลยแบบฝึกหัดและสรุปบท",
+   "blocks": [
+    {
+     "t": "bullets",
+     "items": [
+      "**Latihan A:** 1-ข, 2-ง, 3-ก, 4-ค",
+      "**Latihan B:** 1. Boleh Encik beri tahu … 2. Saya minta maaf … 3. Boleh saya tahu nombor pesanan … 4. Kami akan hantar … 5. Terima kasih atas maklum balas …",
+      "**Latihan C (contoh):** 1. Saya minta maaf atas masalah ini. Sila tunggu, saya semak. 2. Boleh saya tahu nombor pesanan Encik? 3. Sila tunggu, saya semak.",
+      "**Latihan D (contoh):** Selamat pagi Encik Faiz. Saya minta maaf, penghantaran lambat satu hari. Barang akan sampai esok, pukul 9 pagi. Terima kasih."
+     ]
+    },
+    {
+     "t": "box",
+     "lines": [
+      [
+       "Kendalikan aduan dengan lima langkah: dengar, minta maaf, semak, selesaikan dan ucapkan terima kasih. Gunakan \"Kami akan …\" untuk penyelesaian dan beri tarikh yang jelas. Bercakap dengan tenang dan jaga air muka pelanggan.",
+       false,
+       80
+      ],
+      [
+       "รับมือข้อร้องเรียนด้วย 5 ขั้นตอน: ฟัง ขอโทษ ตรวจสอบ แก้ไข และขอบคุณ ใช้ Kami akan … เสนอทางแก้พร้อมบอกวันเวลาให้ชัด พูดอย่างใจเย็น และรักษาหน้าของลูกค้า",
+       true,
+       0
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Kelas seterusnya: Projek kumpulan — simulasi situasi perniagaan dalam bahasa Melayu (Kelas 14).",
+     "th": "คาบถัดไป: โครงงานกลุ่ม การจำลองสถานการณ์ทางธุรกิจด้วยภาษามลายู (คาบที่ 14)"
+    },
+    {
+     "t": "pagebreak"
+    }
+   ]
+  },
+  {
+   "ms": "11. Ujian Pra dan Ujian Pasca",
+   "th": "แบบทดสอบก่อนเรียนและหลังเรียน",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Gunakan ujian ini sebelum kelas (ujian pra) dan selepas kelas (ujian pasca). Pilih satu jawapan yang paling tepat.",
+     "th": "ใช้แบบทดสอบชุดนี้ทั้งก่อนเรียนและหลังเรียน 10 ข้อ ข้อละ 1 คะแนน เวลา 10 นาที (ข้อ 1–7 วัด CLO3 ข้อ 8–10 วัดท่าทีการสื่อสารตาม CLO4)"
+    },
+    {
+     "t": "p",
+     "text": "**Jawapan / เฉลย (untuk pengajar · สำหรับผู้สอน):** 1-B · 2-D · 3-A · 4-C · 5-B · 6-A · 7-D · 8-C · 9-A · 10-D",
+     "after": 120
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      8660
+     ],
+     "head": [
+      "#",
+      "Soalan · คำถาม"
+     ],
+     "size": 26,
+     "after": -1,
+     "rows": [
+      [
+       "1",
+       [
+        "\"Rosak\" bermaksud …",
+        "A. ล่าช้า   B. เสียหาย ชำรุด   C. ผิด   D. หาย",
+        "คำว่า \"rosak\" หมายถึง …"
+       ]
+      ],
+      [
+       "2",
+       [
+        "\"Aduan\" bermaksud …",
+        "A. ทางแก้ไข   B. ข้อเสนอแนะ   C. ส่วนลด   D. ข้อร้องเรียน",
+        "คำว่า \"aduan\" หมายถึง …"
+       ]
+      ],
+      [
+       "3",
+       [
+        "\"Saya pesan 30 kotak, ___ saya terima 28 kotak.\"",
+        "A. tetapi   B. dan   C. atau   D. kerana",
+        "เติมคำเชื่อมให้ถูกต้อง"
+       ]
+      ],
+      [
+       "4",
+       [
+        "Langkah pertama apabila pelanggan membuat aduan ialah …",
+        "A. memberi diskaun   B. menutup telefon   C. mendengar   D. menghantar invois",
+        "ขั้นตอนแรกเมื่อลูกค้าร้องเรียนคือ …"
+       ]
+      ],
+      [
+       "5",
+       [
+        "\"Kami akan ganti barang yang rosak\" bermaksud …",
+        "A. เราจะซ่อมสินค้า   B. เราจะเปลี่ยนสินค้าที่เสียหายให้   C. เราจะคืนเงิน   D. เราจะตรวจสอบ",
+        "ประโยคนี้หมายถึง …"
+       ]
+      ],
+      [
+       "6",
+       [
+        "\"Sila tunggu, saya semak\" bermaksud …",
+        "A. กรุณารอ ฉันจะตรวจสอบ   B. กรุณาชำระเงิน   C. กรุณาโทรมาใหม่   D. กรุณาเขียนอีเมล",
+        "ประโยคนี้หมายถึง …"
+       ]
+      ],
+      [
+       "7",
+       [
+        "Ayat untuk meminta maaf ialah …",
+        "A. Terima kasih atas maklum balas.   B. Boleh saya bantu?   C. Sila tunggu.   D. Saya minta maaf atas masalah ini.",
+        "ประโยคที่ใช้ขอโทษคือ …"
+       ]
+      ],
+      [
+       "8",
+       [
+        "Semasa pelanggan marah, pekerja patut …",
+        "A. meninggikan suara   B. memotong cakap pelanggan   C. bercakap dengan tenang   D. menutup telefon",
+        "เมื่อลูกค้าโกรธ พนักงานควร …"
+       ]
+      ],
+      [
+       "9",
+       [
+        "Jawapan yang TIDAK sesuai ialah …",
+        "A. Itu bukan salah kami.   B. Saya faham.   C. Saya minta maaf.   D. Kami akan semak.",
+        "คำตอบที่ไม่เหมาะสมคือ …"
+       ]
+      ],
+      [
+       "10",
+       [
+        "\"Menjaga air muka\" bermaksud …",
+        "A. ล้างหน้า   B. ยิ้มตลอดเวลา   C. ขอส่วนลด   D. รักษาหน้า ไม่ทำให้ผู้อื่นอับอาย",
+        "สำนวนนี้หมายถึง …"
+       ]
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

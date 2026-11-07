@@ -1,0 +1,781 @@
+{
+ "chapter": 5,
+ "title_ms": "Budaya dan Adab Perniagaan Malaysia serta Memperkenalkan Organisasi",
+ "title_th": "วัฒนธรรมและมารยาททางธุรกิจของชาวมาเลเซีย และการแนะนำองค์กร",
+ "meta": [
+  [
+   "**Kursus**",
+   [
+    "1503250 Bahasa Melayu untuk Perniagaan",
+    "1503250 ภาษามลายูเพื่อธุรกิจ (3 หน่วยกิต)"
+   ]
+  ],
+  [
+   "**Minggu**",
+   [
+    "Kelas 5 · Semester 2/2569",
+    "คาบที่ 5 · ภาคเรียนที่ 2/2569 · วันพฤหัสบดี 08.00–12.10 น. ห้อง 17401"
+   ]
+  ],
+  [
+   "**Masa**",
+   [
+    "4 jam (teori 2 jam, amali 2 jam)",
+    "4 ชั่วโมง (ทฤษฎี 2 ชั่วโมง ปฏิบัติ 2 ชั่วโมง)"
+   ]
+  ],
+  [
+   "**Pelajar**",
+   [
+    "Tahun 2, Pengurusan Logistik (30 orang) · tiada asas bahasa Melayu",
+    "นิสิตชั้นปีที่ 2 วิชาเอกการจัดการโลจิสติกส์ 30 คน · ยังไม่มีพื้นฐานภาษามลายู"
+   ]
+  ],
+  [
+   "**CLO**",
+   [
+    "CLO1, CLO3",
+    "CLO1 อธิบายความรู้พื้นฐาน คำศัพท์ และวัฒนธรรมชาวมาเลเซียที่เกี่ยวข้องกับธุรกิจได้ · CLO3 ฝึกปฏิบัติการใช้ภาษาในสถานการณ์ต่าง ๆ ในธุรกิจได้อย่างเหมาะสม"
+   ]
+  ],
+  [
+   "**Pengajar**",
+   [
+    "Asst. Prof. Muhammad Salaebing",
+    "ผศ.มูหำหมัด สาแลบิง"
+   ]
+  ]
+ ],
+ "sections": [
+  {
+   "ms": "1. Hasil Pembelajaran",
+   "th": "จุดประสงค์การเรียนรู้",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Pada akhir kelas ini, pelajar dapat:",
+     "th": "เมื่อจบคาบเรียนนี้ นิสิตสามารถ"
+    },
+    {
+     "t": "bullets",
+     "items": [
+      [
+       "Menerangkan adab menyapa dan bertukar kad nama dalam perniagaan di Malaysia.",
+       "อธิบายมารยาทการทักทายและการแลกนามบัตรในการทำธุรกิจที่มาเลเซียได้ (CLO1)"
+      ],
+      [
+       "Menerangkan adab berkaitan masa, solat Jumaat dan makanan halal.",
+       "อธิบายมารยาทเรื่องเวลา การละหมาดวันศุกร์ และอาหารฮาลาลได้ (CLO1)"
+      ],
+      [
+       "Memperkenalkan syarikat dengan 4–5 ayat mudah (Syarikat kami …).",
+       "แนะนำบริษัทด้วยประโยคง่าย ๆ 4–5 ประโยค (Syarikat kami …) ได้ (CLO3)"
+      ],
+      [
+       "Melakonkan pertemuan perniagaan pertama dengan adab yang sesuai.",
+       "แสดงบทบาทสมมติการพบปะทางธุรกิจครั้งแรกด้วยมารยาทที่เหมาะสมได้ (CLO3)"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "2. Masyarakat Malaysia",
+   "th": "สังคมมาเลเซีย",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Malaysia ialah negara berbilang kaum. Kaum utama ialah Melayu, Cina dan India, serta kaum bumiputera di Sabah dan Sarawak. Islam ialah agama Persekutuan, tetapi agama lain juga diamalkan.",
+     "th": "มาเลเซียเป็นสังคมพหุวัฒนธรรม กลุ่มชาติพันธุ์หลักคือมลายู จีน และอินเดีย รวมทั้งชนพื้นเมืองในรัฐซาบะห์และซาราวัก ศาสนาอิสลามเป็นศาสนาประจำสหพันธรัฐ แต่มีการนับถือศาสนาอื่นด้วย"
+    },
+    {
+     "t": "bi",
+     "ms": "Adab dalam bab ini ialah panduan umum. Setiap orang mungkin berbeza, jadi perhatikan dan tanya dengan sopan.",
+     "th": "มารยาทในบทนี้เป็นแนวทางทั่วไป แต่ละคนอาจปฏิบัติต่างกัน จึงควรสังเกตและถามอย่างสุภาพเมื่อไม่แน่ใจ และไม่ควรเหมารวมว่าทุกคนในกลุ่มเดียวกันปฏิบัติเหมือนกันหมด"
+    }
+   ]
+  },
+  {
+   "ms": "3. Adab Menyapa",
+   "th": "มารยาทการทักทาย",
+   "blocks": [
+    {
+     "t": "bullets",
+     "items": [
+      [
+       "**Berjabat tangan** biasa dalam perniagaan. Sesetengah orang Islam tidak berjabat tangan dengan lawan jantina. Tunggu orang itu menghulurkan tangan dahulu.",
+       "**การจับมือ** เป็นเรื่องปกติในงานธุรกิจ แต่มุสลิมบางคนไม่จับมือกับเพศตรงข้าม ให้รอให้อีกฝ่ายยื่นมือมาก่อน ถ้าเขาไม่ยื่นมือ ให้ยิ้มและพยักหน้าแทน"
+      ],
+      [
+       "**Gunakan gelaran.** Encik, Puan atau Cik diikuti nama. Jika orang itu ada gelaran seperti Dato', Datuk atau Tan Sri, gunakan gelaran itu.",
+       "**ใช้คำนำหน้าชื่อ** Encik, Puan หรือ Cik ตามด้วยชื่อ ถ้าบุคคลนั้นมีบรรดาศักดิ์ เช่น Dato', Datuk หรือ Tan Sri ให้เรียกด้วยบรรดาศักดิ์นั้น"
+      ],
+      [
+       "**Gunakan nama pertama, bukan nama bapa.** Contoh: Ahmad Faiz bin Ismail dipanggil Encik Faiz atau Encik Ahmad Faiz, bukan Encik Ismail.",
+       "**เรียกชื่อตัว ไม่ใช่ชื่อบิดา** ชื่อมลายูส่วนใหญ่ไม่มีนามสกุล คำว่า bin (บุตรชายของ) และ binti (บุตรสาวของ) ตามด้วยชื่อบิดา เช่น Ahmad Faiz bin Ismail ให้เรียก Encik Faiz ไม่ใช่ Encik Ismail"
+      ],
+      [
+       "**Gunakan tangan kanan.** Berikan atau terima barang dengan tangan kanan atau dua tangan. Jangan tunjuk dengan jari telunjuk; gunakan ibu jari kanan.",
+       "**ใช้มือขวา** ส่งหรือรับของด้วยมือขวาหรือสองมือ ไม่ชี้ด้วยนิ้วชี้ ถ้าจำเป็นต้องชี้ ให้ใช้นิ้วโป้งขวาแทน"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "4. Bertukar Kad Nama",
+   "th": "การแลกนามบัตร",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      4680,
+      4680
+     ],
+     "head": [
+      "Lakukan · ควรทำ",
+      "Elakkan · ควรหลีกเลี่ยง"
+     ],
+     "rows": [
+      [
+       [
+        "Beri kad dengan dua tangan atau tangan kanan.",
+        "ยื่นนามบัตรด้วยสองมือหรือมือขวา"
+       ],
+       [
+        "Beri kad dengan tangan kiri.",
+        "ยื่นด้วยมือซ้าย"
+       ]
+      ],
+      [
+       [
+        "Hadapkan tulisan kepada penerima.",
+        "หันด้านตัวอักษรเข้าหาผู้รับ"
+       ],
+       [
+        "Terus masukkan kad ke dalam poket.",
+        "เก็บใส่กระเป๋าทันทีโดยไม่ดู"
+       ]
+      ],
+      [
+       [
+        "Baca kad sebentar sebelum menyimpannya.",
+        "อ่านนามบัตรสักครู่ก่อนเก็บ"
+       ],
+       [
+        "Menulis pada kad di hadapan pemiliknya.",
+        "เขียนลงบนนามบัตรต่อหน้าเจ้าของ"
+       ]
+      ],
+      [
+       [
+        "Simpan kad di tempat yang kemas.",
+        "เก็บในที่เรียบร้อย เช่น กล่องนามบัตร"
+       ],
+       [
+        "Meletakkan kad di poket belakang seluar.",
+        "เก็บในกระเป๋ากางเกงด้านหลัง"
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Ayat: Ini kad nama saya. · Terima kasih.",
+     "th": "ประโยคที่ใช้: Ini kad nama saya. (นี่คือนามบัตรของผม/ดิฉัน) และตอบรับด้วย Terima kasih. ทั้งสองประโยคเรียนแล้วในบทที่ 1–2"
+    }
+   ]
+  },
+  {
+   "ms": "5. Masa, Solat Jumaat dan Makanan Halal",
+   "th": "เวลา การละหมาดวันศุกร์ และอาหารฮาลาล",
+   "blocks": [
+    {
+     "t": "h2",
+     "ms": "Masa",
+     "th": "เรื่องเวลา"
+    },
+    {
+     "t": "bullets",
+     "items": [
+      [
+       "Datang tepat pada masanya. Jika lewat, maklumkan lebih awal dan katakan \"Maaf, saya lewat.\"",
+       "ควรมาตรงเวลา ถ้าจะสาย ให้แจ้งล่วงหน้าและกล่าวว่า Maaf, saya lewat. (ขอโทษ ผม/ดิฉันมาสาย)"
+      ],
+      [
+       "Ingat: waktu Malaysia satu jam lebih awal daripada waktu Thailand (Bab 3).",
+       "อย่าลืมว่าเวลามาเลเซียเร็วกว่าไทย 1 ชั่วโมง (บทที่ 3)"
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Solat Jumaat",
+     "th": "การละหมาดวันศุกร์"
+    },
+    {
+     "t": "bullets",
+     "items": [
+      [
+       "Lelaki Islam menunaikan solat Jumaat pada waktu tengah hari. Elakkan mesyuarat atau penghantaran yang memerlukan mereka pada waktu itu.",
+       "ผู้ชายมุสลิมไปละหมาดวันศุกร์ช่วงเที่ยงวัน ควรหลีกเลี่ยงการนัดประชุมหรือการส่งสินค้าที่ต้องใช้คนกลุ่มนี้ในช่วงนั้น"
+      ],
+      [
+       "Di Kedah, Kelantan dan Terengganu, Jumaat ialah hari rehat (Bab 3).",
+       "ส่วนรัฐเคดะห์ กลันตัน และตรังกานู วันศุกร์เป็นวันหยุดอยู่แล้ว (บทที่ 3)"
+      ],
+      [
+       "Pada bulan Ramadan, ramai orang Islam berpuasa. Elakkan jemputan makan tengah hari kepada mereka.",
+       "ในเดือนรอมฎอน มุสลิมจำนวนมากถือศีลอด ไม่ควรนัดรับประทานอาหารกลางวันกับเขาในช่วงนั้น"
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Makanan Halal",
+     "th": "อาหารฮาลาล"
+    },
+    {
+     "t": "bullets",
+     "items": [
+      [
+       "Jika menjamu rakan perniagaan beragama Islam, pilih restoran halal. Di Malaysia, sijil halal dikeluarkan oleh JAKIM (Bab 1).",
+       "ถ้าเลี้ยงรับรองคู่ค้าที่เป็นมุสลิม ให้เลือกร้านอาหารฮาลาล ในมาเลเซียใบรับรองฮาลาลออกโดย JAKIM (บทที่ 1)"
+      ],
+      [
+       "Jangan hidangkan daging babi atau minuman beralkohol kepada mereka.",
+       "ไม่เสิร์ฟเนื้อหมูหรือเครื่องดื่มแอลกอฮอล์"
+      ],
+      [
+       "Rakan lain mungkin ada pantang makanan, contohnya tidak makan daging lembu atau makan sayur sahaja. Tanya dahulu dengan sopan.",
+       "คู่ค้ากลุ่มอื่นอาจมีข้อห้ามด้านอาหาร เช่น ไม่ทานเนื้อวัว หรือทานมังสวิรัติ ควรถามก่อนอย่างสุภาพ"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "6. Memperkenalkan Syarikat",
+   "th": "การแนะนำบริษัท",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Gunakan \"kami\" untuk syarikat sendiri (Bab 2) dan pola ayat dalam Bab 4.",
+     "th": "ใช้ kami เมื่อพูดถึงบริษัทของตนเอง (บทที่ 2) และใช้โครงสร้างประโยคจากบทที่ 4"
+    },
+    {
+     "t": "table",
+     "w": [
+      3000,
+      3800,
+      2560
+     ],
+     "head": [
+      "Pola · โครงสร้าง",
+      "Contoh",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "Nama syarikat kami …",
+       "Nama syarikat kami Logistik Sri Songkhla.",
+       "บริษัทของเราชื่อ…"
+      ],
+      [
+       "Syarikat kami di …",
+       "Syarikat kami di Hat Yai.",
+       "บริษัทของเราอยู่ที่…"
+      ],
+      [
+       "Kami syarikat …",
+       "Kami syarikat logistik.",
+       "เราเป็นบริษัท…"
+      ],
+      [
+       "Kami ada …",
+       "Kami ada sepuluh lori dan dua gudang.",
+       "เรามี…"
+      ],
+      [
+       "Kami menghantar … ke …",
+       "Kami menghantar barang ke Malaysia.",
+       "เราส่ง…ไปยัง…"
+      ],
+      [
+       "Pelanggan kami …",
+       "Pelanggan kami di Malaysia dan Thailand.",
+       "ลูกค้าของเรา…"
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Nota: \"menghantar\" ialah bentuk rasmi bagi \"hantar\".",
+     "th": "หมายเหตุ: menghantar คือรูปที่เป็นทางการของ hantar (บทที่ 4) ใช้ในการแนะนำบริษัท เรื่องการเติมหน้าคำ (meN-) จะเรียนภายหลัง"
+    },
+    {
+     "t": "h2",
+     "ms": "Kosa Kata Tambahan",
+     "th": "คำศัพท์เพิ่มเติม"
+    },
+    {
+     "t": "table",
+     "w": [
+      3300,
+      6060
+     ],
+     "head": [
+      "Bahasa Melayu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "berjabat tangan",
+       "จับมือ"
+      ],
+      [
+       "tepat pada masanya",
+       "ตรงเวลา"
+      ],
+      [
+       "lewat",
+       "สาย"
+      ],
+      [
+       "Maaf, saya lewat.",
+       "ขอโทษ ผม/ดิฉันมาสาย"
+      ],
+      [
+       "restoran halal",
+       "ร้านอาหารฮาลาล"
+      ],
+      [
+       "Syarikat anda di mana?",
+       "บริษัทของคุณอยู่ที่ไหน"
+      ]
+     ]
+    },
+    {
+     "t": "pagebreak"
+    }
+   ]
+  },
+  {
+   "ms": "7. Perbualan: Pertemuan Pertama",
+   "th": "บทสนทนา: การพบกันครั้งแรก",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Encik Faiz datang ke pejabat Cik Aisyah di Hat Yai. Aisyah memberi kad nama dengan dua tangan. (Watak dan syarikat dalam perbualan ini rekaan.)",
+     "th": "คุณฟาอิซมาที่สำนักงานของคุณไอซยะห์ที่หาดใหญ่ ไอซยะห์ยื่นนามบัตรด้วยสองมือ (ตัวละครและบริษัทเป็นเรื่องสมมติ)"
+    },
+    {
+     "t": "dialog",
+     "lines": [
+      [
+       "Aisyah",
+       "Selamat datang, Encik Faiz. Ini kad nama saya.",
+       "ยินดีต้อนรับค่ะ คุณฟาอิซ นี่คือนามบัตรของดิฉันค่ะ"
+      ],
+      [
+       "Faiz",
+       "Terima kasih, Cik Aisyah. Syarikat anda di mana?",
+       "ขอบคุณครับ คุณไอซยะห์ บริษัทของคุณอยู่ที่ไหนครับ"
+      ],
+      [
+       "Aisyah",
+       "Syarikat kami di Hat Yai. Kami syarikat logistik.",
+       "บริษัทของเราอยู่ที่หาดใหญ่ค่ะ เราเป็นบริษัทโลจิสติกส์"
+      ],
+      [
+       "Faiz",
+       "Syarikat anda ada berapa lori?",
+       "บริษัทของคุณมีรถบรรทุกกี่คันครับ"
+      ],
+      [
+       "Aisyah",
+       "Kami ada sepuluh lori dan dua gudang.",
+       "เรามีรถบรรทุก 10 คันและคลังสินค้า 2 แห่งค่ะ"
+      ],
+      [
+       "Faiz",
+       "Baik. Terima kasih.",
+       "ครับ ขอบคุณครับ"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "8. Aktiviti Pembelajaran",
+   "th": "กิจกรรมการเรียนรู้",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      700,
+      5360,
+      2200,
+      1100
+     ],
+     "head": [
+      "#",
+      "Aktiviti · กิจกรรม",
+      "Alat · เครื่องมือ",
+      "Minit"
+     ],
+     "rows": [
+      [
+       "1",
+       "แบบทดสอบก่อนเรียน (Ujian Pra) ใช้ข้อสอบในหัวข้อ 12",
+       "Google Forms / ClassPoint",
+       "10"
+      ],
+      [
+       "2",
+       "ทบทวนบทที่ 4: ถาม–ตอบด้วย apa, berapa, bila, di mana จากบัตรข้อมูลการจัดส่ง",
+       "ClassPoint",
+       "10"
+      ],
+      [
+       "3",
+       "กรณีศึกษา: ดูวิดีโอหรือภาพสถานการณ์การพบปะทางธุรกิจ แล้วระบุสิ่งที่ควรทำและไม่ควรทำ",
+       "วิดีโอ, Padlet",
+       "30"
+      ],
+      [
+       "4",
+       "อภิปรายกลุ่ม: เปรียบเทียบมารยาทธุรกิจไทยกับมาเลเซีย (การทักทาย นามบัตร เวลา อาหาร) แล้วโพสต์ข้อสรุป",
+       "Padlet",
+       "30"
+      ],
+      [
+       "5",
+       "ฝึกแลกนามบัตรอย่างถูกมารยาทเป็นคู่ โดยใช้นามบัตรจากคาบที่ 2",
+       "นามบัตรของนิสิต",
+       "15"
+      ],
+      [
+       "–",
+       "พัก",
+       "",
+       "10"
+      ],
+      [
+       "6",
+       "แต่งบทแนะนำบริษัทสมมติของกลุ่ม 5–6 ประโยค ด้วยโครงสร้างในหัวข้อ 6",
+       "Google Docs",
+       "30"
+      ],
+      [
+       "7",
+       "นำเสนอบริษัทสมมติ กลุ่มละ 2 นาที เพื่อนถามด้วยคำถามจากบทที่ 4",
+       "ClassPoint",
+       "35"
+      ],
+      [
+       "8",
+       "บทบาทสมมติการพบกันครั้งแรก: ทักทาย แลกนามบัตร แนะนำบริษัท (ประเมินด้วย Performance Rubric ของ CLO3)",
+       "Rubric CLO3",
+       "25"
+      ],
+      [
+       "9",
+       "สรุปบทเรียน · แบบทดสอบหลังเรียน (ข้อสอบชุดเดียวกับหัวข้อ 12) · Exit Ticket",
+       "Google Forms / ClassPoint",
+       "20"
+      ],
+      [
+       "",
+       "**รวม**",
+       "",
+       "**215**"
+      ]
+     ],
+     "size": 28
+    }
+   ]
+  },
+  {
+   "ms": "9. Latihan",
+   "th": "แบบฝึกหัด",
+   "blocks": [
+    {
+     "t": "h2",
+     "ms": "Latihan A: Betul atau Salah",
+     "th": "ถูกหรือผิด"
+    },
+    {
+     "t": "table",
+     "w": [
+      7360,
+      2000
+     ],
+     "head": [
+      "Pernyataan · ข้อความ",
+      "B / S"
+     ],
+     "rows": [
+      [
+       [
+        "1. Beri kad nama dengan tangan kiri.",
+        "ยื่นนามบัตรด้วยมือซ้าย"
+       ],
+       ""
+      ],
+      [
+       [
+        "2. Ahmad Faiz bin Ismail dipanggil Encik Faiz.",
+        "Ahmad Faiz bin Ismail ควรเรียกว่า Encik Faiz"
+       ],
+       ""
+      ],
+      [
+       [
+        "3. Tunggu rakan perniagaan menghulurkan tangan dahulu.",
+        "รอให้คู่ค้ายื่นมือมาก่อน"
+       ],
+       ""
+      ],
+      [
+       [
+        "4. Jemput rakan Islam makan tengah hari pada bulan Ramadan.",
+        "ชวนคู่ค้ามุสลิมทานอาหารกลางวันในเดือนรอมฎอน"
+       ],
+       ""
+      ],
+      [
+       [
+        "5. Baca kad nama sebentar sebelum menyimpannya.",
+        "อ่านนามบัตรสักครู่ก่อนเก็บ"
+       ],
+       ""
+      ],
+      [
+       [
+        "6. Mesyuarat pada waktu solat Jumaat sesuai untuk lelaki Islam.",
+        "นัดประชุมช่วงละหมาดวันศุกร์เหมาะกับผู้ชายมุสลิม"
+       ],
+       ""
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan B: Lengkapkan",
+     "th": "เติมคำให้สมบูรณ์"
+    },
+    {
+     "t": "p",
+     "text": "Pilihan / ตัวเลือก: **kami · ada · di · menghantar · Nama**"
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      8660
+     ],
+     "rows": [
+      [
+       "1",
+       "______ syarikat kami Logistik Sri Songkhla."
+      ],
+      [
+       "2",
+       "Syarikat kami ______ Hat Yai."
+      ],
+      [
+       "3",
+       "Kami ______ lima lori."
+      ],
+      [
+       "4",
+       "Kami ______ barang ke Malaysia."
+      ],
+      [
+       "5",
+       "Pelanggan ______ di Malaysia."
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan C: Perkenalkan Syarikat Anda",
+     "th": "แนะนำบริษัทสมมติของกลุ่ม"
+    },
+    {
+     "t": "bi",
+     "ms": "Tulis 5 ayat tentang syarikat rekaan anda: nama, tempat, jenis syarikat, apa yang ada, dan pelanggan.",
+     "th": "เขียน 5 ประโยคเกี่ยวกับบริษัทสมมติ ได้แก่ ชื่อ ที่ตั้ง ประเภทบริษัท สิ่งที่บริษัทมี และลูกค้า"
+    },
+    {
+     "t": "p",
+     "text": "__________________________________________________"
+    },
+    {
+     "t": "p",
+     "text": "__________________________________________________"
+    },
+    {
+     "t": "p",
+     "text": "__________________________________________________",
+     "after": 200
+    }
+   ]
+  },
+  {
+   "ms": "10. Jawapan",
+   "th": "เฉลยแบบฝึกหัด",
+   "blocks": [
+    {
+     "t": "bullets",
+     "items": [
+      "**Latihan A:** 1-S (gunakan tangan kanan atau dua tangan) · 2-B · 3-B · 4-S · 5-B · 6-S",
+      "**Latihan B:** 1. Nama 2. di 3. ada 4. menghantar 5. kami",
+      "**Latihan C (contoh):** Nama syarikat kami Logistik Pattani. Syarikat kami di Pattani. Kami syarikat logistik. Kami ada lima lori dan satu gudang. Pelanggan kami di Malaysia dan Thailand."
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "11. Rumusan",
+   "th": "สรุปบท",
+   "blocks": [
+    {
+     "t": "box",
+     "lines": [
+      [
+       "Dalam perniagaan di Malaysia: gunakan gelaran dan nama pertama, gunakan tangan kanan, tunggu orang lain menghulurkan tangan, baca kad nama sebelum menyimpannya, datang tepat pada masanya, elakkan waktu solat Jumaat dan pilih makanan halal untuk rakan beragama Islam. Untuk memperkenalkan syarikat, gunakan \"Syarikat kami …\" dan \"Kami ada …\".",
+       false,
+       80
+      ],
+      [
+       "การทำธุรกิจกับชาวมาเลเซีย: เรียกด้วยคำนำหน้าและชื่อตัว ใช้มือขวา รอให้อีกฝ่ายยื่นมือก่อน อ่านนามบัตรก่อนเก็บ มาตรงเวลา เลี่ยงช่วงละหมาดวันศุกร์ และเลือกอาหารฮาลาลเมื่อเลี้ยงรับรองคู่ค้ามุสลิม การแนะนำบริษัทใช้ Syarikat kami … และ Kami ada …",
+       true,
+       0
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Kelas seterusnya: Menyambut pelanggan dan membina hubungan perniagaan (Kelas 6).",
+     "th": "คาบถัดไป: การต้อนรับลูกค้าและการสร้างความสัมพันธ์ทางธุรกิจ (คาบที่ 6)"
+    },
+    {
+     "t": "pagebreak"
+    }
+   ]
+  },
+  {
+   "ms": "12. Ujian Pra dan Ujian Pasca",
+   "th": "แบบทดสอบก่อนเรียนและหลังเรียน",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Gunakan ujian ini sebelum kelas (ujian pra) dan selepas kelas (ujian pasca). Pilih satu jawapan yang paling tepat.",
+     "th": "ใช้แบบทดสอบชุดนี้ทั้งก่อนเรียนและหลังเรียน 10 ข้อ ข้อละ 1 คะแนน เวลา 10 นาที (ข้อ 1–7 วัด CLO1 ข้อ 8–10 วัดความรู้ภาษาที่ใช้ใน CLO3)"
+    },
+    {
+     "t": "p",
+     "text": "**Jawapan / เฉลย (untuk pengajar · สำหรับผู้สอน):** 1-C · 2-A · 3-D · 4-B · 5-A · 6-C · 7-D · 8-B · 9-A · 10-D",
+     "after": 120
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      8660
+     ],
+     "head": [
+      "#",
+      "Soalan · คำถาม"
+     ],
+     "size": 26,
+     "after": -1,
+     "rows": [
+      [
+       "1",
+       [
+        "Beri kad nama dengan …",
+        "A. tangan kiri   B. satu jari   C. dua tangan   D. kaki",
+        "ควรยื่นนามบัตรด้วย …"
+       ]
+      ],
+      [
+       "2",
+       [
+        "Ahmad Faiz bin Ismail dipanggil …",
+        "A. Encik Faiz   B. Encik Ismail   C. Encik bin   D. Encik Ahmad Ismail",
+        "ควรเรียกบุคคลนี้ว่า …"
+       ]
+      ],
+      [
+       "3",
+       [
+        "Jika tidak pasti tentang berjabat tangan, anda …",
+        "A. memeluk   B. menunjuk dengan jari   C. pergi   D. tunggu orang itu menghulurkan tangan",
+        "ถ้าไม่แน่ใจเรื่องการจับมือ ควร …"
+       ]
+      ],
+      [
+       "4",
+       [
+        "Sijil halal di Malaysia dikeluarkan oleh …",
+        "A. SSM   B. JAKIM   C. Kastam   D. Bank",
+        "ใบรับรองฮาลาลในมาเลเซียออกโดย …"
+       ]
+      ],
+      [
+       "5",
+       [
+        "Lelaki Islam menunaikan solat Jumaat pada waktu …",
+        "A. tengah hari   B. pagi   C. malam   D. petang Ahad",
+        "ผู้ชายมุสลิมละหมาดวันศุกร์ช่วง …"
+       ]
+      ],
+      [
+       "6",
+       [
+        "Selepas menerima kad nama, anda …",
+        "A. menulis pada kad   B. masukkan ke poket belakang   C. baca kad sebentar   D. beri kepada orang lain",
+        "หลังรับนามบัตร ควร …"
+       ]
+      ],
+      [
+       "7",
+       [
+        "Untuk menunjuk, gunakan …",
+        "A. jari telunjuk kiri   B. kaki   C. jari telunjuk kanan   D. ibu jari kanan",
+        "ถ้าจำเป็นต้องชี้ ควรใช้ …"
+       ]
+      ],
+      [
+       "8",
+       [
+        "\"Syarikat ___ di Hat Yai.\" (syarikat sendiri)",
+        "A. kita   B. kami   C. anda   D. bukan",
+        "พูดถึงบริษัทของตนเองกับลูกค้า ควรเติมคำใด"
+       ]
+      ],
+      [
+       "9",
+       [
+        "\"Maaf, saya lewat\" bermaksud …",
+        "A. ขอโทษ ผม/ดิฉันมาสาย   B. ยินดีที่ได้รู้จัก   C. ขอบคุณ   D. แล้วพบกันใหม่",
+        "ประโยคนี้หมายถึง …"
+       ]
+      ],
+      [
+       "10",
+       [
+        "Ayat yang betul ialah …",
+        "A. Kami ada di sepuluh lori.   B. Ada kami lori sepuluh.   C. Lori kami ada sepuluh di.   D. Kami ada sepuluh lori.",
+        "ประโยคที่ถูกต้องคือ …"
+       ]
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

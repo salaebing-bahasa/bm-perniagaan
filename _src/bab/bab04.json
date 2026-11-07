@@ -1,0 +1,992 @@
+{
+ "chapter": 4,
+ "title_ms": "Kosa Kata Perniagaan dan Logistik serta Struktur Ayat Asas",
+ "title_th": "คำศัพท์และสำนวนพื้นฐานทางธุรกิจ–โลจิสติกส์ และโครงสร้างประโยคพื้นฐาน",
+ "meta": [
+  [
+   "**Kursus**",
+   [
+    "1503250 Bahasa Melayu untuk Perniagaan",
+    "1503250 ภาษามลายูเพื่อธุรกิจ (3 หน่วยกิต)"
+   ]
+  ],
+  [
+   "**Minggu**",
+   [
+    "Kelas 4 · Semester 2/2569",
+    "คาบที่ 4 · ภาคเรียนที่ 2/2569 · วันพฤหัสบดี 08.00–12.10 น. ห้อง 17401"
+   ]
+  ],
+  [
+   "**Masa**",
+   [
+    "4 jam (teori 2 jam, amali 2 jam)",
+    "4 ชั่วโมง (ทฤษฎี 2 ชั่วโมง ปฏิบัติ 2 ชั่วโมง)"
+   ]
+  ],
+  [
+   "**Pelajar**",
+   [
+    "Tahun 2, Pengurusan Logistik (30 orang) · tiada asas bahasa Melayu",
+    "นิสิตชั้นปีที่ 2 วิชาเอกการจัดการโลจิสติกส์ 30 คน · ยังไม่มีพื้นฐานภาษามลายู"
+   ]
+  ],
+  [
+   "**CLO**",
+   [
+    "CLO1, CLO2",
+    "CLO1 อธิบายความรู้พื้นฐาน คำศัพท์ และวัฒนธรรมชาวมาเลเซียที่เกี่ยวข้องกับธุรกิจได้ · CLO2 มีทักษะการใช้ภาษามลายู ฟัง พูด อ่าน เพื่อการสื่อสารในธุรกิจ"
+   ]
+  ],
+  [
+   "**Pengajar**",
+   [
+    "Asst. Prof. Muhammad Salaebing",
+    "ผศ.มูหำหมัด สาแลบิง"
+   ]
+  ]
+ ],
+ "sections": [
+  {
+   "ms": "1. Hasil Pembelajaran",
+   "th": "จุดประสงค์การเรียนรู้",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Pada akhir kelas ini, pelajar dapat:",
+     "th": "เมื่อจบคาบเรียนนี้ นิสิตสามารถ"
+    },
+    {
+     "t": "bullets",
+     "items": [
+      [
+       "Menerangkan maksud kosa kata asas perniagaan dan logistik, termasuk kata pinjaman.",
+       "อธิบายความหมายของคำศัพท์พื้นฐานทางธุรกิจและโลจิสติกส์ รวมทั้งคำยืมได้ (CLO1)"
+      ],
+      [
+       "Membina ayat mudah dengan pola subjek + predikat.",
+       "สร้างประโยคง่าย ๆ ตามโครงสร้างประธาน + ภาคแสดงได้ (CLO2)"
+      ],
+      [
+       "Menggunakan ini, itu dan ada dengan betul.",
+       "ใช้คำว่า ini, itu และ ada ได้ถูกต้อง (CLO2)"
+      ],
+      [
+       "Membezakan penggunaan tidak dan bukan.",
+       "แยกการใช้ tidak กับ bukan ได้ (CLO2)"
+      ],
+      [
+       "Bertanya dan menjawab soalan dengan apa, siapa, berapa, bila dan di mana.",
+       "ถามและตอบคำถามด้วย apa, siapa, berapa, bila และ di mana ได้ (CLO2)"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "2. Kosa Kata Perniagaan dan Logistik",
+   "th": "คำศัพท์ธุรกิจและโลจิสติกส์",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Kosa kata ini menambah 20 kosa kata asas dalam Bab 1.",
+     "th": "คำศัพท์ในบทนี้ต่อยอดจากคำศัพท์ 20 คำในบทที่ 1"
+    },
+    {
+     "t": "h2",
+     "ms": "Kata Nama",
+     "th": "คำนาม"
+    },
+    {
+     "t": "table",
+     "w": [
+      2300,
+      2380,
+      2300,
+      2380
+     ],
+     "head": [
+      "Bahasa Melayu",
+      "ความหมาย",
+      "Bahasa Melayu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "pesanan",
+       "คำสั่งซื้อ",
+       "pembekal",
+       "ผู้จัดหาสินค้า (ซัพพลายเออร์)"
+      ],
+      [
+       "invois",
+       "ใบแจ้งหนี้",
+       "kontena",
+       "ตู้คอนเทนเนอร์"
+      ],
+      [
+       "resit",
+       "ใบเสร็จ",
+       "kargo",
+       "สินค้าที่ขนส่ง"
+      ],
+      [
+       "dokumen",
+       "เอกสาร",
+       "palet",
+       "พาเลท"
+      ],
+      [
+       "bungkusan",
+       "พัสดุ",
+       "stok",
+       "สต็อกสินค้า"
+      ],
+      [
+       "kotak",
+       "กล่อง",
+       "kapal",
+       "เรือ"
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Kata Kerja",
+     "th": "คำกริยา"
+    },
+    {
+     "t": "table",
+     "w": [
+      2300,
+      2380,
+      2300,
+      2380
+     ],
+     "head": [
+      "Bahasa Melayu",
+      "ความหมาย",
+      "Bahasa Melayu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "hantar",
+       "ส่ง",
+       "sampai",
+       "มาถึง"
+      ],
+      [
+       "terima",
+       "รับ",
+       "bayar",
+       "จ่าย ชำระ"
+      ],
+      [
+       "simpan",
+       "เก็บ",
+       "pesan",
+       "สั่ง (ซื้อ)"
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Ungkapan Pendek",
+     "th": "สำนวนสั้น ๆ ที่ใช้บ่อย"
+    },
+    {
+     "t": "table",
+     "w": [
+      4000,
+      5360
+     ],
+     "head": [
+      "Bahasa Melayu",
+      "ความหมาย / ใช้เมื่อ"
+     ],
+     "rows": [
+      [
+       "Baik.",
+       "ได้ ตกลง (ตอบรับ)"
+      ],
+      [
+       "Tidak ada masalah.",
+       "ไม่มีปัญหา"
+      ],
+      [
+       "Barang sudah sampai.",
+       "สินค้ามาถึงแล้ว"
+      ],
+      [
+       "Barang belum sampai.",
+       "สินค้ายังไม่มาถึง"
+      ],
+      [
+       "Sila tunggu.",
+       "กรุณารอสักครู่"
+      ]
+     ]
+    },
+    {
+     "t": "box",
+     "lines": [
+      [
+       "**Kata pinjaman dalam logistik**",
+       false,
+       20
+      ],
+      [
+       "คำยืมในงานโลจิสติกส์",
+       true,
+       60
+      ],
+      [
+       "Banyak istilah logistik dalam bahasa Melayu ialah kata pinjaman daripada bahasa Inggeris dengan ejaan Melayu, contohnya kontena (container), kargo (cargo), invois (invoice), dokumen (document), stok (stock) dan lori (lorry).",
+       false,
+       20
+      ],
+      [
+       "ศัพท์โลจิสติกส์ภาษามลายูหลายคำยืมมาจากภาษาอังกฤษแต่สะกดแบบมลายู เช่น kontena, kargo, invois, dokumen, stok และ lori นิสิตที่รู้ศัพท์ภาษาอังกฤษจึงเดาความหมายได้ แต่ต้องเขียนตามตัวสะกดภาษามลายู",
+       true,
+       0
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "3. Struktur Ayat: Subjek + Predikat",
+   "th": "โครงสร้างประโยค: ประธาน + ภาคแสดง",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Ayat bahasa Melayu yang mudah terdiri daripada subjek dan predikat. Subjek ialah perkara yang diterangkan; predikat menerangkan subjek.",
+     "th": "ประโยคภาษามลายูแบบง่ายประกอบด้วยประธาน (subjek) และภาคแสดง (predikat) ประธานคือสิ่งที่พูดถึง ภาคแสดงบอกข้อมูลเกี่ยวกับประธาน"
+    },
+    {
+     "t": "table",
+     "w": [
+      2700,
+      2200,
+      2400,
+      2060
+     ],
+     "head": [
+      "Pola · แบบ",
+      "Subjek",
+      "Predikat",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       [
+        "Subjek + kata nama",
+        "ภาคแสดงเป็นคำนาม"
+       ],
+       "Saya",
+       "pegawai logistik.",
+       "ผมเป็นเจ้าหน้าที่โลจิสติกส์"
+      ],
+      [
+       [
+        "Subjek + kata kerja",
+        "ภาคแสดงเป็นคำกริยา"
+       ],
+       "Lori",
+       "sampai.",
+       "รถบรรทุกมาถึง"
+      ],
+      [
+       [
+        "Subjek + kata adjektif",
+        "ภาคแสดงเป็นคำคุณศัพท์"
+       ],
+       "Harga",
+       "murah.",
+       "ราคาถูก"
+      ],
+      [
+       [
+        "Subjek + kata sendi + tempat",
+        "ภาคแสดงบอกสถานที่"
+       ],
+       "Gudang",
+       "di Sadao.",
+       "คลังสินค้าอยู่ที่สะเดา"
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Nota: Bahasa Melayu tidak menukar bentuk kata kerja mengikut masa atau subjek.",
+     "th": "หมายเหตุ: ภาษามลายูไม่เปลี่ยนรูปกริยาตามกาลหรือประธาน เหมือนภาษาไทย เช่น Saya hantar, Kami hantar ใช้ hantar เหมือนกัน"
+    }
+   ]
+  },
+  {
+   "ms": "4. Ini, Itu dan Ada",
+   "th": "การใช้ ini, itu และ ada",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      1600,
+      2600,
+      2900,
+      2260
+     ],
+     "head": [
+      "Kata",
+      "Penggunaan · การใช้",
+      "Contoh",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "ini",
+       [
+        "selepas kata nama",
+        "วางหลังคำนาม = นี้"
+       ],
+       "kotak ini",
+       "กล่องนี้"
+      ],
+      [
+       "itu",
+       [
+        "selepas kata nama",
+        "วางหลังคำนาม = นั้น"
+       ],
+       "lori itu",
+       "รถบรรทุกคันนั้น"
+      ],
+      [
+       "Ini / Itu",
+       [
+        "di awal ayat",
+        "ขึ้นต้นประโยค = นี่คือ / นั่นคือ"
+       ],
+       "Ini invois kami.",
+       "นี่คือใบแจ้งหนี้ของเรา"
+      ],
+      [
+       "ada",
+       [
+        "mempunyai / wujud",
+        "มี (เป็นเจ้าของ หรือมีอยู่)"
+       ],
+       "Saya ada kad nama. / Ada stok di gudang.",
+       "ผมมีนามบัตร / มีสต็อกอยู่ที่คลังสินค้า"
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Perhatian: ini dan itu diletakkan selepas kata nama, bukan sebelum.",
+     "th": "ข้อควรระวัง: ini และ itu วางหลังคำนามเหมือนภาษาไทย (กล่องนี้ = kotak ini) ไม่ใช่วางหน้าเหมือนภาษาอังกฤษ"
+    }
+   ]
+  },
+  {
+   "ms": "5. Tidak dan Bukan",
+   "th": "คำปฏิเสธ tidak และ bukan",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      1600,
+      3300,
+      2400,
+      2060
+     ],
+     "head": [
+      "Kata",
+      "Digunakan dengan · ใช้กับ",
+      "Contoh",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "tidak",
+       [
+        "kata kerja dan kata adjektif",
+        "คำกริยาและคำคุณศัพท์"
+       ],
+       "Lori tidak sampai. / Harga tidak mahal.",
+       "รถบรรทุกไม่มา / ราคาไม่แพง"
+      ],
+      [
+       "bukan",
+       [
+        "kata nama",
+        "คำนาม"
+       ],
+       "Ini bukan gudang kami. / Saya bukan pengurus.",
+       "นี่ไม่ใช่คลังสินค้าของเรา / ผมไม่ใช่ผู้จัดการ"
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Tidak ada bermaksud ไม่มี. Contoh: Tidak ada stok.",
+     "th": "tidak ada แปลว่า ไม่มี เช่น Tidak ada stok. (ไม่มีสต็อก)"
+    }
+   ]
+  },
+  {
+   "ms": "6. Kata Tanya",
+   "th": "คำถาม",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      1600,
+      2000,
+      3400,
+      2360
+     ],
+     "head": [
+      "Kata tanya",
+      "ใช้ถาม",
+      "Contoh soalan",
+      "Contoh jawapan"
+     ],
+     "rows": [
+      [
+       "apa",
+       "อะไร",
+       [
+        "Apa ini?",
+        "นี่คืออะไร"
+       ],
+       "Ini invois."
+      ],
+      [
+       "siapa",
+       "ใคร",
+       [
+        "Siapa pembekal itu?",
+        "ซัพพลายเออร์รายนั้นคือใคร"
+       ],
+       "Syarikat ABC."
+      ],
+      [
+       "berapa",
+       "เท่าไร กี่",
+       [
+        "Berapa kotak?",
+        "กี่กล่อง"
+       ],
+       "Tiga puluh kotak."
+      ],
+      [
+       "bila",
+       "เมื่อไร",
+       [
+        "Bila barang sampai?",
+        "สินค้ามาถึงเมื่อไร"
+       ],
+       "Hari Rabu."
+      ],
+      [
+       "di mana",
+       "ที่ไหน",
+       [
+        "Di mana gudang?",
+        "คลังสินค้าอยู่ที่ไหน"
+       ],
+       "Di Sadao."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "7. Perbualan: Di Gudang",
+   "th": "บทสนทนา: ที่คลังสินค้า",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Aisyah memberikan invois kepada Encik Faiz. (Watak dalam perbualan ini rekaan.)",
+     "th": "ไอซยะห์ส่งใบแจ้งหนี้ให้คุณฟาอิซ (ตัวละครเป็นเรื่องสมมติ) บทสนทนานี้ใช้เฉพาะคำในบทนี้และบทก่อนหน้า"
+    },
+    {
+     "t": "dialog",
+     "lines": [
+      [
+       "Aisyah",
+       "Encik Faiz, ini invois kami.",
+       "คุณฟาอิซคะ นี่คือใบแจ้งหนี้ของเราค่ะ"
+      ],
+      [
+       "Faiz",
+       "Terima kasih. Di mana barang itu?",
+       "ขอบคุณครับ สินค้าอยู่ที่ไหนครับ"
+      ],
+      [
+       "Aisyah",
+       "Barang itu ada di gudang. Dua puluh kotak.",
+       "สินค้าอยู่ที่คลังสินค้าค่ะ 20 กล่องค่ะ"
+      ],
+      [
+       "Faiz",
+       "Bila lori sampai?",
+       "รถบรรทุกจะมาถึงเมื่อไรครับ"
+      ],
+      [
+       "Aisyah",
+       "Hari Isnin, pukul sembilan pagi.",
+       "วันจันทร์ 9 โมงเช้าค่ะ"
+      ],
+      [
+       "Faiz",
+       "Baik. Tidak ada masalah.",
+       "ได้ครับ ไม่มีปัญหาครับ"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "8. Aktiviti Pembelajaran",
+   "th": "กิจกรรมการเรียนรู้",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      700,
+      5360,
+      2200,
+      1100
+     ],
+     "head": [
+      "#",
+      "Aktiviti · กิจกรรม",
+      "Alat · เครื่องมือ",
+      "Minit"
+     ],
+     "rows": [
+      [
+       "1",
+       "แบบทดสอบก่อนเรียน (Ujian Pra) ใช้ข้อสอบในหัวข้อ 12",
+       "Google Forms / ClassPoint",
+       "10"
+      ],
+      [
+       "2",
+       "ทบทวนบทที่ 3: ครูบอกราคาและวันเวลา นิสิตเขียนเป็นตัวเลข",
+       "ClassPoint Short Answer",
+       "10"
+      ],
+      [
+       "3",
+       "คำศัพท์ธุรกิจ–โลจิสติกส์: จับคู่ภาพกับคำ และเดาความหมายคำยืมจากภาษาอังกฤษ",
+       "PowerPoint, Kahoot!",
+       "30"
+      ],
+      [
+       "4",
+       "สร้างประโยค 4 แบบจากบัตรคำประธานและภาคแสดง",
+       "ClassPoint Drag & Drop",
+       "30"
+      ],
+      [
+       "5",
+       "ini / itu / ada: ชี้ภาพหรือสิ่งของในห้องเรียนแล้วพูดประโยค",
+       "ภาพสินค้า เอกสารจำลอง",
+       "20"
+      ],
+      [
+       "–",
+       "พัก",
+       "",
+       "10"
+      ],
+      [
+       "6",
+       "tidak หรือ bukan: ทายประโยคปฏิเสธจากสถานการณ์",
+       "ClassPoint Quick Poll",
+       "20"
+      ],
+      [
+       "7",
+       "Information Gap รายคู่: คนหนึ่งถือบัตรข้อมูลการจัดส่ง อีกคนถามด้วย apa, siapa, berapa, bila, di mana แล้วกรอกตาราง จากนั้นสลับบท",
+       "บัตรข้อมูลการจัดส่ง ใบงาน",
+       "40"
+      ],
+      [
+       "8",
+       "ฝึกบทสนทนาหัวข้อ 7 เป็นคู่ แล้วเปลี่ยนจำนวนกล่องและวันเวลาเอง",
+       "บทสนทนาในเอกสาร",
+       "20"
+      ],
+      [
+       "9",
+       "สรุปบทเรียน · แบบทดสอบหลังเรียน (ข้อสอบชุดเดียวกับหัวข้อ 12) · Exit Ticket",
+       "Google Forms / ClassPoint",
+       "20"
+      ],
+      [
+       "",
+       "**รวม**",
+       "",
+       "**210**"
+      ]
+     ],
+     "size": 28
+    }
+   ]
+  },
+  {
+   "ms": "9. Latihan",
+   "th": "แบบฝึกหัด",
+   "blocks": [
+    {
+     "t": "h2",
+     "ms": "Latihan A: Padankan",
+     "th": "จับคู่คำศัพท์กับความหมาย"
+    },
+    {
+     "t": "table",
+     "w": [
+      4680,
+      4680
+     ],
+     "head": [
+      "Bahasa Melayu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "1. pesanan  ____",
+       "ก. รับ"
+      ],
+      [
+       "2. pembekal  ____",
+       "ข. ใบเสร็จ"
+      ],
+      [
+       "3. terima  ____",
+       "ค. คำสั่งซื้อ"
+      ],
+      [
+       "4. resit  ____",
+       "ง. มาถึง"
+      ],
+      [
+       "5. sampai  ____",
+       "จ. ผู้จัดหาสินค้า"
+      ],
+      [
+       "6. simpan  ____",
+       "ฉ. เก็บ"
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan B: Tidak atau Bukan?",
+     "th": "เติม tidak หรือ bukan"
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      8660
+     ],
+     "rows": [
+      [
+       "1",
+       "Harga itu ______ mahal."
+      ],
+      [
+       "2",
+       "Ini ______ invois kami."
+      ],
+      [
+       "3",
+       "Lori ______ sampai hari ini."
+      ],
+      [
+       "4",
+       "Saya ______ pengurus. Saya kerani."
+      ],
+      [
+       "5",
+       "______ ada stok di gudang."
+      ],
+      [
+       "6",
+       "Itu ______ kotak kami."
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan C: Pilih Kata Tanya",
+     "th": "เลือกคำถามให้ถูกต้อง"
+    },
+    {
+     "t": "p",
+     "text": "Pilihan / ตัวเลือก: **apa · siapa · berapa · bila · di mana**"
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      5200,
+      3460
+     ],
+     "head": [
+      "#",
+      "Soalan",
+      "Jawapan"
+     ],
+     "rows": [
+      [
+       "1",
+       "______ harga satu kotak?",
+       "RM30."
+      ],
+      [
+       "2",
+       "______ gudang kami?",
+       "Di Hat Yai."
+      ],
+      [
+       "3",
+       "______ barang sampai?",
+       "Hari Jumaat."
+      ],
+      [
+       "4",
+       "______ ini?",
+       "Ini resit."
+      ],
+      [
+       "5",
+       "______ pengurus gudang?",
+       "Encik Faiz."
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan D: Baca dan Jawab",
+     "th": "อ่านบัตรข้อมูลแล้วตอบคำถามเป็นภาษามลายู"
+    },
+    {
+     "t": "box",
+     "lines": [
+      [
+       "**MAKLUMAT PENGHANTARAN**",
+       false,
+       40
+      ],
+      [
+       "Pelanggan: Syarikat Seri Sempadan",
+       false,
+       20
+      ],
+      [
+       "Barang: 30 kotak",
+       false,
+       20
+      ],
+      [
+       "Tarikh: Rabu, 25 November",
+       false,
+       20
+      ],
+      [
+       "Tempat: Gudang Sadao",
+       false,
+       0
+      ]
+     ]
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      8660
+     ],
+     "rows": [
+      [
+       "1",
+       "Siapa pelanggan itu?  ______________________"
+      ],
+      [
+       "2",
+       "Berapa kotak?  ______________________"
+      ],
+      [
+       "3",
+       "Bila penghantaran?  ______________________"
+      ],
+      [
+       "4",
+       "Di mana gudang?  ______________________"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "10. Jawapan",
+   "th": "เฉลยแบบฝึกหัด",
+   "blocks": [
+    {
+     "t": "bullets",
+     "items": [
+      "**Latihan A:** 1-ค, 2-จ, 3-ก, 4-ข, 5-ง, 6-ฉ",
+      "**Latihan B:** 1. tidak 2. bukan 3. tidak 4. bukan 5. Tidak 6. bukan",
+      "**Latihan C:** 1. Berapa 2. Di mana 3. Bila 4. Apa 5. Siapa",
+      "**Latihan D:** 1. Syarikat Seri Sempadan. 2. Tiga puluh kotak. 3. Hari Rabu, 25 November. 4. Di Sadao."
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "11. Rumusan",
+   "th": "สรุปบท",
+   "blocks": [
+    {
+     "t": "box",
+     "lines": [
+      [
+       "Ayat mudah terdiri daripada subjek dan predikat. Ini dan itu diletakkan selepas kata nama. Ada bermaksud มี. Tidak digunakan dengan kata kerja dan kata adjektif; bukan digunakan dengan kata nama. Gunakan apa, siapa, berapa, bila dan di mana untuk bertanya.",
+       false,
+       80
+      ],
+      [
+       "ประโยคง่ายประกอบด้วยประธานและภาคแสดง ini และ itu วางหลังคำนาม ada แปลว่า มี tidak ใช้ปฏิเสธคำกริยาและคำคุณศัพท์ ส่วน bukan ใช้ปฏิเสธคำนาม และใช้ apa, siapa, berapa, bila, di mana ในการตั้งคำถาม",
+       true,
+       0
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Kelas seterusnya: Budaya dan adab perniagaan Malaysia serta memperkenalkan organisasi (Kelas 5).",
+     "th": "คาบถัดไป: วัฒนธรรมและมารยาททางธุรกิจของชาวมาเลเซีย และการแนะนำองค์กร (คาบที่ 5)"
+    },
+    {
+     "t": "pagebreak"
+    }
+   ]
+  },
+  {
+   "ms": "12. Ujian Pra dan Ujian Pasca",
+   "th": "แบบทดสอบก่อนเรียนและหลังเรียน",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Gunakan ujian ini sebelum kelas (ujian pra) dan selepas kelas (ujian pasca). Pilih satu jawapan yang paling tepat.",
+     "th": "ใช้แบบทดสอบชุดนี้ทั้งก่อนเรียนและหลังเรียน 10 ข้อ ข้อละ 1 คะแนน เวลา 10 นาที (ข้อ 6, 7 และ 10 วัด CLO1 ข้ออื่นวัด CLO2)"
+    },
+    {
+     "t": "p",
+     "text": "**Jawapan / เฉลย (untuk pengajar · สำหรับผู้สอน):** 1-B · 2-C · 3-B · 4-D · 5-A · 6-A · 7-D · 8-C · 9-B · 10-D",
+     "after": 120
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      8660
+     ],
+     "head": [
+      "#",
+      "Soalan · คำถาม"
+     ],
+     "size": 26,
+     "rows": [
+      [
+       "1",
+       [
+        "\"Kotak ini\" bermaksud …",
+        "A. กล่องนั้น   B. กล่องนี้   C. ในกล่อง   D. กล่องไหน",
+        "คำว่า \"kotak ini\" หมายถึง …"
+       ]
+      ],
+      [
+       "2",
+       [
+        "Ini ___ gudang kami.",
+        "A. tidak   B. belum   C. bukan   D. ada",
+        "เติมคำปฏิเสธที่ถูกต้อง"
+       ]
+      ],
+      [
+       "3",
+       [
+        "Barang ini ___ mahal.",
+        "A. bukan   B. tidak   C. siapa   D. bila",
+        "เติมคำปฏิเสธที่ถูกต้อง"
+       ]
+      ],
+      [
+       "4",
+       [
+        "Kata tanya untuk tempat ialah …",
+        "A. bila   B. siapa   C. apa   D. di mana",
+        "คำถามที่ใช้ถามสถานที่คือ …"
+       ]
+      ],
+      [
+       "5",
+       [
+        "Kata tanya untuk masa atau tarikh ialah …",
+        "A. bila   B. berapa   C. di mana   D. siapa",
+        "คำถามที่ใช้ถามเวลาหรือวันที่คือ …"
+       ]
+      ],
+      [
+       "6",
+       [
+        "\"Invois\" bermaksud …",
+        "A. ใบแจ้งหนี้   B. ใบเสร็จ   C. คำสั่งซื้อ   D. สินค้า",
+        "คำว่า \"invois\" หมายถึง …"
+       ]
+      ],
+      [
+       "7",
+       [
+        "\"Pembekal\" bermaksud …",
+        "A. ลูกค้า   B. ผู้จัดการ   C. คนขับรถ   D. ผู้จัดหาสินค้า",
+        "คำว่า \"pembekal\" หมายถึง …"
+       ]
+      ],
+      [
+       "8",
+       [
+        "Ayat yang betul ialah …",
+        "A. Itu gudang di.   B. Di itu gudang Sadao.   C. Gudang itu di Sadao.   D. Sadao gudang itu di.",
+        "ประโยคที่ถูกต้องคือ …"
+       ]
+      ],
+      [
+       "9",
+       [
+        "\"Saya ada kad nama.\" Ada bermaksud …",
+        "A. ไม่มี   B. มี   C. เป็น   D. ส่ง",
+        "คำว่า \"ada\" ในประโยคนี้หมายถึง …"
+       ]
+      ],
+      [
+       "10",
+       [
+        "\"Hantar\" bermaksud …",
+        "A. รับ   B. เก็บ   C. จ่าย   D. ส่ง",
+        "คำว่า \"hantar\" หมายถึง …"
+       ]
+      ]
+     ],
+     "after": -1
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1111 @@
+{
+ "chapter": 3,
+ "title_ms": "Nombor, Wang, Harga, Hari, Bulan dan Masa",
+ "title_th": "ตัวเลข เงิน ราคา วัน เดือน และเวลา",
+ "meta": [
+  [
+   "**Kursus**",
+   [
+    "1503250 Bahasa Melayu untuk Perniagaan",
+    "1503250 ภาษามลายูเพื่อธุรกิจ (3 หน่วยกิต)"
+   ]
+  ],
+  [
+   "**Minggu**",
+   [
+    "Kelas 3 · Semester 2/2569",
+    "คาบที่ 3 · ภาคเรียนที่ 2/2569 · วันพฤหัสบดี 08.00–12.10 น. ห้อง 17401"
+   ]
+  ],
+  [
+   "**Masa**",
+   [
+    "4 jam (teori 2 jam, amali 2 jam)",
+    "4 ชั่วโมง (ทฤษฎี 2 ชั่วโมง ปฏิบัติ 2 ชั่วโมง)"
+   ]
+  ],
+  [
+   "**Pelajar**",
+   [
+    "Tahun 2, Pengurusan Logistik (30 orang) · tiada asas bahasa Melayu",
+    "นิสิตชั้นปีที่ 2 วิชาเอกการจัดการโลจิสติกส์ 30 คน · ยังไม่มีพื้นฐานภาษามลายู"
+   ]
+  ],
+  [
+   "**CLO**",
+   [
+    "CLO1, CLO2",
+    "CLO1 อธิบายความรู้พื้นฐาน คำศัพท์ และวัฒนธรรมชาวมาเลเซียที่เกี่ยวข้องกับธุรกิจได้ · CLO2 มีทักษะการใช้ภาษามลายู ฟัง พูด อ่าน เพื่อการสื่อสารในธุรกิจ"
+   ]
+  ],
+  [
+   "**Pengajar**",
+   [
+    "Asst. Prof. Muhammad Salaebing",
+    "ผศ.มูหำหมัด สาแลบิง"
+   ]
+  ]
+ ],
+ "sections": [
+  {
+   "ms": "1. Hasil Pembelajaran",
+   "th": "จุดประสงค์การเรียนรู้",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Pada akhir kelas ini, pelajar dapat:",
+     "th": "เมื่อจบคาบเรียนนี้ นิสิตสามารถ"
+    },
+    {
+     "t": "bullets",
+     "items": [
+      [
+       "Menyebut dan menulis nombor 0 hingga 1,000,000.",
+       "พูดและเขียนตัวเลข 0 ถึง 1,000,000 เป็นภาษามลายูได้ (CLO2)"
+      ],
+      [
+       "Menyebut harga dalam ringgit dan sen.",
+       "บอกราคาเป็นริงกิตและเซนได้ (CLO2)"
+      ],
+      [
+       "Menerangkan mata wang Malaysia dan hari rehat mingguan di negeri-negeri Malaysia.",
+       "อธิบายสกุลเงินของมาเลเซียและวันหยุดประจำสัปดาห์ของรัฐต่าง ๆ ได้ (CLO1)"
+      ],
+      [
+       "Menyebut hari, bulan, tarikh dan masa.",
+       "บอกวัน เดือน วันที่ และเวลาได้ (CLO2)"
+      ],
+      [
+       "Mendengar dan menulis harga, tarikh dan masa dengan betul.",
+       "ฟังราคา วันที่ และเวลา แล้วจดได้ถูกต้อง (CLO2)"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "2. Nombor",
+   "th": "ตัวเลข",
+   "blocks": [
+    {
+     "t": "h2",
+     "ms": "Nombor Asas 0–10",
+     "th": "ตัวเลขพื้นฐาน"
+    },
+    {
+     "t": "table",
+     "w": [
+      1100,
+      3580,
+      1100,
+      3580
+     ],
+     "head": [
+      "",
+      "Bahasa Melayu",
+      "",
+      "Bahasa Melayu"
+     ],
+     "rows": [
+      [
+       "0",
+       "kosong / sifar",
+       "6",
+       "enam"
+      ],
+      [
+       "1",
+       "satu",
+       "7",
+       "tujuh"
+      ],
+      [
+       "2",
+       "dua",
+       "8",
+       "lapan"
+      ],
+      [
+       "3",
+       "tiga",
+       "9",
+       "sembilan"
+      ],
+      [
+       "4",
+       "empat",
+       "10",
+       "sepuluh"
+      ],
+      [
+       "5",
+       "lima",
+       "",
+       ""
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Belas, Puluh, Ratus, Ribu, Juta",
+     "th": "หลักสิบ ร้อย พัน ล้าน"
+    },
+    {
+     "t": "table",
+     "w": [
+      2600,
+      3000,
+      3760
+     ],
+     "head": [
+      "Peraturan · หลักการ",
+      "Contoh",
+      "Nombor"
+     ],
+     "rows": [
+      [
+       [
+        "11–19 = nombor + belas",
+        "11–19 ใช้ตัวเลข + belas"
+       ],
+       "sebelas, dua belas, sembilan belas",
+       "11, 12, 19"
+      ],
+      [
+       [
+        "puluh = สิบ",
+        "หลักสิบ"
+       ],
+       "dua puluh, tiga puluh tujuh",
+       "20, 37"
+      ],
+      [
+       [
+        "ratus = ร้อย",
+        "หลักร้อย"
+       ],
+       "seratus, empat ratus lapan puluh lima",
+       "100, 485"
+      ],
+      [
+       [
+        "ribu = พัน",
+        "หลักพัน"
+       ],
+       "seribu, dua ribu lima ratus",
+       "1,000, 2,500"
+      ],
+      [
+       [
+        "puluh ribu, ratus ribu",
+        "หมื่น และแสน"
+       ],
+       "sepuluh ribu, seratus ribu",
+       "10,000, 100,000"
+      ],
+      [
+       [
+        "juta = ล้าน",
+        "หลักล้าน"
+       ],
+       "sejuta, dua juta",
+       "1,000,000, 2,000,000"
+      ]
+     ]
+    },
+    {
+     "t": "box",
+     "lines": [
+      [
+       "**Awalan se-**",
+       false,
+       20
+      ],
+      [
+       "เลข 1 หน้า belas, puluh, ratus, ribu และ juta เปลี่ยนเป็น se- เช่น sebelas (11), sepuluh (10), seratus (100), seribu (1,000), sejuta (1,000,000)",
+       true,
+       40
+      ],
+      [
+       "ภาษามลายูไม่มีคำเฉพาะสำหรับ \"หมื่น\" และ \"แสน\" ใช้ sepuluh ribu (สิบพัน) และ seratus ribu (ร้อยพัน) แทน",
+       true,
+       0
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Contoh: 1,250 = seribu dua ratus lima puluh. 36,000 = tiga puluh enam ribu.",
+     "th": "ตัวอย่าง: 1,250 และ 36,000 อ่านเรียงจากหลักใหญ่ไปหลักเล็ก เหมือนภาษาไทย"
+    }
+   ]
+  },
+  {
+   "ms": "3. Wang dan Harga",
+   "th": "เงินและราคา",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Mata wang Malaysia ialah ringgit (RM). Satu ringgit sama dengan 100 sen.",
+     "th": "สกุลเงินของมาเลเซียคือริงกิต (RM) 1 ริงกิตเท่ากับ 100 เซน"
+    },
+    {
+     "t": "table",
+     "w": [
+      2800,
+      6560
+     ],
+     "head": [
+      "Jenis · ประเภท",
+      "Nilai · มูลค่า"
+     ],
+     "rows": [
+      [
+       [
+        "Wang kertas",
+        "ธนบัตร"
+       ],
+       "RM1, RM5, RM10, RM20, RM50, RM100"
+      ],
+      [
+       [
+        "Syiling",
+        "เหรียญ"
+       ],
+       "5 sen, 10 sen, 20 sen, 50 sen"
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Cara Menyebut Harga",
+     "th": "วิธีอ่านราคา"
+    },
+    {
+     "t": "table",
+     "w": [
+      2000,
+      4600,
+      2760
+     ],
+     "head": [
+      "Harga",
+      "Sebutan",
+      "หมายเหตุ"
+     ],
+     "rows": [
+      [
+       "RM5",
+       "lima ringgit",
+       "อ่านตัวเลขก่อน แล้วตามด้วย ringgit"
+      ],
+      [
+       "RM12.50",
+       "dua belas ringgit lima puluh sen",
+       "ส่วนหลังจุดอ่านเป็น sen"
+      ],
+      [
+       "RM0.80",
+       "lapan puluh sen",
+       "ไม่ถึง 1 ริงกิต อ่านเฉพาะ sen"
+      ],
+      [
+       "RM1,500",
+       "seribu lima ratus ringgit",
+       ""
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Frasa Harga",
+     "th": "วลีเกี่ยวกับราคา"
+    },
+    {
+     "t": "table",
+     "w": [
+      4000,
+      5360
+     ],
+     "head": [
+      "Bahasa Melayu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "Berapa harganya?",
+       "ราคาเท่าไร"
+      ],
+      [
+       "Harganya RM20.",
+       "ราคา 20 ริงกิต"
+      ],
+      [
+       "Berapa harga satu kotak?",
+       "ราคากล่องละเท่าไร"
+      ],
+      [
+       "murah / mahal",
+       "ถูก / แพง"
+      ],
+      [
+       "jumlah",
+       "ยอดรวม"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "4. Hari, Bulan dan Tarikh",
+   "th": "วัน เดือน และวันที่",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      2340,
+      2340,
+      2340,
+      2340
+     ],
+     "head": [
+      "Hari",
+      "วัน",
+      "Bulan",
+      "เดือน"
+     ],
+     "rows": [
+      [
+       "Isnin",
+       "จันทร์",
+       "Januari",
+       "มกราคม"
+      ],
+      [
+       "Selasa",
+       "อังคาร",
+       "Februari",
+       "กุมภาพันธ์"
+      ],
+      [
+       "Rabu",
+       "พุธ",
+       "Mac",
+       "มีนาคม"
+      ],
+      [
+       "Khamis",
+       "พฤหัสบดี",
+       "April",
+       "เมษายน"
+      ],
+      [
+       "Jumaat",
+       "ศุกร์",
+       "Mei",
+       "พฤษภาคม"
+      ],
+      [
+       "Sabtu",
+       "เสาร์",
+       "Jun",
+       "มิถุนายน"
+      ],
+      [
+       "Ahad",
+       "อาทิตย์",
+       "Julai",
+       "กรกฎาคม"
+      ],
+      [
+       "",
+       "",
+       "Ogos",
+       "สิงหาคม"
+      ],
+      [
+       "",
+       "",
+       "September",
+       "กันยายน"
+      ],
+      [
+       "",
+       "",
+       "Oktober",
+       "ตุลาคม"
+      ],
+      [
+       "",
+       "",
+       "November",
+       "พฤศจิกายน"
+      ],
+      [
+       "",
+       "",
+       "Disember",
+       "ธันวาคม"
+      ]
+     ]
+    },
+    {
+     "t": "table",
+     "w": [
+      4000,
+      5360
+     ],
+     "head": [
+      "Bahasa Melayu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "hari ini / esok / semalam",
+       "วันนี้ / พรุ่งนี้ / เมื่อวาน"
+      ],
+      [
+       "Hari ini hari apa?",
+       "วันนี้วันอะไร"
+      ],
+      [
+       "Hari ini hari Khamis.",
+       "วันนี้วันพฤหัสบดี"
+      ],
+      [
+       "Hari ini 19 November 2026.",
+       "วันนี้วันที่ 19 พฤศจิกายน 2026"
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Tarikh ditulis: hari, bulan, tahun. Tahun 2026 disebut \"dua ribu dua puluh enam\". Malaysia menggunakan tahun Masihi.",
+     "th": "การเขียนวันที่เรียงจากวัน เดือน ปี ปี 2026 อ่านว่า dua ribu dua puluh enam มาเลเซียใช้ปีคริสต์ศักราช ไม่ใช้พุทธศักราช เวลาติดต่อธุรกิจต้องระวังเรื่องนี้"
+    },
+    {
+     "t": "box",
+     "lines": [
+      [
+       "**Hari rehat mingguan di Malaysia**",
+       false,
+       20
+      ],
+      [
+       "วันหยุดประจำสัปดาห์ของมาเลเซียไม่เหมือนกันทุกรัฐ",
+       true,
+       60
+      ],
+      [
+       "Kedah, Kelantan dan Terengganu: hari rehat Jumaat dan Sabtu. Negeri lain (termasuk Johor sejak 1 Januari 2025): Sabtu dan Ahad.",
+       false,
+       20
+      ],
+      [
+       "รัฐเคดะห์ กลันตัน และตรังกานู หยุดวันศุกร์และเสาร์ ส่วนรัฐอื่น (รวมถึงยะโฮร์ตั้งแต่ 1 มกราคม 2025) หยุดวันเสาร์และอาทิตย์ รัฐเคดะห์อยู่ติดกับจังหวัดสงขลา เวลานัดหมายหรือส่งเอกสารกับหน่วยงานในเคดะห์ จึงควรตรวจสอบวันทำการก่อน",
+       true,
+       0
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "5. Masa",
+   "th": "เวลา",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      3000,
+      3400,
+      2960
+     ],
+     "head": [
+      "Masa",
+      "Bahasa Melayu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "9.00 pagi",
+       "pukul sembilan pagi",
+       "9 โมงเช้า"
+      ],
+      [
+       "9.30 pagi",
+       "pukul sembilan setengah pagi",
+       "9 โมงครึ่ง"
+      ],
+      [
+       "12.00 tengah hari",
+       "pukul dua belas tengah hari",
+       "เที่ยงวัน"
+      ],
+      [
+       "2.15 petang",
+       "pukul dua lima belas minit petang",
+       "บ่าย 2 โมง 15 นาที"
+      ],
+      [
+       "8.00 malam",
+       "pukul lapan malam",
+       "2 ทุ่ม"
+      ]
+     ]
+    },
+    {
+     "t": "table",
+     "w": [
+      4000,
+      5360
+     ],
+     "head": [
+      "Bahasa Melayu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "pagi / tengah hari / petang / malam",
+       "เช้า / เที่ยง / บ่ายถึงเย็น / กลางคืน"
+      ],
+      [
+       "Pukul berapa sekarang?",
+       "ตอนนี้กี่โมง"
+      ],
+      [
+       "Sekarang pukul sepuluh pagi.",
+       "ตอนนี้ 10 โมงเช้า"
+      ],
+      [
+       "setengah / minit",
+       "ครึ่ง / นาที"
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Waktu Malaysia satu jam lebih awal daripada waktu Thailand. Pukul 9.00 pagi di Thailand ialah pukul 10.00 pagi di Malaysia.",
+     "th": "เวลามาเลเซียเร็วกว่าเวลาประเทศไทย 1 ชั่วโมง 9 โมงเช้าที่ไทยคือ 10 โมงเช้าที่มาเลเซีย ต้องระวังเวลานัดหมายข้ามแดน"
+    }
+   ]
+  },
+  {
+   "ms": "6. Perbualan: Bertanya Harga dan Penghantaran",
+   "th": "บทสนทนา: ถามราคาและวันจัดส่ง",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Aisyah bertanya kepada Encik Faiz tentang harga dan penghantaran barang. (Watak dalam perbualan ini rekaan.)",
+     "th": "ไอซยะห์ถามคุณฟาอิซเรื่องราคาและการจัดส่งสินค้า (ตัวละครเป็นเรื่องสมมติ) บทสนทนานี้ใช้เฉพาะคำในหัวข้อ 2–5 และคำศัพท์จากบทที่ 1"
+    },
+    {
+     "t": "dialog",
+     "lines": [
+      [
+       "Aisyah",
+       "Encik Faiz, berapa harga satu kotak?",
+       "คุณฟาอิซคะ ราคากล่องละเท่าไรคะ"
+      ],
+      [
+       "Faiz",
+       "Harganya RM25.50.",
+       "ราคา 25.50 ริงกิตครับ"
+      ],
+      [
+       "Aisyah",
+       "Penghantaran hari apa?",
+       "จัดส่งวันไหนคะ"
+      ],
+      [
+       "Faiz",
+       "Hari Isnin, 16 November.",
+       "วันจันทร์ที่ 16 พฤศจิกายนครับ"
+      ],
+      [
+       "Aisyah",
+       "Pukul berapa?",
+       "กี่โมงคะ"
+      ],
+      [
+       "Faiz",
+       "Pukul sepuluh pagi.",
+       "10 โมงเช้าครับ"
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Nota: RM25.50 disebut \"dua puluh lima ringgit lima puluh sen\".",
+     "th": "หมายเหตุ: RM25.50 อ่านว่า dua puluh lima ringgit lima puluh sen"
+    }
+   ]
+  },
+  {
+   "ms": "7. Aktiviti Pembelajaran",
+   "th": "กิจกรรมการเรียนรู้",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      700,
+      5360,
+      2200,
+      1100
+     ],
+     "head": [
+      "#",
+      "Aktiviti · กิจกรรม",
+      "Alat · เครื่องมือ",
+      "Minit"
+     ],
+     "rows": [
+      [
+       "1",
+       "แบบทดสอบก่อนเรียน (Ujian Pra) ใช้ข้อสอบในหัวข้อ 11",
+       "Google Forms / ClassPoint",
+       "10"
+      ],
+      [
+       "2",
+       "ทบทวนบทที่ 2: นิสิตแลกนามบัตรกับเพื่อนข้างเคียงและแนะนำตัว",
+       "นามบัตรจากคาบที่ 2",
+       "10"
+      ],
+      [
+       "3",
+       "ตัวเลข 0–10 และหลักการ belas, puluh, ratus, ribu, juta: ครูพูดนำ นิสิตพูดตาม แล้วนับต่อกันทั้งห้อง",
+       "PowerPoint",
+       "30"
+      ],
+      [
+       "4",
+       "เกมบิงโกตัวเลข: ครูอ่านตัวเลข นิสิตขีดบนตารางบิงโก",
+       "ใบงานบิงโก, Kahoot!",
+       "20"
+      ],
+      [
+       "5",
+       "เงินและราคา: อ่านราคาจากใบเสร็จและป้ายราคาจำลอง แล้วฝึกถาม–ตอบ Berapa harganya?",
+       "ClassPoint Short Answer",
+       "25"
+      ],
+      [
+       "–",
+       "พัก",
+       "",
+       "10"
+      ],
+      [
+       "6",
+       "วัน เดือน เวลา และวันหยุดสุดสัปดาห์ของรัฐในมาเลเซีย",
+       "PowerPoint, ClassPoint Quick Poll",
+       "25"
+      ],
+      [
+       "7",
+       "ฟังจับใจความ: ครูอ่านสคริปต์ในหัวข้อ 12 นิสิตจดราคา วันที่ และเวลา (Latihan A)",
+       "ClassPoint, สคริปต์ผู้สอน",
+       "20"
+      ],
+      [
+       "8",
+       "บทบาทสมมติรายคู่: ผู้ซื้อถามราคาและวันส่งสินค้า ผู้ขายตอบจากบัตรข้อมูล แล้วสลับบท",
+       "บัตรข้อมูลสินค้า",
+       "40"
+      ],
+      [
+       "9",
+       "สรุปบทเรียน · แบบทดสอบหลังเรียน (ข้อสอบชุดเดียวกับหัวข้อ 11) · Exit Ticket",
+       "Google Forms / ClassPoint",
+       "20"
+      ],
+      [
+       "",
+       "**รวม**",
+       "",
+       "**210**"
+      ]
+     ],
+     "size": 28
+    }
+   ]
+  },
+  {
+   "ms": "8. Latihan",
+   "th": "แบบฝึกหัด",
+   "blocks": [
+    {
+     "t": "h2",
+     "ms": "Latihan A: Dengar dan Tulis",
+     "th": "ฟังแล้วเขียนเป็นตัวเลข"
+    },
+    {
+     "t": "bi",
+     "ms": "Guru akan membaca skrip dalam bahagian 12. Tulis nombor, harga, tarikh atau masa.",
+     "th": "ผู้สอนอ่านสคริปต์ในหัวข้อ 12 นิสิตเขียนเป็นตัวเลข ราคา วันที่ หรือเวลา"
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      3980,
+      700,
+      3980
+     ],
+     "rows": [
+      [
+       "1",
+       "__________",
+       "5",
+       "__________"
+      ],
+      [
+       "2",
+       "__________",
+       "6",
+       "__________"
+      ],
+      [
+       "3",
+       "__________",
+       "7",
+       "__________"
+      ],
+      [
+       "4",
+       "__________",
+       "8",
+       "__________"
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan B: Tulis dalam Perkataan",
+     "th": "เขียนเป็นคำภาษามลายู"
+    },
+    {
+     "t": "table",
+     "w": [
+      2000,
+      7360
+     ],
+     "rows": [
+      [
+       "1. 15",
+       "______________________________"
+      ],
+      [
+       "2. 48",
+       "______________________________"
+      ],
+      [
+       "3. 350",
+       "______________________________"
+      ],
+      [
+       "4. 7,000",
+       "______________________________"
+      ],
+      [
+       "5. RM9.90",
+       "______________________________"
+      ],
+      [
+       "6. RM120",
+       "______________________________"
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan C: Padankan",
+     "th": "จับคู่"
+    },
+    {
+     "t": "table",
+     "w": [
+      4680,
+      4680
+     ],
+     "head": [
+      "Bahasa Melayu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "1. Jumaat  ____",
+       "ก. พรุ่งนี้"
+      ],
+      [
+       "2. Ogos  ____",
+       "ข. วันศุกร์"
+      ],
+      [
+       "3. esok  ____",
+       "ค. ตอนนี้กี่โมง"
+      ],
+      [
+       "4. Pukul berapa sekarang?  ____",
+       "ง. สิงหาคม"
+      ],
+      [
+       "5. mahal  ____",
+       "จ. แพง"
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan D: Jawab Soalan",
+     "th": "ตอบคำถามเป็นภาษามลายู"
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      8660
+     ],
+     "rows": [
+      [
+       "1",
+       "Hari ini hari apa?  ______________________"
+      ],
+      [
+       "2",
+       "Pukul berapa sekarang?  ______________________"
+      ],
+      [
+       "3",
+       [
+        "Berapa harganya? (RM45)  ______________________",
+        "ตอบโดยเขียนราคาเป็นคำ"
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "9. Jawapan",
+   "th": "เฉลยแบบฝึกหัด",
+   "blocks": [
+    {
+     "t": "bullets",
+     "items": [
+      "**Latihan A:** 1. 17 · 2. 260 · 3. 4,800 · 4. RM3.50 · 5. RM1,250 · 6. Selasa, 24 November · 7. 8.30 pagi · 8. 3.00 petang",
+      "**Latihan B:** 1. lima belas 2. empat puluh lapan 3. tiga ratus lima puluh 4. tujuh ribu 5. sembilan ringgit sembilan puluh sen 6. seratus dua puluh ringgit",
+      "**Latihan C:** 1-ข, 2-ง, 3-ก, 4-ค, 5-จ",
+      "**Latihan D (contoh):** 1. Hari ini hari Khamis. 2. Sekarang pukul sepuluh pagi. 3. Harganya empat puluh lima ringgit."
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "10. Rumusan",
+   "th": "สรุปบท",
+   "blocks": [
+    {
+     "t": "box",
+     "lines": [
+      [
+       "Nombor dibina daripada belas, puluh, ratus, ribu dan juta. Nombor 1 menjadi se-. Harga disebut dalam ringgit dan sen. Hari rehat di Kedah, Kelantan dan Terengganu ialah Jumaat dan Sabtu. Waktu Malaysia satu jam lebih awal daripada waktu Thailand.",
+       false,
+       80
+      ],
+      [
+       "ตัวเลขภาษามลายูประกอบจาก belas, puluh, ratus, ribu และ juta โดยเลข 1 เปลี่ยนเป็น se- ราคาอ่านเป็น ringgit และ sen รัฐเคดะห์ กลันตัน และตรังกานูหยุดวันศุกร์และเสาร์ และเวลามาเลเซียเร็วกว่าไทย 1 ชั่วโมง",
+       true,
+       0
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Kelas seterusnya: Kosa kata perniagaan dan logistik serta struktur ayat asas (Kelas 4).",
+     "th": "คาบถัดไป: คำศัพท์และสำนวนพื้นฐานทางธุรกิจ–โลจิสติกส์ และโครงสร้างประโยคพื้นฐาน (คาบที่ 4)"
+    },
+    {
+     "t": "pagebreak"
+    }
+   ]
+  },
+  {
+   "ms": "11. Ujian Pra dan Ujian Pasca",
+   "th": "แบบทดสอบก่อนเรียนและหลังเรียน",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Gunakan ujian ini sebelum kelas (ujian pra) dan selepas kelas (ujian pasca). Pilih satu jawapan yang paling tepat.",
+     "th": "ใช้แบบทดสอบชุดนี้ทั้งก่อนเรียนและหลังเรียน 10 ข้อ ข้อละ 1 คะแนน เวลา 10 นาที (ข้อ 4 และ 9 วัด CLO1 ข้ออื่นวัด CLO2)"
+    },
+    {
+     "t": "p",
+     "text": "**Jawapan / เฉลย (untuk pengajar · สำหรับผู้สอน):** 1-C · 2-A · 3-D · 4-B · 5-C · 6-D · 7-A · 8-B · 9-D · 10-A",
+     "after": 120
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      8660
+     ],
+     "head": [
+      "#",
+      "Soalan · คำถาม"
+     ],
+     "size": 26,
+     "rows": [
+      [
+       "1",
+       [
+        "\"Lapan\" ialah nombor …",
+        "A. 6   B. 7   C. 8   D. 9",
+        "คำว่า \"lapan\" คือเลขอะไร"
+       ]
+      ],
+      [
+       "2",
+       [
+        "Nombor 12 ialah …",
+        "A. dua belas   B. dua puluh   C. satu dua   D. sepuluh dua",
+        "เลข 12 ภาษามลายูคือ …"
+       ]
+      ],
+      [
+       "3",
+       [
+        "Nombor 100 ialah …",
+        "A. satu ratus   B. sepuluh   C. seribu   D. seratus",
+        "เลข 100 ภาษามลายูคือ …"
+       ]
+      ],
+      [
+       "4",
+       [
+        "Satu ringgit sama dengan …",
+        "A. 10 sen   B. 100 sen   C. 1,000 sen   D. 50 sen",
+        "1 ริงกิตเท่ากับ …"
+       ]
+      ],
+      [
+       "5",
+       [
+        "RM12.50 disebut …",
+        "A. dua belas ringgit lima sen   B. dua puluh ringgit lima puluh sen   C. dua belas ringgit lima puluh sen   D. satu dua ringgit lima puluh sen",
+        "RM12.50 อ่านว่า …"
+       ]
+      ],
+      [
+       "6",
+       [
+        "\"Khamis\" ialah hari …",
+        "A. จันทร์   B. พุธ   C. ศุกร์   D. พฤหัสบดี",
+        "คำว่า \"Khamis\" คือวันอะไร"
+       ]
+      ],
+      [
+       "7",
+       [
+        "\"Ogos\" ialah bulan …",
+        "A. สิงหาคม   B. ตุลาคม   C. มิถุนายน   D. เมษายน",
+        "คำว่า \"Ogos\" คือเดือนอะไร"
+       ]
+      ],
+      [
+       "8",
+       [
+        "Soalan untuk bertanya masa ialah …",
+        "A. Berapa harganya?   B. Pukul berapa sekarang?   C. Hari ini hari apa?   D. Anda dari mana?",
+        "คำถามที่ใช้ถามเวลาคือ …"
+       ]
+      ],
+      [
+       "9",
+       [
+        "Negeri yang berehat pada hari Jumaat dan Sabtu ialah …",
+        "A. Selangor   B. Johor   C. Pulau Pinang   D. Kedah",
+        "รัฐที่หยุดวันศุกร์และเสาร์คือ …"
+       ]
+      ],
+      [
+       "10",
+       [
+        "\"Mahal\" bermaksud …",
+        "A. แพง   B. ถูก   C. ยอดรวม   D. ราคา",
+        "คำว่า \"mahal\" หมายถึง …"
+       ]
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "12. Skrip Guru: Latihan Mendengar",
+   "th": "สคริปต์ผู้สอนสำหรับแบบฝึกการฟัง (Latihan A)",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Baca setiap ayat dua kali dengan perlahan.",
+     "th": "อ่านแต่ละข้อ 2 รอบ ช้า ๆ ชัด ๆ"
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      6160,
+      2500
+     ],
+     "head": [
+      "#",
+      "Skrip · สคริปต์",
+      "Jawapan"
+     ],
+     "rows": [
+      [
+       "1",
+       "tujuh belas",
+       "17"
+      ],
+      [
+       "2",
+       "dua ratus enam puluh",
+       "260"
+      ],
+      [
+       "3",
+       "empat ribu lapan ratus",
+       "4,800"
+      ],
+      [
+       "4",
+       "Harganya tiga ringgit lima puluh sen.",
+       "RM3.50"
+      ],
+      [
+       "5",
+       "Jumlahnya seribu dua ratus lima puluh ringgit.",
+       "RM1,250"
+      ],
+      [
+       "6",
+       "Penghantaran hari Selasa, dua puluh empat November.",
+       "Selasa, 24 November"
+      ],
+      [
+       "7",
+       "Pukul lapan setengah pagi.",
+       "8.30 pagi"
+      ],
+      [
+       "8",
+       "Pukul tiga petang.",
+       "3.00 petang"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

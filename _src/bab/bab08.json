@@ -1,0 +1,992 @@
+{
+ "chapter": 8,
+ "title_ms": "Membaca Dokumen dan Notis Perniagaan",
+ "title_th": "การอ่านเอกสารและประกาศทางธุรกิจ",
+ "meta": [
+  [
+   "**Kursus**",
+   [
+    "1503250 Bahasa Melayu untuk Perniagaan",
+    "1503250 ภาษามลายูเพื่อธุรกิจ (3 หน่วยกิต)"
+   ]
+  ],
+  [
+   "**Minggu**",
+   [
+    "Kelas 9 · Semester 2/2569",
+    "คาบที่ 9 (หลังสอบกลางภาค) · ภาคเรียนที่ 2/2569 · วันพฤหัสบดี 08.00–12.10 น. ห้อง 17401"
+   ]
+  ],
+  [
+   "**Masa**",
+   [
+    "4 jam (teori 2 jam, amali 2 jam)",
+    "4 ชั่วโมง (ทฤษฎี 2 ชั่วโมง ปฏิบัติ 2 ชั่วโมง)"
+   ]
+  ],
+  [
+   "**Pelajar**",
+   [
+    "Tahun 2, Pengurusan Logistik (30 orang) · tiada asas bahasa Melayu",
+    "นิสิตชั้นปีที่ 2 วิชาเอกการจัดการโลจิสติกส์ 30 คน · ยังไม่มีพื้นฐานภาษามลายู"
+   ]
+  ],
+  [
+   "**CLO**",
+   [
+    "CLO1, CLO2",
+    "CLO1 อธิบายความรู้พื้นฐาน คำศัพท์ และวัฒนธรรมชาวมาเลเซียที่เกี่ยวข้องกับธุรกิจได้ · CLO2 มีทักษะการใช้ภาษามลายู ฟัง พูด อ่าน เพื่อการสื่อสารในธุรกิจ"
+   ]
+  ],
+  [
+   "**Pengajar**",
+   [
+    "Asst. Prof. Muhammad Salaebing",
+    "ผศ.มูหำหมัด สาแลบิง"
+   ]
+  ]
+ ],
+ "sections": [
+  {
+   "ms": "1. Hasil Pembelajaran",
+   "th": "จุดประสงค์การเรียนรู้",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Pada akhir kelas ini, pelajar dapat:",
+     "th": "เมื่อจบคาบเรียนนี้ นิสิตสามารถ"
+    },
+    {
+     "t": "bullets",
+     "items": [
+      [
+       "Memahami papan tanda yang biasa di tempat kerja dan gudang.",
+       "เข้าใจป้ายที่พบบ่อยในที่ทำงานและคลังสินค้าได้ (CLO2)"
+      ],
+      [
+       "Membaca notis ringkas dan mencari maklumat penting.",
+       "อ่านประกาศสั้น ๆ และหาข้อมูลสำคัญได้ (CLO2)"
+      ],
+      [
+       "Menerangkan fungsi sebut harga, invois dan nota penghantaran.",
+       "อธิบายหน้าที่ของใบเสนอราคา ใบแจ้งหนี้ และใบส่งสินค้าได้ (CLO1)"
+      ],
+      [
+       "Membaca maklumat dalam dokumen perniagaan: nombor, tarikh, kuantiti dan jumlah.",
+       "อ่านข้อมูลในเอกสารธุรกิจ เช่น เลขที่ วันที่ จำนวน และยอดรวม ได้ (CLO2)"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "2. Papan Tanda",
+   "th": "ป้าย",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Papan tanda biasanya ditulis dengan huruf besar dan ayat yang sangat pendek.",
+     "th": "ป้ายมักเขียนด้วยตัวพิมพ์ใหญ่และใช้ข้อความสั้นมาก"
+    },
+    {
+     "t": "table",
+     "w": [
+      3200,
+      3000,
+      3160
+     ],
+     "head": [
+      "Papan tanda",
+      "ความหมาย",
+      "Tempat · พบที่"
+     ],
+     "rows": [
+      [
+       "MASUK / KELUAR",
+       "ทางเข้า / ทางออก",
+       "ประตู อาคาร"
+      ],
+      [
+       "TOLAK / TARIK",
+       "ผลัก / ดึง",
+       "ประตู"
+      ],
+      [
+       "BUKA / TUTUP",
+       "เปิด / ปิด",
+       "ร้านค้า สำนักงาน"
+      ],
+      [
+       "DILARANG MASUK",
+       "ห้ามเข้า",
+       "คลังสินค้า ห้องเครื่อง"
+      ],
+      [
+       "DILARANG MEROKOK",
+       "ห้ามสูบบุหรี่",
+       "อาคาร คลังสินค้า"
+      ],
+      [
+       "AWAS",
+       "ระวัง",
+       "พื้นที่อันตราย"
+      ],
+      [
+       "BERHENTI",
+       "หยุด",
+       "ถนน ทางเข้าออก"
+      ],
+      [
+       "TEMPAT LETAK KERETA",
+       "ที่จอดรถ",
+       "ลานจอดรถ"
+      ],
+      [
+       "KAWASAN PEMUNGGAHAN",
+       "พื้นที่ขนถ่ายสินค้าลง",
+       "คลังสินค้า"
+      ],
+      [
+       "TANDAS",
+       "ห้องน้ำ",
+       "อาคาร"
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Nota: \"Dilarang\" bermaksud tidak boleh. \"Dilarang + kata kerja\" = larangan.",
+     "th": "หมายเหตุ: dilarang แปลว่า ห้าม ใช้ dilarang + คำกริยา เพื่อบอกข้อห้าม เช่น DILARANG MASUK"
+    }
+   ]
+  },
+  {
+   "ms": "3. Notis",
+   "th": "ประกาศ",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Baca notis di bawah. Cari: apa, bila dan siapa yang perlu dihubungi. (Notis ini rekaan.)",
+     "th": "อ่านประกาศด้านล่าง แล้วหาว่า เรื่องอะไร เมื่อไร และติดต่อใคร (ประกาศนี้เป็นเรื่องสมมติ)"
+    },
+    {
+     "t": "box",
+     "lines": [
+      [
+       "**NOTIS**",
+       false,
+       40
+      ],
+      [
+       "Gudang Logistik Sri Songkhla tutup pada hari Isnin, 4 Januari 2027, kerana kerja pembaikan.",
+       false,
+       20
+      ],
+      [
+       "Penghantaran akan dibuat pada hari Selasa, 5 Januari 2027.",
+       false,
+       20
+      ],
+      [
+       "Untuk maklumat lanjut, sila hubungi Cik Aisyah: 012-345 6789.",
+       false,
+       20
+      ],
+      [
+       "Pengurusan",
+       false,
+       0
+      ]
+     ]
+    },
+    {
+     "t": "table",
+     "w": [
+      3200,
+      6160
+     ],
+     "head": [
+      "Perkataan baharu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "notis",
+       "ประกาศ"
+      ],
+      [
+       "tutup / ditutup",
+       "ปิด"
+      ],
+      [
+       "kerja pembaikan",
+       "งานซ่อมแซม"
+      ],
+      [
+       "akan",
+       "จะ"
+      ],
+      [
+       "dibuat",
+       "ทำ (ถูกทำ)"
+      ],
+      [
+       "maklumat lanjut",
+       "ข้อมูลเพิ่มเติม"
+      ],
+      [
+       "hubungi",
+       "ติดต่อ"
+      ],
+      [
+       "pengurusan",
+       "ฝ่ายบริหาร"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "4. Dokumen Perniagaan",
+   "th": "เอกสารธุรกิจ",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      2600,
+      2600,
+      4160
+     ],
+     "head": [
+      "Dokumen",
+      "ความหมาย",
+      "Fungsi · หน้าที่"
+     ],
+     "rows": [
+      [
+       "Sebut harga",
+       "ใบเสนอราคา",
+       [
+        "Memberi tahu harga sebelum pelanggan membuat pesanan.",
+        "แจ้งราคาก่อนลูกค้าสั่งซื้อ"
+       ]
+      ],
+      [
+       "Invois",
+       "ใบแจ้งหนี้",
+       [
+        "Meminta pelanggan membayar.",
+        "แจ้งให้ลูกค้าชำระเงิน"
+       ]
+      ],
+      [
+       "Nota penghantaran",
+       "ใบส่งสินค้า (DO)",
+       [
+        "Disertakan bersama barang. Penerima menandatangani apabila menerima barang.",
+        "ส่งไปพร้อมสินค้า ผู้รับเซ็นรับเมื่อได้รับของ"
+       ]
+      ],
+      [
+       "Resit",
+       "ใบเสร็จ",
+       [
+        "Bukti pelanggan sudah membayar.",
+        "หลักฐานว่าลูกค้าชำระเงินแล้ว"
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Kosa Kata Dokumen",
+     "th": "คำศัพท์ในเอกสาร"
+    },
+    {
+     "t": "table",
+     "w": [
+      2300,
+      2380,
+      2300,
+      2380
+     ],
+     "head": [
+      "Bahasa Melayu",
+      "ความหมาย",
+      "Bahasa Melayu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "No. / nombor",
+       "เลขที่",
+       "harga seunit",
+       "ราคาต่อหน่วย"
+      ],
+      [
+       "tarikh",
+       "วันที่",
+       "jumlah",
+       "จำนวนเงิน ยอด"
+      ],
+      [
+       "kepada",
+       "ถึง",
+       "jumlah keseluruhan",
+       "ยอดรวมทั้งหมด"
+      ],
+      [
+       "daripada",
+       "จาก",
+       "tarikh akhir bayaran",
+       "วันครบกำหนดชำระ"
+      ],
+      [
+       "perkara",
+       "รายการ",
+       "sah sehingga",
+       "มีผลถึงวันที่"
+      ],
+      [
+       "kuantiti",
+       "จำนวน (ปริมาณ)",
+       "penerima",
+       "ผู้รับ"
+      ],
+      [
+       "perkhidmatan",
+       "บริการ",
+       "tandatangan",
+       "ลายมือชื่อ"
+      ],
+      [
+       "untuk",
+       "สำหรับ",
+       "cop syarikat",
+       "ตราประทับบริษัท"
+      ]
+     ]
+    },
+    {
+     "t": "box",
+     "lines": [
+      [
+       "**Dokumen perniagaan di Malaysia**",
+       false,
+       20
+      ],
+      [
+       "• วันที่ในเอกสารมาเลเซียเขียนแบบ วัน/เดือน/ปี เช่น 15/12/2026 และใช้ปีคริสต์ศักราช (บทที่ 3)",
+       true,
+       20
+      ],
+      [
+       "• เอกสารธุรกิจหลายบริษัทใช้ทั้งภาษามลายูและภาษาอังกฤษ เช่น Invois / Invoice",
+       true,
+       20
+      ],
+      [
+       "• นิยมประทับตราบริษัท (cop syarikat) คู่กับลายมือชื่อบนเอกสาร",
+       true,
+       0
+      ]
+     ]
+    },
+    {
+     "t": "pagebreak"
+    }
+   ]
+  },
+  {
+   "ms": "5. Contoh Dokumen",
+   "th": "ตัวอย่างเอกสาร",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Semua syarikat, nama dan nombor dalam dokumen ini rekaan.",
+     "th": "บริษัท ชื่อ และตัวเลขในเอกสารตัวอย่างทั้งหมดเป็นเรื่องสมมติ"
+    },
+    {
+     "t": "h2",
+     "ms": "A. Sebut Harga",
+     "th": "ใบเสนอราคา"
+    },
+    {
+     "t": "table",
+     "w": [
+      3000,
+      6360
+     ],
+     "rows": [
+      [
+       "**SEBUT HARGA**",
+       "No.: SH-0215 · Tarikh: 15/12/2026"
+      ],
+      [
+       "Daripada",
+       "Logistik Sri Songkhla, Hat Yai"
+      ],
+      [
+       "Kepada",
+       "Syarikat Mutiara, Pulau Pinang"
+      ],
+      [
+       "Perkara",
+       "Perkhidmatan penghantaran Hat Yai – Pulau Pinang (1 lori): RM1,200"
+      ],
+      [
+       "",
+       "Insurans barang: RM150"
+      ],
+      [
+       "**Jumlah keseluruhan**",
+       "**RM1,350**"
+      ],
+      [
+       "Sah sehingga",
+       "31/12/2026"
+      ]
+     ],
+     "after": 200
+    },
+    {
+     "t": "h2",
+     "ms": "B. Invois",
+     "th": "ใบแจ้งหนี้"
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      3900,
+      1400,
+      1800,
+      1560
+     ],
+     "head": [
+      "No.",
+      "Perkara",
+      "Kuantiti",
+      "Harga seunit (RM)",
+      "Jumlah (RM)"
+     ],
+     "rows": [
+      [
+       "1",
+       "Penghantaran Hat Yai – Pulau Pinang",
+       "1 lori",
+       "1,200.00",
+       "1,200.00"
+      ],
+      [
+       "2",
+       "Insurans barang",
+       "1",
+       "150.00",
+       "150.00"
+      ],
+      [
+       "",
+       "**Jumlah keseluruhan**",
+       "",
+       "",
+       "**1,350.00**"
+      ]
+     ],
+     "after": 60
+    },
+    {
+     "t": "p",
+     "text": "INVOIS No.: INV-0342 · Tarikh: 22/12/2026 · Kepada: Syarikat Mutiara · Tarikh akhir bayaran: 21/01/2027",
+     "after": 200
+    },
+    {
+     "t": "pagebreak"
+    },
+    {
+     "t": "h2",
+     "ms": "C. Nota Penghantaran",
+     "th": "ใบส่งสินค้า"
+    },
+    {
+     "t": "table",
+     "w": [
+      3000,
+      6360
+     ],
+     "rows": [
+      [
+       "**NOTA PENGHANTARAN**",
+       "No.: DO-0517 · Tarikh: 22/12/2026"
+      ],
+      [
+       "Daripada",
+       "Logistik Sri Songkhla"
+      ],
+      [
+       "Penerima",
+       "Syarikat Mutiara, Pulau Pinang"
+      ],
+      [
+       "Barang",
+       "Barang elektronik"
+      ],
+      [
+       "Kuantiti",
+       "30 kotak"
+      ],
+      [
+       "Tandatangan penerima",
+       "____________________   Cop syarikat: ________"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "6. Perbualan: Menyemak Invois",
+   "th": "บทสนทนา: ตรวจใบแจ้งหนี้",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Aisyah memberikan invois kepada Encik Kamal. (Watak dalam perbualan ini rekaan.)",
+     "th": "ไอซยะห์ส่งใบแจ้งหนี้ให้คุณกามาล (ตัวละครเป็นเรื่องสมมติ)"
+    },
+    {
+     "t": "dialog",
+     "lines": [
+      [
+       "Aisyah",
+       "Encik Kamal, ini invois untuk penghantaran ke Pulau Pinang.",
+       "คุณกามาลคะ นี่คือใบแจ้งหนี้สำหรับการจัดส่งไปปีนังค่ะ"
+      ],
+      [
+       "Kamal",
+       "Terima kasih. Berapa jumlah keseluruhan?",
+       "ขอบคุณครับ ยอดรวมทั้งหมดเท่าไรครับ"
+      ],
+      [
+       "Aisyah",
+       "Jumlah keseluruhan RM1,350.",
+       "ยอดรวมทั้งหมด 1,350 ริงกิตค่ะ"
+      ],
+      [
+       "Kamal",
+       "Bila tarikh akhir bayaran?",
+       "ครบกำหนดชำระเมื่อไรครับ"
+      ],
+      [
+       "Aisyah",
+       "Dua puluh satu Januari.",
+       "วันที่ 21 มกราคมค่ะ"
+      ],
+      [
+       "Kamal",
+       "Baik. Tidak ada masalah.",
+       "ได้ครับ ไม่มีปัญหาครับ"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "7. Aktiviti Pembelajaran",
+   "th": "กิจกรรมการเรียนรู้",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      700,
+      5360,
+      2200,
+      1100
+     ],
+     "head": [
+      "#",
+      "Aktiviti · กิจกรรม",
+      "Alat · เครื่องมือ",
+      "Minit"
+     ],
+     "rows": [
+      [
+       "1",
+       "แบบทดสอบก่อนเรียน (Ujian Pra) ใช้ข้อสอบในหัวข้อ 11",
+       "Google Forms / ClassPoint",
+       "10"
+      ],
+      [
+       "2",
+       "แจ้งผลและข้อสังเกตจากการสอบกลางภาค",
+       "PowerPoint",
+       "10"
+      ],
+      [
+       "3",
+       "Gallery Walk ป้าย: ติดภาพป้ายรอบห้อง นิสิตเดินอ่านและเขียนความหมาย แล้วเฉลยร่วมกัน",
+       "ภาพป้าย, ClassPoint",
+       "25"
+      ],
+      [
+       "4",
+       "อ่านประกาศ: กลุ่มอ่านประกาศ 3 ฉบับ แล้วตอบว่า เรื่องอะไร เมื่อไร ติดต่อใคร",
+       "ใบงาน, Padlet",
+       "25"
+      ],
+      [
+       "5",
+       "กายวิภาคเอกสาร: ชี้และติดป้ายชื่อส่วนต่าง ๆ ของใบเสนอราคา ใบแจ้งหนี้ และใบส่งสินค้า",
+       "ClassPoint Drag & Drop",
+       "30"
+      ],
+      [
+       "–",
+       "พัก",
+       "",
+       "10"
+      ],
+      [
+       "6",
+       "หาข้อผิดพลาด: ตรวจใบแจ้งหนี้ที่คำนวณผิดหรือข้อมูลไม่ตรงกับใบเสนอราคา",
+       "ใบงาน Google Sheets",
+       "25"
+      ],
+      [
+       "7",
+       "จำลองการรับสินค้า: พนักงานคลังตรวจใบส่งสินค้ากับสินค้าจริง แล้วเซ็นรับหรือแจ้งปัญหา",
+       "ใบส่งสินค้าจำลอง กล่องจำลอง",
+       "30"
+      ],
+      [
+       "8",
+       "ฝึกบทสนทนาหัวข้อ 6 เป็นคู่ โดยเปลี่ยนยอดเงินและวันที่",
+       "บทสนทนาในเอกสาร",
+       "15"
+      ],
+      [
+       "9",
+       "สรุปบทเรียน · แบบทดสอบหลังเรียน (ข้อสอบชุดเดียวกับหัวข้อ 11) · Exit Ticket",
+       "Google Forms / ClassPoint",
+       "20"
+      ],
+      [
+       "",
+       "**รวม**",
+       "",
+       "**200**"
+      ]
+     ],
+     "size": 28
+    }
+   ]
+  },
+  {
+   "ms": "8. Latihan",
+   "th": "แบบฝึกหัด",
+   "blocks": [
+    {
+     "t": "h2",
+     "ms": "Latihan A: Papan Tanda",
+     "th": "จับคู่ป้ายกับความหมาย"
+    },
+    {
+     "t": "table",
+     "w": [
+      4680,
+      4680
+     ],
+     "head": [
+      "Papan tanda",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "1. DILARANG MEROKOK  ____",
+       "ก. ผลัก"
+      ],
+      [
+       "2. KELUAR  ____",
+       "ข. ระวัง"
+      ],
+      [
+       "3. TOLAK  ____",
+       "ค. ห้ามสูบบุหรี่"
+      ],
+      [
+       "4. AWAS  ____",
+       "ง. ทางออก"
+      ],
+      [
+       "5. TUTUP  ____",
+       "จ. ปิด"
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan B: Baca Notis (bahagian 3)",
+     "th": "อ่านประกาศในหัวข้อ 3 แล้วตอบเป็นภาษาไทย"
+    },
+    {
+     "t": "bullets",
+     "items": [
+      "1. คลังสินค้าปิดวันไหน",
+      "2. ทำไมจึงปิด",
+      "3. จะจัดส่งสินค้าวันไหน",
+      "4. ถ้าต้องการข้อมูลเพิ่มเติม ต้องติดต่อใคร"
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan C: Baca Dokumen (bahagian 5)",
+     "th": "อ่านเอกสารในหัวข้อ 5 แล้วตอบ"
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      8660
+     ],
+     "rows": [
+      [
+       "1",
+       [
+        "Sebut harga sah sehingga bila?",
+        "ใบเสนอราคามีผลถึงวันไหน"
+       ]
+      ],
+      [
+       "2",
+       [
+        "Berapa harga insurans barang?",
+        "ค่าประกันสินค้าเท่าไร"
+       ]
+      ],
+      [
+       "3",
+       [
+        "Apa nombor invois?",
+        "ใบแจ้งหนี้เลขที่อะไร"
+       ]
+      ],
+      [
+       "4",
+       [
+        "Bila tarikh akhir bayaran?",
+        "ครบกำหนดชำระเมื่อไร"
+       ]
+      ],
+      [
+       "5",
+       [
+        "Berapa kotak dalam nota penghantaran?",
+        "ใบส่งสินค้าระบุกี่กล่อง"
+       ]
+      ],
+      [
+       "6",
+       [
+        "Siapa yang menandatangani nota penghantaran?",
+        "ใครเป็นผู้เซ็นใบส่งสินค้า"
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan D: Dokumen Apa?",
+     "th": "เอกสารอะไร"
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      6160,
+      2500
+     ],
+     "head": [
+      "#",
+      "Situasi · สถานการณ์",
+      "Dokumen"
+     ],
+     "rows": [
+      [
+       "1",
+       "ลูกค้าอยากรู้ราคาก่อนสั่งซื้อ",
+       "__________"
+      ],
+      [
+       "2",
+       "บริษัทแจ้งให้ลูกค้าชำระเงิน",
+       "__________"
+      ],
+      [
+       "3",
+       "คนขับรถบรรทุกให้ผู้รับเซ็นรับสินค้า",
+       "__________"
+      ],
+      [
+       "4",
+       "ลูกค้าต้องการหลักฐานว่าจ่ายเงินแล้ว",
+       "__________"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "9. Jawapan",
+   "th": "เฉลยแบบฝึกหัด",
+   "blocks": [
+    {
+     "t": "bullets",
+     "items": [
+      "**Latihan A:** 1-ค, 2-ง, 3-ก, 4-ข, 5-จ",
+      "**Latihan B:** 1. วันจันทร์ที่ 4 มกราคม 2027 2. มีงานซ่อมแซม (kerja pembaikan) 3. วันอังคารที่ 5 มกราคม 2027 4. คุณไอซยะห์ เบอร์ 012-345 6789",
+      "**Latihan C:** 1. 31/12/2026 2. RM150 3. INV-0342 4. 21/01/2027 5. 30 kotak 6. Penerima (Syarikat Mutiara)",
+      "**Latihan D:** 1. Sebut harga 2. Invois 3. Nota penghantaran 4. Resit"
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "10. Rumusan",
+   "th": "สรุปบท",
+   "blocks": [
+    {
+     "t": "box",
+     "lines": [
+      [
+       "Papan tanda dan notis menggunakan ayat pendek. \"Dilarang\" bermaksud tidak boleh. Sebut harga memberi harga sebelum pesanan, invois meminta bayaran, nota penghantaran disertakan bersama barang dan resit ialah bukti bayaran. Semasa membaca dokumen, cari nombor, tarikh, kuantiti dan jumlah.",
+       false,
+       80
+      ],
+      [
+       "ป้ายและประกาศใช้ข้อความสั้น dilarang แปลว่า ห้าม ใบเสนอราคาแจ้งราคาก่อนสั่งซื้อ ใบแจ้งหนี้แจ้งให้ชำระเงิน ใบส่งสินค้าส่งไปพร้อมสินค้า และใบเสร็จเป็นหลักฐานการชำระเงิน เวลาอ่านเอกสารให้มองหาเลขที่ วันที่ จำนวน และยอดเงิน",
+       true,
+       0
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Kelas seterusnya: Membentangkan produk dan perkhidmatan dalam bahasa Melayu (Kelas 10).",
+     "th": "คาบถัดไป: การนำเสนอสินค้าและบริการเป็นภาษามลายู (คาบที่ 10)"
+    },
+    {
+     "t": "pagebreak"
+    }
+   ]
+  },
+  {
+   "ms": "11. Ujian Pra dan Ujian Pasca",
+   "th": "แบบทดสอบก่อนเรียนและหลังเรียน",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Gunakan ujian ini sebelum kelas (ujian pra) dan selepas kelas (ujian pasca). Pilih satu jawapan yang paling tepat.",
+     "th": "ใช้แบบทดสอบชุดนี้ทั้งก่อนเรียนและหลังเรียน 10 ข้อ ข้อละ 1 คะแนน เวลา 10 นาที (ข้อ 5–7 วัด CLO1 ข้ออื่นวัด CLO2 ด้านการอ่าน)"
+    },
+    {
+     "t": "p",
+     "text": "**Jawapan / เฉลย (untuk pengajar · สำหรับผู้สอน):** 1-B · 2-D · 3-A · 4-C · 5-B · 6-A · 7-D · 8-C · 9-A · 10-D",
+     "after": 120
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      8660
+     ],
+     "head": [
+      "#",
+      "Soalan · คำถาม"
+     ],
+     "size": 26,
+     "after": -1,
+     "rows": [
+      [
+       "1",
+       [
+        "\"DILARANG MASUK\" bermaksud …",
+        "A. ทางเข้า   B. ห้ามเข้า   C. เชิญเข้า   D. ทางออก",
+        "ป้ายนี้หมายถึง …"
+       ]
+      ],
+      [
+       "2",
+       [
+        "\"TARIK\" bermaksud …",
+        "A. ผลัก   B. เปิด   C. ปิด   D. ดึง",
+        "ป้ายนี้หมายถึง …"
+       ]
+      ],
+      [
+       "3",
+       [
+        "\"AWAS\" bermaksud …",
+        "A. ระวัง   B. หยุด   C. ห้องน้ำ   D. ที่จอดรถ",
+        "ป้ายนี้หมายถึง …"
+       ]
+      ],
+      [
+       "4",
+       [
+        "\"Jumlah keseluruhan\" bermaksud …",
+        "A. ราคาต่อหน่วย   B. จำนวนชิ้น   C. ยอดรวมทั้งหมด   D. วันครบกำหนด",
+        "คำนี้หมายถึง …"
+       ]
+      ],
+      [
+       "5",
+       [
+        "Dokumen yang meminta pelanggan membayar ialah …",
+        "A. sebut harga   B. invois   C. resit   D. notis",
+        "เอกสารที่แจ้งให้ลูกค้าชำระเงินคือ …"
+       ]
+      ],
+      [
+       "6",
+       [
+        "Dokumen yang disertakan bersama barang ialah …",
+        "A. nota penghantaran   B. sebut harga   C. resit   D. notis",
+        "เอกสารที่ส่งไปพร้อมสินค้าคือ …"
+       ]
+      ],
+      [
+       "7",
+       [
+        "Tarikh 05/01/2027 dalam dokumen Malaysia ialah …",
+        "A. 1 พฤษภาคม 2027   B. 5 มกราคม 2570   C. 1 มกราคม 2027   D. 5 มกราคม 2027",
+        "วันที่นี้ในเอกสารมาเลเซียคือ …"
+       ]
+      ],
+      [
+       "8",
+       [
+        "\"Sah sehingga 31/12/2026\" bermaksud …",
+        "A. ชำระภายใน 31/12/2026   B. ส่งของวันที่ 31/12/2026   C. มีผลถึงวันที่ 31/12/2026   D. ออกเอกสารวันที่ 31/12/2026",
+        "ข้อความนี้หมายถึง …"
+       ]
+      ],
+      [
+       "9",
+       [
+        "\"Harga seunit RM20, kuantiti 5.\" Jumlah ialah …",
+        "A. RM100   B. RM25   C. RM15   D. RM4",
+        "ยอดเงินคือ …"
+       ]
+      ],
+      [
+       "10",
+       [
+        "\"Untuk maklumat lanjut, sila hubungi …\" bermaksud …",
+        "A. ห้ามติดต่อ   B. ปิดปรับปรุง   C. ส่งสินค้าวันพรุ่งนี้   D. หากต้องการข้อมูลเพิ่มเติม กรุณาติดต่อ …",
+        "ข้อความนี้หมายถึง …"
+       ]
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

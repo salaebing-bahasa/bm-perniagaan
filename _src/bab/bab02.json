@@ -1,0 +1,939 @@
+{
+ "chapter": 2,
+ "title_ms": "Memperkenalkan Diri dalam Konteks Perniagaan",
+ "title_th": "การแนะนำตนเองในบริบทธุรกิจ",
+ "meta": [
+  [
+   "**Kursus**",
+   [
+    "1503250 Bahasa Melayu untuk Perniagaan",
+    "1503250 ภาษามลายูเพื่อธุรกิจ (3 หน่วยกิต)"
+   ]
+  ],
+  [
+   "**Minggu**",
+   [
+    "Kelas 2 · Semester 2/2569",
+    "คาบที่ 2 · ภาคเรียนที่ 2/2569 · วันพฤหัสบดี 08.00–12.10 น. ห้อง 17401"
+   ]
+  ],
+  [
+   "**Masa**",
+   [
+    "4 jam (teori 2 jam, amali 2 jam)",
+    "4 ชั่วโมง (ทฤษฎี 2 ชั่วโมง ปฏิบัติ 2 ชั่วโมง)"
+   ]
+  ],
+  [
+   "**Pelajar**",
+   [
+    "Tahun 2, Pengurusan Logistik (30 orang) · tiada asas bahasa Melayu",
+    "นิสิตชั้นปีที่ 2 วิชาเอกการจัดการโลจิสติกส์ 30 คน · ยังไม่มีพื้นฐานภาษามลายู"
+   ]
+  ],
+  [
+   "**CLO**",
+   [
+    "CLO2, CLO4",
+    "CLO2 มีทักษะการใช้ภาษามลายู ฟัง พูด อ่าน เพื่อการสื่อสารในธุรกิจ · CLO4 แสดงออกถึงคุณค่าในการสื่อสารภาษามลายู กล้าแสดงออก"
+   ]
+  ],
+  [
+   "**Pengajar**",
+   [
+    "Asst. Prof. Muhammad Salaebing",
+    "ผศ.มูหำหมัด สาแลบิง"
+   ]
+  ]
+ ],
+ "sections": [
+  {
+   "ms": "1. Hasil Pembelajaran",
+   "th": "จุดประสงค์การเรียนรู้",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Pada akhir kelas ini, pelajar dapat:",
+     "th": "เมื่อจบคาบเรียนนี้ นิสิตสามารถ"
+    },
+    {
+     "t": "bullets",
+     "items": [
+      [
+       "Menggunakan kata ganti nama diri saya, anda, kami dan kita dengan betul.",
+       "ใช้คำสรรพนาม saya, anda, kami และ kita ได้ถูกต้อง (CLO2)"
+      ],
+      [
+       "Memperkenalkan diri dengan menyatakan nama, asal, jawatan dan tempat kerja.",
+       "แนะนำตนเองโดยบอกชื่อ ภูมิลำเนา ตำแหน่งงาน และที่ทำงานได้ (CLO2)"
+      ],
+      [
+       "Bertanya nama, asal, pekerjaan dan tempat kerja orang lain.",
+       "ถามชื่อ ภูมิลำเนา อาชีพ และที่ทำงานของผู้อื่นได้ (CLO2)"
+      ],
+      [
+       "Membaca kad nama dan mengenal pasti maklumat penting.",
+       "อ่านนามบัตรและระบุข้อมูลสำคัญได้ (CLO2)"
+      ],
+      [
+       "Memperkenalkan diri di hadapan kelas dengan yakin.",
+       "แนะนำตนเองหน้าชั้นเรียนได้อย่างมั่นใจ (CLO4)"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "2. Ulang Kaji Bab 1",
+   "th": "ทบทวนบทที่ 1",
+   "blocks": [
+    {
+     "t": "box",
+     "lines": [
+      [
+       "Selamat pagi. · Apa khabar? · Khabar baik. · Terima kasih. · Sama-sama. · Encik / Puan / Cik",
+       false,
+       40
+      ],
+      [
+       "บทนี้ใช้วลีทักทายและคำเรียกขานจากบทที่ 1 ต่อ นิสิตควรทักทายก่อนแนะนำตัวทุกครั้ง",
+       true,
+       0
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "3. Kata Ganti Nama Diri",
+   "th": "คำสรรพนามบุคคล",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Dalam situasi perniagaan, gunakan kata ganti nama yang sopan.",
+     "th": "ในสถานการณ์ทางธุรกิจ ให้ใช้คำสรรพนามที่สุภาพ"
+    },
+    {
+     "t": "table",
+     "w": [
+      1700,
+      2700,
+      4960
+     ],
+     "head": [
+      "Kata",
+      "ความหมาย",
+      "Contoh ayat · ตัวอย่าง"
+     ],
+     "rows": [
+      [
+       "saya",
+       "ฉัน ผม ดิฉัน",
+       [
+        "Nama saya Hakim.",
+        "ผมชื่อฮากิม"
+       ]
+      ],
+      [
+       "anda",
+       "คุณ (สุภาพ)",
+       [
+        "Siapa nama anda?",
+        "คุณชื่ออะไร"
+       ]
+      ],
+      [
+       "kami",
+       "เรา (ไม่รวมผู้ฟัง)",
+       [
+        "Kami dari Thailand.",
+        "พวกเรามาจากประเทศไทย (ผู้ฟังไม่ได้มาจากไทยด้วย)"
+       ]
+      ],
+      [
+       "kita",
+       "เรา (รวมผู้ฟังด้วย)",
+       [
+        "Kita kawan.",
+        "เราเป็นเพื่อนกัน (ทั้งผู้พูดและผู้ฟัง)"
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "box",
+     "lines": [
+      [
+       "**Kami atau kita?**",
+       false,
+       20
+      ],
+      [
+       "**kami** = ผู้พูดและพวก ไม่รวมคนที่เราคุยด้วย เช่น พูดกับลูกค้าว่า Syarikat kami (บริษัทของเรา ซึ่งไม่ใช่ของลูกค้า)",
+       true,
+       40
+      ],
+      [
+       "**kita** = ผู้พูดและผู้ฟังรวมกัน เช่น พูดกับเพื่อนร่วมทีมว่า Kita kawan.",
+       true,
+       40
+      ],
+      [
+       "Elakkan \"aku\" dan \"kamu\" dalam situasi perniagaan.",
+       false,
+       20
+      ],
+      [
+       "หลีกเลี่ยงคำว่า aku (ฉัน) และ kamu (เธอ) ในงานธุรกิจ เพราะเป็นคำที่ใช้กับคนสนิท",
+       true,
+       0
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "4. Struktur Ayat Memperkenalkan Diri",
+   "th": "โครงสร้างประโยคแนะนำตนเอง",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      3300,
+      3000,
+      3060
+     ],
+     "head": [
+      "Struktur · โครงสร้าง",
+      "Contoh",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "Nama saya + nama",
+       "Nama saya Hakim.",
+       "ผมชื่อฮากิม"
+      ],
+      [
+       "Saya dari + tempat",
+       "Saya dari Hat Yai, Thailand.",
+       "ผมมาจากหาดใหญ่ ประเทศไทย"
+      ],
+      [
+       "Saya + jawatan",
+       "Saya pegawai logistik.",
+       "ผมเป็นเจ้าหน้าที่โลจิสติกส์"
+      ],
+      [
+       "Saya bekerja di + tempat",
+       "Saya bekerja di Syarikat ABC.",
+       "ผมทำงานที่บริษัท ABC"
+      ],
+      [
+       "Gembira berkenalan dengan anda.",
+       "",
+       "ยินดีที่ได้รู้จักคุณ"
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Nota: Bahasa Melayu tidak memerlukan kata \"adalah\" dalam ayat seperti \"Saya pegawai logistik.\"",
+     "th": "หมายเหตุ: ภาษามลายูไม่ต้องใช้คำที่แปลว่า \"เป็น\" ในประโยคแบบนี้ พูดเพียง Saya pegawai logistik. ก็ได้ความว่า ผมเป็นเจ้าหน้าที่โลจิสติกส์"
+    },
+    {
+     "t": "h2",
+     "ms": "Soalan",
+     "th": "คำถามสำหรับถามผู้อื่น"
+    },
+    {
+     "t": "table",
+     "w": [
+      3600,
+      2800,
+      2960
+     ],
+     "head": [
+      "Soalan · คำถาม",
+      "ความหมาย",
+      "Jawapan · ตอบ"
+     ],
+     "rows": [
+      [
+       "Siapa nama anda?",
+       "คุณชื่ออะไร",
+       "Nama saya …"
+      ],
+      [
+       "Anda dari mana?",
+       "คุณมาจากไหน",
+       "Saya dari …"
+      ],
+      [
+       "Apa pekerjaan anda?",
+       "คุณทำงานอะไร",
+       "Saya …"
+      ],
+      [
+       "Anda bekerja di mana?",
+       "คุณทำงานที่ไหน",
+       "Saya bekerja di …"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "5. Kosa Kata",
+   "th": "คำศัพท์",
+   "blocks": [
+    {
+     "t": "h2",
+     "ms": "Jawatan dan Pekerjaan",
+     "th": "ตำแหน่งงานและอาชีพ"
+    },
+    {
+     "t": "table",
+     "w": [
+      2300,
+      2380,
+      2300,
+      2380
+     ],
+     "head": [
+      "Bahasa Melayu",
+      "ความหมาย",
+      "Bahasa Melayu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "pelajar",
+       "นิสิต นักเรียน",
+       "pegawai logistik",
+       "เจ้าหน้าที่โลจิสติกส์"
+      ],
+      [
+       "pensyarah",
+       "อาจารย์มหาวิทยาลัย",
+       "pegawai kastam",
+       "เจ้าหน้าที่ศุลกากร"
+      ],
+      [
+       "pengurus",
+       "ผู้จัดการ",
+       "penyelia gudang",
+       "หัวหน้าคลังสินค้า"
+      ],
+      [
+       "pengurus jualan",
+       "ผู้จัดการฝ่ายขาย",
+       "pemandu lori",
+       "คนขับรถบรรทุก"
+      ],
+      [
+       "jurujual",
+       "พนักงานขาย",
+       "akauntan",
+       "นักบัญชี"
+      ],
+      [
+       "kerani",
+       "เสมียน",
+       "jurutera",
+       "วิศวกร"
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Tempat Kerja",
+     "th": "สถานที่ทำงาน"
+    },
+    {
+     "t": "table",
+     "w": [
+      2300,
+      2380,
+      2300,
+      2380
+     ],
+     "head": [
+      "Bahasa Melayu",
+      "ความหมาย",
+      "Bahasa Melayu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "syarikat",
+       "บริษัท",
+       "kilang",
+       "โรงงาน"
+      ],
+      [
+       "pejabat",
+       "สำนักงาน",
+       "bank",
+       "ธนาคาร"
+      ],
+      [
+       "gudang",
+       "คลังสินค้า",
+       "hotel",
+       "โรงแรม"
+      ],
+      [
+       "universiti",
+       "มหาวิทยาลัย",
+       "pelabuhan",
+       "ท่าเรือ"
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Kata Lain",
+     "th": "คำอื่น ๆ"
+    },
+    {
+     "t": "table",
+     "w": [
+      3300,
+      6060
+     ],
+     "head": [
+      "Bahasa Melayu",
+      "ความหมาย"
+     ],
+     "rows": [
+      [
+       "kawan",
+       "เพื่อน"
+      ],
+      [
+       "bekerja",
+       "ทำงาน"
+      ],
+      [
+       "kad nama",
+       "นามบัตร"
+      ],
+      [
+       "Ini kad nama saya.",
+       "นี่คือนามบัตรของผม/ดิฉัน"
+      ],
+      [
+       "Gembira berkenalan dengan anda.",
+       "ยินดีที่ได้รู้จักคุณ"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "6. Membaca Kad Nama",
+   "th": "อ่านนามบัตร",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Kad nama penting dalam perniagaan di Malaysia. Baca kad nama di bawah. (Nama dan syarikat ini rekaan.)",
+     "th": "นามบัตรมีความสำคัญในการทำธุรกิจที่มาเลเซีย อ่านนามบัตรด้านล่าง (ชื่อบุคคลและบริษัทเป็นเรื่องสมมติ)"
+    },
+    {
+     "t": "box",
+     "lines": [
+      [
+       "**SYARIKAT LOGISTIK BINTANG UTARA SDN. BHD.**",
+       false,
+       60
+      ],
+      [
+       "**Ahmad Faiz bin Ismail**",
+       false,
+       20
+      ],
+      [
+       "Pengurus Jualan",
+       false,
+       20
+      ],
+      [
+       "Alor Setar, Kedah, Malaysia",
+       false,
+       0
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Jawab dalam bahasa Thai:",
+     "th": "ตอบเป็นภาษาไทย"
+    },
+    {
+     "t": "bullets",
+     "items": [
+      "1. เจ้าของนามบัตรชื่ออะไร",
+      "2. เขาทำงานตำแหน่งอะไร",
+      "3. เขาทำงานที่บริษัทอะไร เป็นบริษัทประเภทไหน (ดูคำย่อท้ายชื่อบริษัท)",
+      "4. บริษัทอยู่ที่เมืองและรัฐใด"
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "7. Perbualan: Bertukar Kad Nama",
+   "th": "บทสนทนา: แลกนามบัตร",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Aisyah bertemu Encik Faiz di sebuah pameran perdagangan. (Watak dalam perbualan ini rekaan.)",
+     "th": "ไอซยะห์พบกับคุณฟาอิซที่งานแสดงสินค้าแห่งหนึ่ง (ตัวละครเป็นเรื่องสมมติ) บทสนทนานี้ใช้เฉพาะคำและวลีในหัวข้อ 3–5"
+    },
+    {
+     "t": "dialog",
+     "lines": [
+      [
+       "Faiz",
+       "Selamat pagi. Nama saya Faiz. Saya pengurus jualan.",
+       "สวัสดีครับ ผมชื่อฟาอิซ ผมเป็นผู้จัดการฝ่ายขาย"
+      ],
+      [
+       "Aisyah",
+       "Selamat pagi, Encik Faiz. Nama saya Aisyah. Saya pegawai logistik.",
+       "สวัสดีค่ะ คุณฟาอิซ ดิฉันชื่อไอซยะห์ เป็นเจ้าหน้าที่โลจิสติกส์ค่ะ"
+      ],
+      [
+       "Faiz",
+       "Anda dari mana?",
+       "คุณมาจากไหนครับ"
+      ],
+      [
+       "Aisyah",
+       "Saya dari Songkhla, Thailand.",
+       "ดิฉันมาจากสงขลา ประเทศไทยค่ะ"
+      ],
+      [
+       "Faiz",
+       "Ini kad nama saya.",
+       "นี่คือนามบัตรของผมครับ"
+      ],
+      [
+       "Aisyah",
+       "Terima kasih. Gembira berkenalan dengan anda.",
+       "ขอบคุณค่ะ ยินดีที่ได้รู้จักค่ะ"
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Contoh Perkenalan Diri",
+     "th": "ตัวอย่างการแนะนำตนเองหน้าชั้นเรียน"
+    },
+    {
+     "t": "box",
+     "lines": [
+      [
+       "Selamat pagi. Nama saya Hakim. Saya dari Hat Yai, Thailand. Saya pegawai logistik. Saya bekerja di Syarikat ABC. Gembira berkenalan dengan anda.",
+       false,
+       60
+      ],
+      [
+       "สวัสดีครับ ผมชื่อฮากิม ผมมาจากหาดใหญ่ ประเทศไทย ผมเป็นเจ้าหน้าที่โลจิสติกส์ ผมทำงานที่บริษัท ABC ยินดีที่ได้รู้จักครับ",
+       true,
+       0
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "8. Aktiviti Pembelajaran",
+   "th": "กิจกรรมการเรียนรู้",
+   "blocks": [
+    {
+     "t": "table",
+     "w": [
+      700,
+      5360,
+      2200,
+      1100
+     ],
+     "head": [
+      "#",
+      "Aktiviti · กิจกรรม",
+      "Alat · เครื่องมือ",
+      "Minit"
+     ],
+     "rows": [
+      [
+       "1",
+       "แบบทดสอบก่อนเรียน (Ujian Pra) ใช้ข้อสอบในหัวข้อ 12",
+       "Google Forms / ClassPoint",
+       "10"
+      ],
+      [
+       "2",
+       "ทบทวนวลีทักทายบทที่ 1: ครูทักทาย นิสิตตอบทีละคน",
+       "ClassPoint Quick Poll",
+       "10"
+      ],
+      [
+       "3",
+       "คำสรรพนาม saya, anda, kami, kita: อธิบาย แล้วเล่นเกมเลือก kami หรือ kita จากสถานการณ์",
+       "PowerPoint, Kahoot!",
+       "30"
+      ],
+      [
+       "4",
+       "เรียงบัตรคำเป็นประโยคแนะนำตนเองและคำถาม 4 ข้อ (หัวข้อ 4–5)",
+       "ClassPoint Drag & Drop",
+       "30"
+      ],
+      [
+       "5",
+       "งานกลุ่ม: อ่านนามบัตร 3 ใบ แล้วกรอกตารางชื่อ ตำแหน่ง บริษัท เมือง",
+       "ใบงาน / Google Docs",
+       "25"
+      ],
+      [
+       "–",
+       "พัก",
+       "",
+       "10"
+      ],
+      [
+       "6",
+       "ฟังจับใจความ: ครูอ่านการแนะนำตัว 4 คน นิสิตกรอกชื่อ ภูมิลำเนา และตำแหน่ง",
+       "ClassPoint Short Answer",
+       "20"
+      ],
+      [
+       "7",
+       "ออกแบบนามบัตรของตนเองเป็นภาษามลายู (ชื่อ ตำแหน่งสมมติ บริษัทสมมติ เมือง)",
+       "Canva หรือกระดาษ",
+       "20"
+      ],
+      [
+       "8",
+       "Speed Networking: เดินแลกนามบัตรและแนะนำตัวกับเพื่อนอย่างน้อย 5 คน ด้วยบทสนทนาหัวข้อ 7 แล้วจดข้อมูลเพื่อน",
+       "นามบัตรจากกิจกรรม 7",
+       "40"
+      ],
+      [
+       "9",
+       "อาสาสมัคร 5 คนแนะนำตัวหน้าชั้นเรียน · แบบทดสอบหลังเรียน (ข้อสอบชุดเดียวกับหัวข้อ 12) · Exit Ticket",
+       "Google Forms / ClassPoint",
+       "25"
+      ],
+      [
+       "",
+       "**รวม**",
+       "",
+       "**220**"
+      ]
+     ],
+     "size": 28
+    }
+   ]
+  },
+  {
+   "ms": "9. Latihan",
+   "th": "แบบฝึกหัด",
+   "blocks": [
+    {
+     "t": "h2",
+     "ms": "Latihan A: Pilih saya, anda, kami atau kita",
+     "th": "เลือกคำสรรพนามให้ถูกต้อง"
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      8660
+     ],
+     "rows": [
+      [
+       "1",
+       [
+        "Siapa nama ______?",
+        "(ถามชื่อลูกค้าอย่างสุภาพ)"
+       ]
+      ],
+      [
+       "2",
+       [
+        "Nama ______ Aisyah.",
+        "(ไอซยะห์แนะนำตัวเอง)"
+       ]
+      ],
+      [
+       "3",
+       [
+        "Syarikat ______ di Songkhla.",
+        "(พูดกับลูกค้าชาวมาเลเซีย เรื่องบริษัทของตนเอง)"
+       ]
+      ],
+      [
+       "4",
+       [
+        "______ kawan.",
+        "(พูดกับเพื่อนว่า เราเป็นเพื่อนกัน)"
+       ]
+      ],
+      [
+       "5",
+       [
+        "______ dari mana?",
+        "(ถามลูกค้าว่ามาจากไหน)"
+       ]
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan B: Susun Ayat",
+     "th": "เรียงคำเป็นประโยค"
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      8660
+     ],
+     "rows": [
+      [
+       "1",
+       "saya / Faiz / nama"
+      ],
+      [
+       "2",
+       "dari / saya / Thailand"
+      ],
+      [
+       "3",
+       "bekerja / saya / di / kilang"
+      ],
+      [
+       "4",
+       "pekerjaan / apa / anda / ?"
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan C: Padankan Soalan dan Jawapan",
+     "th": "จับคู่คำถามกับคำตอบ"
+    },
+    {
+     "t": "table",
+     "w": [
+      4680,
+      4680
+     ],
+     "head": [
+      "Soalan",
+      "Jawapan"
+     ],
+     "rows": [
+      [
+       "1. Siapa nama anda?  ____",
+       "ก. Saya dari Yala."
+      ],
+      [
+       "2. Anda dari mana?  ____",
+       "ข. Saya bekerja di pelabuhan."
+      ],
+      [
+       "3. Apa pekerjaan anda?  ____",
+       "ค. Nama saya Nurul."
+      ],
+      [
+       "4. Anda bekerja di mana?  ____",
+       "ง. Saya pegawai kastam."
+      ]
+     ]
+    },
+    {
+     "t": "h2",
+     "ms": "Latihan D: Perkenalkan Diri",
+     "th": "เขียนแนะนำตนเอง"
+    },
+    {
+     "t": "bi",
+     "ms": "Tulis 5 ayat: salam, nama, asal, jawatan dan tempat kerja (boleh rekaan). Kemudian sebut di hadapan kelas.",
+     "th": "เขียน 5 ประโยค ได้แก่ คำทักทาย ชื่อ ภูมิลำเนา ตำแหน่งงาน และที่ทำงาน (สมมติได้) แล้วฝึกพูดหน้าชั้นเรียน"
+    },
+    {
+     "t": "p",
+     "text": "__________________________________________________"
+    },
+    {
+     "t": "p",
+     "text": "__________________________________________________"
+    },
+    {
+     "t": "p",
+     "text": "__________________________________________________",
+     "after": 200
+    }
+   ]
+  },
+  {
+   "ms": "10. Jawapan",
+   "th": "เฉลยแบบฝึกหัด",
+   "blocks": [
+    {
+     "t": "bullets",
+     "items": [
+      "**Kad nama (หัวข้อ 6):** 1. Ahmad Faiz bin Ismail 2. ผู้จัดการฝ่ายขาย (Pengurus Jualan) 3. Syarikat Logistik Bintang Utara เป็นบริษัทจำกัด (Sdn. Bhd.) 4. เมืองอลอร์สตาร์ รัฐเคดะห์",
+      "**Latihan A:** 1. anda 2. saya 3. kami 4. Kita 5. Anda",
+      "**Latihan B:** 1. Nama saya Faiz. 2. Saya dari Thailand. 3. Saya bekerja di kilang. 4. Apa pekerjaan anda?",
+      "**Latihan C:** 1-ค, 2-ก, 3-ง, 4-ข",
+      "**Latihan D (contoh):** Selamat pagi. Nama saya Nurul. Saya dari Pattani, Thailand. Saya akauntan. Saya bekerja di Syarikat ABC."
+     ]
+    }
+   ]
+  },
+  {
+   "ms": "11. Rumusan",
+   "th": "สรุปบท",
+   "blocks": [
+    {
+     "t": "box",
+     "lines": [
+      [
+       "Dalam perniagaan, gunakan saya dan anda supaya sopan. Kami tidak termasuk pendengar; kita termasuk pendengar. Untuk memperkenalkan diri, nyatakan nama, asal, jawatan dan tempat kerja. Akhiri dengan \"Gembira berkenalan dengan anda.\"",
+       false,
+       80
+      ],
+      [
+       "ในงานธุรกิจ ให้ใช้ saya และ anda เพื่อความสุภาพ kami คือเราที่ไม่รวมผู้ฟัง ส่วน kita คือเราที่รวมผู้ฟัง การแนะนำตนเองให้บอกชื่อ ภูมิลำเนา ตำแหน่งงาน และที่ทำงาน แล้วปิดท้ายด้วย Gembira berkenalan dengan anda.",
+       true,
+       0
+      ]
+     ]
+    },
+    {
+     "t": "bi",
+     "ms": "Kelas seterusnya: Nombor, wang, harga, hari, bulan dan masa (Kelas 3).",
+     "th": "คาบถัดไป: ตัวเลข เงิน ราคา วัน เดือน และเวลา (คาบที่ 3) ให้นิสิตนำนามบัตรที่ทำในคาบนี้มาด้วย"
+    },
+    {
+     "t": "pagebreak"
+    }
+   ]
+  },
+  {
+   "ms": "12. Ujian Pra dan Ujian Pasca",
+   "th": "แบบทดสอบก่อนเรียนและหลังเรียน",
+   "blocks": [
+    {
+     "t": "bi",
+     "ms": "Gunakan ujian ini sebelum kelas (ujian pra) dan selepas kelas (ujian pasca). Pilih satu jawapan yang paling tepat.",
+     "th": "ใช้แบบทดสอบชุดนี้ทั้งก่อนเรียนและหลังเรียน 10 ข้อ ข้อละ 1 คะแนน เวลา 10 นาที วัด CLO2 ทุกข้อ"
+    },
+    {
+     "t": "p",
+     "text": "**Jawapan / เฉลย (untuk pengajar · สำหรับผู้สอน):** 1-B · 2-D · 3-A · 4-B · 5-C · 6-A · 7-C · 8-D · 9-B · 10-D",
+     "after": 120
+    },
+    {
+     "t": "table",
+     "w": [
+      700,
+      8660
+     ],
+     "head": [
+      "#",
+      "Soalan · คำถาม"
+     ],
+     "size": 26,
+     "rows": [
+      [
+       "1",
+       [
+        "\"Saya\" bermaksud …",
+        "A. คุณ   B. ฉัน/ผม   C. เรา   D. เขา",
+        "คำว่า \"saya\" หมายถึง …"
+       ]
+      ],
+      [
+       "2",
+       [
+        "Kata ganti nama yang sopan untuk \"คุณ\" ialah …",
+        "A. kamu   B. aku   C. kami   D. anda",
+        "คำสรรพนามที่สุภาพสำหรับ \"คุณ\" คือ …"
+       ]
+      ],
+      [
+       "3",
+       [
+        "\"เรา\" yang termasuk pendengar ialah …",
+        "A. kita   B. kami   C. saya   D. anda",
+        "คำว่า \"เรา\" ที่รวมผู้ฟังด้วยคือ …"
+       ]
+      ],
+      [
+       "4",
+       [
+        "Kepada pelanggan: \"Syarikat ___ di Songkhla.\"",
+        "A. kita   B. kami   C. anda   D. aku",
+        "พูดกับลูกค้าเรื่องบริษัทของตนเอง ควรเติมคำใด"
+       ]
+      ],
+      [
+       "5",
+       [
+        "Soalan untuk bertanya nama dengan sopan ialah …",
+        "A. Apa khabar?   B. Anda dari mana?   C. Siapa nama anda?   D. Terima kasih.",
+        "คำถามที่ใช้ถามชื่ออย่างสุภาพคือ …"
+       ]
+      ],
+      [
+       "6",
+       [
+        "Jawapan untuk \"Anda dari mana?\" ialah …",
+        "A. Saya dari Thailand.   B. Nama saya Ali.   C. Khabar baik.   D. Sama-sama.",
+        "คำตอบที่เหมาะสมกับคำถาม \"Anda dari mana?\" คือ …"
+       ]
+      ],
+      [
+       "7",
+       [
+        "\"Pengurus\" bermaksud …",
+        "A. พนักงานขาย   B. คนขับรถ   C. ผู้จัดการ   D. นิสิต",
+        "คำว่า \"pengurus\" หมายถึง …"
+       ]
+      ],
+      [
+       "8",
+       [
+        "\"Saya bekerja di kilang.\" Kilang bermaksud …",
+        "A. ธนาคาร   B. สำนักงาน   C. โรงแรม   D. โรงงาน",
+        "คำว่า \"kilang\" หมายถึง …"
+       ]
+      ],
+      [
+       "9",
+       [
+        "\"Gembira berkenalan dengan anda\" digunakan untuk …",
+        "A. ขอโทษ   B. บอกว่ายินดีที่ได้รู้จัก   C. ลาจากกัน   D. ขอบคุณ",
+        "ประโยคนี้ใช้เพื่อ …"
+       ]
+      ],
+      [
+       "10",
+       [
+        "Ayat yang betul ialah …",
+        "A. Saya nama Ali.   B. Ali saya nama.   C. Nama Ali saya.   D. Nama saya Ali.",
+        "ประโยคที่ถูกต้องคือ …"
+       ]
+      ]
+     ],
+     "after": 60
+    }
+   ]
+  }
+ ]
+}
